@@ -18,7 +18,7 @@ load_dotenv()
 class DocumentEngine:
     """Engine for parsing and storing documents in vector database"""
     
-    def __init__(self, chat_id: str, chunk_size: int = 1000, chunk_overlap: int = 200):
+    def __init__(self, chat_id: str, chunk_size: int = 450, chunk_overlap: int = 50):
         """
         Initialize DocumentEngine
         

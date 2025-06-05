@@ -261,3 +261,248 @@
 2025-06-05 20:18:18,772 - DEBUG - Collection 'market_data_collection' exists
 2025-06-05 20:18:18,772 - DEBUG - Collection 'market_data_collection' exists
 2025-06-05 20:18:19,172 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'technical indicator of apple stock'
+2025-06-05 22:00:35,190 - INFO - Initialized vector DB for chat_id: 1749140586138 in ./financial_documents_db/1749140586138
+2025-06-05 22:00:35,190 - INFO - Processing PDF for chat_id 1749140586138: Walmart 2025 Annual Report.pdf
+2025-06-05 22:00:35,190 - INFO - Starting to parse PDF for chat_id 1749140586138: uploads\1749140586138\Walmart 2025 Annual Report.pdf
+2025-06-05 22:01:48,440 - INFO - Successfully parsed PDF for chat_id 1749140586138: uploads\1749140586138\Walmart 2025 Annual Report.pdf
+2025-06-05 22:01:48,471 - INFO - Created 665 document chunks for chat_id 1749140586138
+2025-06-05 22:01:51,624 - ERROR - Error updating documents: [400] Bad Request
+Input length 632 exceeds maximum allowed token size 512
+2025-06-05 22:01:51,624 - ERROR - Error processing PDF uploads\1749140586138\Walmart 2025 Annual Report.pdf for chat_id 1749140586138: [400] Bad Request
+Input length 632 exceeds maximum allowed token size 512
+2025-06-05 22:03:54,590 - INFO - Initialized vector DB for chat_id: 1749140586138 in ./financial_documents_db/1749140586138
+2025-06-05 22:03:54,590 - INFO - Querying collection: financial_documents_collection_1749140586138 for chat_id: 1749140586138
+2025-06-05 22:03:54,590 - DEBUG - Collection 'financial_documents_collection_1749140586138' exists
+2025-06-05 22:03:55,157 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_1749140586138' for query: 'What were Walmart's total revenues for fiscal year 2025, and what was the percentage change from the previous fiscal year (fiscal 2024)?'
+2025-06-05 22:03:55,208 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:03:55,208 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:03:55,826 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'What were Walmart's total revenues for fiscal year 2025, and what was the percentage change from the previous fiscal year (fiscal 2024)?'
+2025-06-05 22:07:16,499 - INFO - Initialized vector DB for chat_id: 1749141423424 in ./financial_documents_db/1749141423424
+2025-06-05 22:07:16,499 - INFO - Processing PDF for chat_id 1749141423424: Walmart 2025 Annual Report.pdf
+2025-06-05 22:07:16,514 - INFO - Starting to parse PDF for chat_id 1749141423424: uploads\1749141423424\Walmart 2025 Annual Report.pdf
+2025-06-05 22:07:32,647 - INFO - Successfully parsed PDF for chat_id 1749141423424: uploads\1749141423424\Walmart 2025 Annual Report.pdf
+2025-06-05 22:07:32,698 - INFO - Created 1478 document chunks for chat_id 1749141423424
+2025-06-05 22:07:38,611 - ERROR - Error updating documents: [400] Bad Request
+Input length 515 exceeds maximum allowed token size 512
+2025-06-05 22:07:38,611 - ERROR - Error processing PDF uploads\1749141423424\Walmart 2025 Annual Report.pdf for chat_id 1749141423424: [400] Bad Request
+Input length 515 exceeds maximum allowed token size 512
+2025-06-05 22:12:03,207 - INFO - Initialized vector DB for chat_id: 1749141423424 in ./financial_documents_db/1749141423424
+2025-06-05 22:12:03,207 - INFO - Querying collection: financial_documents_collection_1749141423424 for chat_id: 1749141423424
+2025-06-05 22:12:03,207 - DEBUG - Collection 'financial_documents_collection_1749141423424' exists
+2025-06-05 22:12:04,141 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_1749141423424' for query: 'What were Walmart's total revenues for fiscal year 2025, and what was the percentage change from the previous fiscal year (fiscal 2024)?'
+2025-06-05 22:12:04,175 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:12:04,175 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:12:04,808 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'What were Walmart's total revenues for fiscal year 2025, and what was the percentage change from the previous fiscal year (fiscal 2024)?'
+2025-06-05 22:15:14,422 - INFO - Initialized vector DB for chat_id: 1749141910434 in ./financial_documents_db/1749141910434
+2025-06-05 22:15:14,423 - INFO - Processing PDF for chat_id 1749141910434: Walmart 2025 Annual Report.pdf
+2025-06-05 22:15:14,424 - INFO - Starting to parse PDF for chat_id 1749141910434: uploads\1749141910434\Walmart 2025 Annual Report.pdf
+2025-06-05 22:15:37,353 - INFO - Successfully parsed PDF for chat_id 1749141910434: uploads\1749141910434\Walmart 2025 Annual Report.pdf
+2025-06-05 22:15:37,412 - INFO - Created 1478 document chunks for chat_id 1749141910434
+2025-06-05 22:16:10,727 - DEBUG - Successfully updated 1478 documents in financial_documents_collection_1749141910434
+2025-06-05 22:16:10,727 - INFO - Successfully processed and stored PDF for chat_id 1749141910434: Walmart 2025 Annual Report.pdf
+2025-06-05 22:16:24,496 - INFO - Initialized vector DB for chat_id: 1749141910434 in ./financial_documents_db/1749141910434
+2025-06-05 22:16:24,497 - INFO - Querying collection: financial_documents_collection_1749141910434 for chat_id: 1749141910434
+2025-06-05 22:16:24,499 - DEBUG - Collection 'financial_documents_collection_1749141910434' exists
+2025-06-05 22:16:25,007 - INFO - Retrieved 5 documents from collection 'financial_documents_collection_1749141910434' for query: 'What were Walmart's total revenues for fiscal year 2025, and what was the percentage change from the previous fiscal year (fiscal 2024)?'
+2025-06-05 22:16:25,043 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:16:25,045 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:16:25,556 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'What were Walmart's total revenues for fiscal year 2025, and what was the percentage change from the previous fiscal year (fiscal 2024)?'
+2025-06-05 22:17:48,513 - INFO - Initialized vector DB for chat_id: 1749141910434 in ./financial_documents_db/1749141910434
+2025-06-05 22:17:48,514 - INFO - Querying collection: financial_documents_collection_1749141910434 for chat_id: 1749141910434
+2025-06-05 22:17:48,515 - DEBUG - Collection 'financial_documents_collection_1749141910434' exists
+2025-06-05 22:17:49,576 - INFO - Retrieved 5 documents from collection 'financial_documents_collection_1749141910434' for query: 'What were Walmart's total revenues for fiscal year 2025, and what was the percentage change from the previous fiscal year (fiscal 2024)?'
+2025-06-05 22:17:49,617 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:17:49,619 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:17:50,195 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'What were Walmart's total revenues for fiscal year 2025, and what was the percentage change from the previous fiscal year (fiscal 2024)?'
+2025-06-05 22:27:36,708 - INFO - Initialized vector DB for chat_id: 1749142649760 in ./financial_documents_db/1749142649760
+2025-06-05 22:27:36,710 - INFO - Processing PDF for chat_id 1749142649760: Walmart 2025 Annual Report.pdf
+2025-06-05 22:27:36,712 - INFO - Starting to parse PDF for chat_id 1749142649760: uploads\1749142649760\Walmart 2025 Annual Report.pdf
+2025-06-05 22:27:54,981 - INFO - Successfully parsed PDF for chat_id 1749142649760: uploads\1749142649760\Walmart 2025 Annual Report.pdf
+2025-06-05 22:27:55,048 - INFO - Created 1471 document chunks for chat_id 1749142649760
+2025-06-05 22:28:29,777 - DEBUG - Successfully updated 1471 documents in financial_documents_collection_1749142649760
+2025-06-05 22:28:29,777 - INFO - Successfully processed and stored PDF for chat_id 1749142649760: Walmart 2025 Annual Report.pdf
+2025-06-05 22:28:56,172 - INFO - Initialized vector DB for chat_id: 1749142649760 in ./financial_documents_db/1749142649760
+2025-06-05 22:28:56,173 - INFO - Querying collection: financial_documents_collection_1749142649760 for chat_id: 1749142649760
+2025-06-05 22:28:56,176 - DEBUG - Collection 'financial_documents_collection_1749142649760' exists
+2025-06-05 22:28:56,690 - INFO - Retrieved 5 documents from collection 'financial_documents_collection_1749142649760' for query: 'What were Walmart's total revenues for fiscal year 2025, and what was the percentage change from the previous fiscal year (fiscal 2024)?'
+2025-06-05 22:28:56,740 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:28:56,741 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:28:57,372 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'What were Walmart's total revenues for fiscal year 2025, and what was the percentage change from the previous fiscal year (fiscal 2024)?'
+2025-06-05 22:32:24,968 - INFO - Initialized vector DB for chat_id: 1749142649760 in ./financial_documents_db/1749142649760
+2025-06-05 22:32:24,969 - INFO - Querying collection: financial_documents_collection_1749142649760 for chat_id: 1749142649760
+2025-06-05 22:32:24,971 - DEBUG - Collection 'financial_documents_collection_1749142649760' exists
+2025-06-05 22:32:25,614 - INFO - Retrieved 20 documents from collection 'financial_documents_collection_1749142649760' for query: 'What were Walmart's total revenues for fiscal year 2025, and what was the percentage change from the previous fiscal year (fiscal 2024)?'
+2025-06-05 22:32:25,649 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:32:25,650 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:32:26,189 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'What were Walmart's total revenues for fiscal year 2025, and what was the percentage change from the previous fiscal year (fiscal 2024)?'
+2025-06-05 22:37:17,733 - INFO - Initialized vector DB for chat_id: 1749142649760 in ./financial_documents_db/1749142649760
+2025-06-05 22:37:17,733 - INFO - Querying collection: financial_documents_collection_1749142649760 for chat_id: 1749142649760
+2025-06-05 22:37:17,734 - DEBUG - Collection 'financial_documents_collection_1749142649760' exists
+2025-06-05 22:37:18,771 - INFO - Retrieved 20 documents from collection 'financial_documents_collection_1749142649760' for query: 'what is the stock price of apple?'
+2025-06-05 22:37:18,796 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:37:18,797 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:37:19,245 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'what is the stock price of apple?'
+2025-06-05 22:42:56,226 - DEBUG - Successfully updated 5 documents in market_data_collection
+2025-06-05 22:43:16,491 - INFO - Initialized vector DB for chat_id: 1749143437852 in ./financial_documents_db/1749143437852
+2025-06-05 22:43:16,492 - INFO - Querying collection: financial_documents_collection_1749143437852 for chat_id: 1749143437852
+2025-06-05 22:43:16,494 - DEBUG - Collection 'financial_documents_collection_1749143437852' exists
+2025-06-05 22:43:17,100 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_1749143437852' for query: 'what is the stock price of apple?'
+2025-06-05 22:43:17,128 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:43:17,129 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:43:17,629 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'what is the stock price of apple?'
+2025-06-05 22:43:33,183 - INFO - Initialized vector DB for chat_id: 1749143437852 in ./financial_documents_db/1749143437852
+2025-06-05 22:43:33,184 - INFO - Querying collection: financial_documents_collection_1749143437852 for chat_id: 1749143437852
+2025-06-05 22:43:33,185 - DEBUG - Collection 'financial_documents_collection_1749143437852' exists
+2025-06-05 22:43:33,662 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_1749143437852' for query: 'technical indicators of apple stock'
+2025-06-05 22:43:33,694 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:43:33,696 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:43:34,140 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'technical indicators of apple stock'
+2025-06-05 22:43:48,988 - INFO - Initialized vector DB for chat_id: 1749143437852 in ./financial_documents_db/1749143437852
+2025-06-05 22:43:48,988 - INFO - Querying collection: financial_documents_collection_1749143437852 for chat_id: 1749143437852
+2025-06-05 22:43:48,990 - DEBUG - Collection 'financial_documents_collection_1749143437852' exists
+2025-06-05 22:43:49,962 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_1749143437852' for query: 'price of bitcoin'
+2025-06-05 22:43:49,993 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:43:49,994 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:43:50,547 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'price of bitcoin'
+2025-06-05 22:44:12,647 - INFO - Initialized vector DB for chat_id: 1749143437852 in ./financial_documents_db/1749143437852
+2025-06-05 22:44:12,648 - INFO - Querying collection: financial_documents_collection_1749143437852 for chat_id: 1749143437852
+2025-06-05 22:44:12,650 - DEBUG - Collection 'financial_documents_collection_1749143437852' exists
+2025-06-05 22:44:13,357 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_1749143437852' for query: 'technical indicators for bitcoin'
+2025-06-05 22:44:13,386 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:44:13,387 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:44:13,883 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'technical indicators for bitcoin'
+2025-06-05 22:46:37,578 - INFO - Initialized vector DB for chat_id: 1749143789087 in ./financial_documents_db/1749143789087
+2025-06-05 22:46:37,579 - INFO - Processing PDF for chat_id 1749143789087: Amazon-2024-Annual-Report-61-70.pdf
+2025-06-05 22:46:37,580 - INFO - Starting to parse PDF for chat_id 1749143789087: uploads\1749143789087\Amazon-2024-Annual-Report-61-70.pdf
+2025-06-05 22:47:21,981 - INFO - Successfully parsed PDF for chat_id 1749143789087: uploads\1749143789087\Amazon-2024-Annual-Report-61-70.pdf
+2025-06-05 22:47:21,986 - INFO - Created 132 document chunks for chat_id 1749143789087
+2025-06-05 22:47:28,172 - DEBUG - Successfully updated 132 documents in financial_documents_collection_1749143789087
+2025-06-05 22:47:28,172 - INFO - Successfully processed and stored PDF for chat_id 1749143789087: Amazon-2024-Annual-Report-61-70.pdf
+2025-06-05 22:47:45,280 - INFO - Initialized vector DB for chat_id: 1749143789087 in ./financial_documents_db/1749143789087
+2025-06-05 22:47:45,280 - INFO - Querying collection: financial_documents_collection_1749143789087 for chat_id: 1749143789087
+2025-06-05 22:47:45,282 - DEBUG - Collection 'financial_documents_collection_1749143789087' exists
+2025-06-05 22:47:45,828 - INFO - Retrieved 20 documents from collection 'financial_documents_collection_1749143789087' for query: 'What was the company's total long-term debt as of December 31, 2024?'
+2025-06-05 22:47:45,859 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:47:45,860 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:47:46,276 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'What was the company's total long-term debt as of December 31, 2024?'
+2025-06-05 22:48:45,593 - INFO - Initialized vector DB for chat_id: 1749143789087 in ./financial_documents_db/1749143789087
+2025-06-05 22:48:45,594 - INFO - Querying collection: financial_documents_collection_1749143789087 for chat_id: 1749143789087
+2025-06-05 22:48:45,594 - DEBUG - Collection 'financial_documents_collection_1749143789087' exists
+2025-06-05 22:48:46,076 - INFO - Retrieved 20 documents from collection 'financial_documents_collection_1749143789087' for query: 'What was the net property and equipment value as of December 31, 2024?'
+2025-06-05 22:48:46,110 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:48:46,111 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:48:46,561 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'What was the net property and equipment value as of December 31, 2024?'
+2025-06-05 22:50:54,038 - DEBUG - Successfully updated 5 documents in market_data_collection
+2025-06-05 22:51:05,997 - INFO - Initialized vector DB for chat_id: 1749144027284 in ./financial_documents_db/1749144027284
+2025-06-05 22:51:05,998 - INFO - Querying collection: financial_documents_collection_1749144027284 for chat_id: 1749144027284
+2025-06-05 22:51:05,999 - DEBUG - Collection 'financial_documents_collection_1749144027284' exists
+2025-06-05 22:51:06,463 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_1749144027284' for query: 'stock price of apple'
+2025-06-05 22:51:06,490 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:51:06,491 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:51:06,958 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'stock price of apple'
+2025-06-05 22:51:25,953 - INFO - Initialized vector DB for chat_id: 1749144027284 in ./financial_documents_db/1749144027284
+2025-06-05 22:51:25,954 - INFO - Querying collection: financial_documents_collection_1749144027284 for chat_id: 1749144027284
+2025-06-05 22:51:25,956 - DEBUG - Collection 'financial_documents_collection_1749144027284' exists
+2025-06-05 22:51:26,480 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_1749144027284' for query: 'technical indicator of apple stock price'
+2025-06-05 22:51:26,511 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:51:26,512 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:51:26,997 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'technical indicator of apple stock price'
+2025-06-05 22:51:54,595 - INFO - Initialized vector DB for chat_id: 1749144027284 in ./financial_documents_db/1749144027284
+2025-06-05 22:51:54,595 - INFO - Querying collection: financial_documents_collection_1749144027284 for chat_id: 1749144027284
+2025-06-05 22:51:54,596 - DEBUG - Collection 'financial_documents_collection_1749144027284' exists
+2025-06-05 22:51:55,250 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_1749144027284' for query: 'current price of bitcoin'
+2025-06-05 22:51:55,273 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:51:55,273 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:51:55,793 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'current price of bitcoin'
+2025-06-05 22:52:18,714 - INFO - Initialized vector DB for chat_id: 1749144027284 in ./financial_documents_db/1749144027284
+2025-06-05 22:52:18,715 - INFO - Processing PDF for chat_id 1749144027284: Walmart 2025 Annual Report.pdf
+2025-06-05 22:52:18,715 - INFO - Starting to parse PDF for chat_id 1749144027284: uploads\1749144027284\Walmart 2025 Annual Report.pdf
+2025-06-05 22:52:40,694 - INFO - Successfully parsed PDF for chat_id 1749144027284: uploads\1749144027284\Walmart 2025 Annual Report.pdf
+2025-06-05 22:52:40,766 - INFO - Created 1471 document chunks for chat_id 1749144027284
+2025-06-05 22:53:19,565 - DEBUG - Successfully updated 1471 documents in financial_documents_collection_1749144027284
+2025-06-05 22:53:19,566 - INFO - Successfully processed and stored PDF for chat_id 1749144027284: Walmart 2025 Annual Report.pdf
+2025-06-05 22:53:43,586 - INFO - Initialized vector DB for chat_id: 1749144027284 in ./financial_documents_db/1749144027284
+2025-06-05 22:53:43,587 - INFO - Querying collection: financial_documents_collection_1749144027284 for chat_id: 1749144027284
+2025-06-05 22:53:43,588 - DEBUG - Collection 'financial_documents_collection_1749144027284' exists
+2025-06-05 22:53:44,045 - INFO - Retrieved 20 documents from collection 'financial_documents_collection_1749144027284' for query: 'What was the company's total long-term debt as of December 31, 2024?'
+2025-06-05 22:53:44,067 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:53:44,068 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:53:44,493 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'What was the company's total long-term debt as of December 31, 2024?'
+2025-06-05 22:54:36,959 - INFO - Initialized vector DB for chat_id: 1749144027284 in ./financial_documents_db/1749144027284
+2025-06-05 22:54:36,959 - INFO - Querying collection: financial_documents_collection_1749144027284 for chat_id: 1749144027284
+2025-06-05 22:54:36,960 - DEBUG - Collection 'financial_documents_collection_1749144027284' exists
+2025-06-05 22:54:37,433 - INFO - Retrieved 20 documents from collection 'financial_documents_collection_1749144027284' for query: 'What was the net property and equipment value as of December 31, 2024?'
+2025-06-05 22:54:37,465 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:54:37,466 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:54:37,919 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'What was the net property and equipment value as of December 31, 2024?'
+2025-06-05 22:55:03,633 - INFO - Initialized vector DB for chat_id: 1749144027284 in ./financial_documents_db/1749144027284
+2025-06-05 22:55:03,633 - INFO - Querying collection: financial_documents_collection_1749144027284 for chat_id: 1749144027284
+2025-06-05 22:55:03,634 - DEBUG - Collection 'financial_documents_collection_1749144027284' exists
+2025-06-05 22:55:04,081 - INFO - Retrieved 20 documents from collection 'financial_documents_collection_1749144027284' for query: 'What were the total self-insurance liabilities as of December 31, 2024?'
+2025-06-05 22:55:04,109 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:55:04,110 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:55:04,569 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'What were the total self-insurance liabilities as of December 31, 2024?'
+2025-06-05 22:55:39,677 - INFO - Initialized vector DB for chat_id: 1749144027284 in ./financial_documents_db/1749144027284
+2025-06-05 22:55:39,678 - INFO - Querying collection: financial_documents_collection_1749144027284 for chat_id: 1749144027284
+2025-06-05 22:55:39,679 - DEBUG - Collection 'financial_documents_collection_1749144027284' exists
+2025-06-05 22:55:40,383 - INFO - Retrieved 20 documents from collection 'financial_documents_collection_1749144027284' for query: 'total goodwill as of December 31, 2024'
+2025-06-05 22:55:40,409 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:55:40,411 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:55:41,010 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'total goodwill as of December 31, 2024'
+2025-06-05 22:57:43,220 - DEBUG - Successfully updated 5 documents in market_data_collection
+2025-06-05 22:58:01,412 - INFO - Initialized vector DB for chat_id: 1749144432787 in ./financial_documents_db/1749144432787
+2025-06-05 22:58:01,413 - INFO - Querying collection: financial_documents_collection_1749144432787 for chat_id: 1749144432787
+2025-06-05 22:58:01,415 - DEBUG - Collection 'financial_documents_collection_1749144432787' exists
+2025-06-05 22:58:01,946 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_1749144432787' for query: 'what is the stock price of MSFT'
+2025-06-05 22:58:02,003 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:58:02,004 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:58:02,493 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'what is the stock price of MSFT'
+2025-06-05 22:58:26,707 - INFO - Initialized vector DB for chat_id: 1749144432787 in ./financial_documents_db/1749144432787
+2025-06-05 22:58:26,707 - INFO - Querying collection: financial_documents_collection_1749144432787 for chat_id: 1749144432787
+2025-06-05 22:58:26,708 - DEBUG - Collection 'financial_documents_collection_1749144432787' exists
+2025-06-05 22:58:27,167 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_1749144432787' for query: 'technical indicator of MSFT'
+2025-06-05 22:58:27,198 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:58:27,199 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:58:27,658 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'technical indicator of MSFT'
+2025-06-05 22:59:00,719 - INFO - Initialized vector DB for chat_id: 1749144432787 in ./financial_documents_db/1749144432787
+2025-06-05 22:59:00,720 - INFO - Querying collection: financial_documents_collection_1749144432787 for chat_id: 1749144432787
+2025-06-05 22:59:00,721 - DEBUG - Collection 'financial_documents_collection_1749144432787' exists
+2025-06-05 22:59:01,165 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_1749144432787' for query: 'current price of etherium'
+2025-06-05 22:59:01,196 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:59:01,197 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:59:01,618 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'current price of etherium'
+2025-06-05 22:59:20,393 - INFO - Initialized vector DB for chat_id: 1749144432787 in ./financial_documents_db/1749144432787
+2025-06-05 22:59:20,394 - INFO - Querying collection: financial_documents_collection_1749144432787 for chat_id: 1749144432787
+2025-06-05 22:59:20,395 - DEBUG - Collection 'financial_documents_collection_1749144432787' exists
+2025-06-05 22:59:20,882 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_1749144432787' for query: 'technical indicator of ETH-USD'
+2025-06-05 22:59:20,913 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:59:20,914 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 22:59:21,336 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'technical indicator of ETH-USD'
+2025-06-05 22:59:54,179 - INFO - Initialized vector DB for chat_id: 1749144432787 in ./financial_documents_db/1749144432787
+2025-06-05 22:59:54,180 - INFO - Processing PDF for chat_id 1749144432787: Amazon-2024-Annual-Report-61-70.pdf
+2025-06-05 22:59:54,181 - INFO - Starting to parse PDF for chat_id 1749144432787: uploads\1749144432787\Amazon-2024-Annual-Report-61-70.pdf
+2025-06-05 23:00:03,078 - INFO - Successfully parsed PDF for chat_id 1749144432787: uploads\1749144432787\Amazon-2024-Annual-Report-61-70.pdf
+2025-06-05 23:00:03,082 - INFO - Created 132 document chunks for chat_id 1749144432787
+2025-06-05 23:00:07,972 - DEBUG - Successfully updated 132 documents in financial_documents_collection_1749144432787
+2025-06-05 23:00:07,973 - INFO - Successfully processed and stored PDF for chat_id 1749144432787: Amazon-2024-Annual-Report-61-70.pdf
+2025-06-05 23:01:16,345 - INFO - Initialized vector DB for chat_id: 1749144432787 in ./financial_documents_db/1749144432787
+2025-06-05 23:01:16,345 - INFO - Querying collection: financial_documents_collection_1749144432787 for chat_id: 1749144432787
+2025-06-05 23:01:16,347 - DEBUG - Collection 'financial_documents_collection_1749144432787' exists
+2025-06-05 23:01:16,803 - INFO - Retrieved 20 documents from collection 'financial_documents_collection_1749144432787' for query: 'what performance obligation is talked about the amazon stock report?'
+2025-06-05 23:01:16,827 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 23:01:16,829 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 23:01:17,402 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'what performance obligation is talked about the amazon stock report?'
+2025-06-05 23:03:53,939 - INFO - Initialized vector DB for chat_id: 1749144432787 in ./financial_documents_db/1749144432787
+2025-06-05 23:03:53,939 - INFO - Querying collection: financial_documents_collection_1749144432787 for chat_id: 1749144432787
+2025-06-05 23:03:53,940 - DEBUG - Collection 'financial_documents_collection_1749144432787' exists
+2025-06-05 23:03:54,439 - INFO - Retrieved 20 documents from collection 'financial_documents_collection_1749144432787' for query: 'summary report of Cash, Cash Equivalents, Restricted Cash, and Marketable Securities'
+2025-06-05 23:03:54,477 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 23:03:54,481 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 23:03:54,959 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'summary report of Cash, Cash Equivalents, Restricted Cash, and Marketable Securities'
+2025-06-05 23:05:06,599 - INFO - Initialized vector DB for chat_id: 1749144432787 in ./financial_documents_db/1749144432787
+2025-06-05 23:05:06,600 - INFO - Querying collection: financial_documents_collection_1749144432787 for chat_id: 1749144432787
+2025-06-05 23:05:06,602 - DEBUG - Collection 'financial_documents_collection_1749144432787' exists
+2025-06-05 23:05:07,725 - INFO - Retrieved 20 documents from collection 'financial_documents_collection_1749144432787' for query: 'what amazon services provide profit?'
+2025-06-05 23:05:07,758 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 23:05:07,759 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 23:05:08,268 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'what amazon services provide profit?'

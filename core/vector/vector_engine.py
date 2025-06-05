@@ -20,9 +20,9 @@ class VectorDB:
             persist_directory: Directory to persist ChromaDB data
         """
         self.embedding = NVIDIAEmbeddings(
-            model='NV-Embed-QA',
+            model='nvidia/nv-embedqa-e5-v5',
             api_key=os.getenv('NVIDIA_API_KEY'),
-            truncate='NONE'
+            truncate='END', # Truncate long inputs from the end
         )
         
         self.persist_directory = persist_directory

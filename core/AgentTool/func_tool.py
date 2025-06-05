@@ -24,9 +24,9 @@ async def finacial_agent(query: str, chat_id: str) -> str:
     try:
         # Initialize the Document Engine
         document_engine = DocumentEngine(chat_id=chat_id)
-        doc_results = document_engine.query_documents(query=query, k=5)
+        doc_results = document_engine.query_documents(query=query, k=20)
         if doc_results:
-            document_query_result = "\n".join([doc.text for doc in doc_results])
+            document_query_result = "\n".join([doc.page_content for doc in doc_results])
     except Exception as e:
         logger.error(f"Error querying documents: {str(e)}")
 

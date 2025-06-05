@@ -86,3 +86,109 @@ api_key
 2025-06-05 20:18:38,443 - WARNING - No documents found for chat_id: 1749134756571
 2025-06-05 20:32:51,335 - INFO - Retrieving documents for chat_id: 1749135771322
 2025-06-05 20:32:51,336 - WARNING - No documents found for chat_id: 1749135771322
+2025-06-05 21:53:06,141 - INFO - Retrieving documents for chat_id: 1749140586138
+2025-06-05 21:53:06,143 - WARNING - No documents found for chat_id: 1749140586138
+2025-06-05 22:00:34,384 - INFO - File upload request received for chat_id: 1749140586138
+2025-06-05 22:00:34,384 - DEBUG - Received file: Walmart 2025 Annual Report.pdf, content_type: application/pdf, size: 1543895
+2025-06-05 22:00:34,384 - DEBUG - Saving file to uploads\1749140586138\Walmart 2025 Annual Report.pdf
+2025-06-05 22:00:34,402 - INFO - File successfully uploaded for chat_id: 1749140586138, saved as: uploads\1749140586138\Walmart 2025 Annual Report.pdf
+2025-06-05 22:01:51,655 - INFO - Retrieving documents for chat_id: 1749140586138
+2025-06-05 22:01:51,657 - INFO - Found 1 documents for chat_id: 1749140586138
+2025-06-05 22:07:03,428 - INFO - Retrieving documents for chat_id: 1749141423424
+2025-06-05 22:07:03,429 - WARNING - No documents found for chat_id: 1749141423424
+2025-06-05 22:07:16,332 - INFO - File upload request received for chat_id: 1749141423424
+2025-06-05 22:07:16,332 - DEBUG - Received file: Walmart 2025 Annual Report.pdf, content_type: application/pdf, size: 1543895
+2025-06-05 22:07:16,332 - DEBUG - Saving file to uploads\1749141423424\Walmart 2025 Annual Report.pdf
+2025-06-05 22:07:16,349 - INFO - File successfully uploaded for chat_id: 1749141423424, saved as: uploads\1749141423424\Walmart 2025 Annual Report.pdf
+2025-06-05 22:07:38,627 - INFO - Retrieving documents for chat_id: 1749141423424
+2025-06-05 22:07:38,629 - INFO - Found 1 documents for chat_id: 1749141423424
+2025-06-05 22:15:10,749 - INFO - Retrieving documents for chat_id: 1749141910434
+2025-06-05 22:15:10,750 - WARNING - No documents found for chat_id: 1749141910434
+2025-06-05 22:15:14,105 - INFO - File upload request received for chat_id: 1749141910434
+2025-06-05 22:15:14,106 - DEBUG - Received file: Walmart 2025 Annual Report.pdf, content_type: application/pdf, size: 1543895
+2025-06-05 22:15:14,106 - DEBUG - Saving file to uploads\1749141910434\Walmart 2025 Annual Report.pdf
+2025-06-05 22:15:14,120 - INFO - File successfully uploaded for chat_id: 1749141910434, saved as: uploads\1749141910434\Walmart 2025 Annual Report.pdf
+2025-06-05 22:16:10,735 - INFO - Retrieving documents for chat_id: 1749141910434
+2025-06-05 22:16:10,738 - INFO - Found 1 documents for chat_id: 1749141910434
+2025-06-05 22:27:30,081 - INFO - Retrieving documents for chat_id: 1749142649760
+2025-06-05 22:27:30,097 - WARNING - No documents found for chat_id: 1749142649760
+2025-06-05 22:27:36,269 - INFO - File upload request received for chat_id: 1749142649760
+2025-06-05 22:27:36,269 - DEBUG - Received file: Walmart 2025 Annual Report.pdf, content_type: application/pdf, size: 1543895
+2025-06-05 22:27:36,270 - DEBUG - Saving file to uploads\1749142649760\Walmart 2025 Annual Report.pdf
+2025-06-05 22:27:36,290 - INFO - File successfully uploaded for chat_id: 1749142649760, saved as: uploads\1749142649760\Walmart 2025 Annual Report.pdf
+2025-06-05 22:28:29,786 - INFO - Retrieving documents for chat_id: 1749142649760
+2025-06-05 22:28:29,790 - INFO - Found 1 documents for chat_id: 1749142649760
+2025-06-05 22:37:37,189 - INFO - Retrieving documents for chat_id: 1749141910434
+2025-06-05 22:37:37,191 - INFO - Found 1 documents for chat_id: 1749141910434
+2025-06-05 22:37:38,078 - INFO - Retrieving documents for chat_id: 1749142649760
+2025-06-05 22:37:38,080 - INFO - Found 1 documents for chat_id: 1749142649760
+2025-06-05 22:39:30,082 - INFO - Retrieving documents for chat_id: 1749141910434
+2025-06-05 22:39:30,084 - INFO - Found 1 documents for chat_id: 1749141910434
+2025-06-05 22:39:31,834 - INFO - Retrieving documents for chat_id: 1749141910434
+2025-06-05 22:39:31,836 - INFO - Found 1 documents for chat_id: 1749141910434
+2025-06-05 22:39:32,636 - INFO - Retrieving documents for chat_id: 1749142649760
+2025-06-05 22:39:32,637 - INFO - Found 1 documents for chat_id: 1749142649760
+2025-06-05 22:40:38,159 - INFO - Retrieving documents for chat_id: 1749143437852
+2025-06-05 22:40:38,160 - WARNING - No documents found for chat_id: 1749143437852
+2025-06-05 22:40:40,119 - INFO - Retrieving documents for chat_id: 1749142649760
+2025-06-05 22:40:40,120 - INFO - Found 1 documents for chat_id: 1749142649760
+2025-06-05 22:40:41,096 - INFO - Retrieving documents for chat_id: 1749143437852
+2025-06-05 22:40:41,097 - WARNING - No documents found for chat_id: 1749143437852
+2025-06-05 22:42:39,737 - INFO - Retrieving documents for chat_id: 1749142649760
+2025-06-05 22:42:39,738 - INFO - Found 1 documents for chat_id: 1749142649760
+2025-06-05 22:42:44,395 - INFO - Retrieving documents for chat_id: 1749143437852
+2025-06-05 22:42:44,399 - WARNING - No documents found for chat_id: 1749143437852
+2025-06-05 22:46:29,398 - INFO - Retrieving documents for chat_id: 1749143789087
+2025-06-05 22:46:29,401 - WARNING - No documents found for chat_id: 1749143789087
+2025-06-05 22:46:37,483 - INFO - File upload request received for chat_id: 1749143789087
+2025-06-05 22:46:37,484 - DEBUG - Received file: Amazon-2024-Annual-Report-61-70.pdf, content_type: application/pdf, size: 133148
+2025-06-05 22:46:37,485 - DEBUG - Saving file to uploads\1749143789087\Amazon-2024-Annual-Report-61-70.pdf
+2025-06-05 22:46:37,493 - INFO - File successfully uploaded for chat_id: 1749143789087, saved as: uploads\1749143789087\Amazon-2024-Annual-Report-61-70.pdf
+2025-06-05 22:47:28,178 - INFO - Retrieving documents for chat_id: 1749143789087
+2025-06-05 22:47:28,180 - INFO - Found 1 documents for chat_id: 1749143789087
+2025-06-05 22:50:27,600 - INFO - Retrieving documents for chat_id: 1749144027284
+2025-06-05 22:50:27,602 - WARNING - No documents found for chat_id: 1749144027284
+2025-06-05 22:52:18,666 - INFO - File upload request received for chat_id: 1749144027284
+2025-06-05 22:52:18,667 - DEBUG - Received file: Walmart 2025 Annual Report.pdf, content_type: application/pdf, size: 1543895
+2025-06-05 22:52:18,668 - DEBUG - Saving file to uploads\1749144027284\Walmart 2025 Annual Report.pdf
+2025-06-05 22:52:18,681 - INFO - File successfully uploaded for chat_id: 1749144027284, saved as: uploads\1749144027284\Walmart 2025 Annual Report.pdf
+2025-06-05 22:53:19,579 - INFO - Retrieving documents for chat_id: 1749144027284
+2025-06-05 22:53:19,582 - INFO - Found 1 documents for chat_id: 1749144027284
+2025-06-05 22:57:09,954 - INFO - Retrieving documents for chat_id: 1749143789087
+2025-06-05 22:57:09,955 - INFO - Found 1 documents for chat_id: 1749143789087
+2025-06-05 22:57:11,667 - INFO - Retrieving documents for chat_id: 1749144027284
+2025-06-05 22:57:11,668 - INFO - Found 1 documents for chat_id: 1749144027284
+2025-06-05 22:57:12,789 - INFO - Retrieving documents for chat_id: 1749144432787
+2025-06-05 22:57:12,790 - WARNING - No documents found for chat_id: 1749144432787
+2025-06-05 22:59:54,021 - INFO - File upload request received for chat_id: 1749144432787
+2025-06-05 22:59:54,021 - DEBUG - Received file: Amazon-2024-Annual-Report-61-70.pdf, content_type: application/pdf, size: 133148
+2025-06-05 22:59:54,022 - DEBUG - Saving file to uploads\1749144432787\Amazon-2024-Annual-Report-61-70.pdf
+2025-06-05 22:59:54,032 - INFO - File successfully uploaded for chat_id: 1749144432787, saved as: uploads\1749144432787\Amazon-2024-Annual-Report-61-70.pdf
+2025-06-05 23:00:07,980 - INFO - Retrieving documents for chat_id: 1749144432787
+2025-06-05 23:00:07,984 - INFO - Found 1 documents for chat_id: 1749144432787
+2025-06-05 23:08:24,523 - INFO - Retrieving documents for chat_id: 1749144027284
+2025-06-05 23:08:24,527 - INFO - Found 1 documents for chat_id: 1749144027284
+2025-06-05 23:08:27,914 - INFO - Retrieving documents for chat_id: 1749144432787
+2025-06-05 23:08:27,916 - INFO - Found 1 documents for chat_id: 1749144432787
+2025-06-05 23:08:30,668 - INFO - Retrieving documents for chat_id: 1749144027284
+2025-06-05 23:08:30,672 - INFO - Found 1 documents for chat_id: 1749144027284
+2025-06-05 23:08:36,525 - INFO - Retrieving documents for chat_id: 1749143789087
+2025-06-05 23:08:36,527 - INFO - Found 1 documents for chat_id: 1749143789087
+2025-06-05 23:08:39,572 - INFO - Retrieving documents for chat_id: 1749143437852
+2025-06-05 23:08:39,575 - WARNING - No documents found for chat_id: 1749143437852
+2025-06-05 23:08:41,602 - INFO - Retrieving documents for chat_id: 1749142649760
+2025-06-05 23:08:41,604 - INFO - Found 1 documents for chat_id: 1749142649760
+2025-06-05 23:08:46,113 - INFO - Retrieving documents for chat_id: 1749141910434
+2025-06-05 23:08:46,116 - INFO - Found 1 documents for chat_id: 1749141910434
+2025-06-05 23:08:49,374 - INFO - Retrieving documents for chat_id: 1749144432787
+2025-06-05 23:08:49,377 - INFO - Found 1 documents for chat_id: 1749144432787
+2025-06-05 23:08:50,664 - INFO - Retrieving documents for chat_id: 1749145130654
+2025-06-05 23:08:50,666 - WARNING - No documents found for chat_id: 1749145130654
+2025-06-05 23:09:05,873 - INFO - Retrieving documents for chat_id: 1749144432787
+2025-06-05 23:09:05,875 - INFO - Found 1 documents for chat_id: 1749144432787
+2025-06-05 23:09:06,781 - INFO - Retrieving documents for chat_id: 1749144027284
+2025-06-05 23:09:06,783 - INFO - Found 1 documents for chat_id: 1749144027284
+2025-06-05 23:09:07,683 - INFO - Retrieving documents for chat_id: 1749144432787
+2025-06-05 23:09:07,688 - INFO - Found 1 documents for chat_id: 1749144432787
+2025-06-05 23:09:08,506 - INFO - Retrieving documents for chat_id: 1749145130654
+2025-06-05 23:09:08,513 - WARNING - No documents found for chat_id: 1749145130654

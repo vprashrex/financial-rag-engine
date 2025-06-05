@@ -117,3 +117,90 @@ Fetching crypto data...
 2025-06-05 20:18:03,193 - INFO - Retrieved 5 market data documents for query: 'what is the stock price of etherum?'
 2025-06-05 20:18:18,772 - INFO - Querying market data collection: market_data_collection
 2025-06-05 20:18:19,172 - INFO - Retrieved 5 market data documents for query: 'technical indicator of apple stock'
+2025-06-05 22:03:55,191 - INFO - Querying market data collection: market_data_collection
+2025-06-05 22:03:55,826 - INFO - Retrieved 5 market data documents for query: 'What were Walmart's total revenues for fiscal year 2025, and what was the percentage change from the previous fiscal year (fiscal 2024)?'
+2025-06-05 22:12:04,158 - INFO - Querying market data collection: market_data_collection
+2025-06-05 22:12:04,808 - INFO - Retrieved 5 market data documents for query: 'What were Walmart's total revenues for fiscal year 2025, and what was the percentage change from the previous fiscal year (fiscal 2024)?'
+2025-06-05 22:16:25,042 - INFO - Querying market data collection: market_data_collection
+2025-06-05 22:16:25,557 - INFO - Retrieved 5 market data documents for query: 'What were Walmart's total revenues for fiscal year 2025, and what was the percentage change from the previous fiscal year (fiscal 2024)?'
+2025-06-05 22:17:49,615 - INFO - Querying market data collection: market_data_collection
+2025-06-05 22:17:50,195 - INFO - Retrieved 5 market data documents for query: 'What were Walmart's total revenues for fiscal year 2025, and what was the percentage change from the previous fiscal year (fiscal 2024)?'
+2025-06-05 22:28:56,739 - INFO - Querying market data collection: market_data_collection
+2025-06-05 22:28:57,373 - INFO - Retrieved 5 market data documents for query: 'What were Walmart's total revenues for fiscal year 2025, and what was the percentage change from the previous fiscal year (fiscal 2024)?'
+2025-06-05 22:32:25,647 - INFO - Querying market data collection: market_data_collection
+2025-06-05 22:32:26,189 - INFO - Retrieved 5 market data documents for query: 'What were Walmart's total revenues for fiscal year 2025, and what was the percentage change from the previous fiscal year (fiscal 2024)?'
+2025-06-05 22:37:18,795 - INFO - Querying market data collection: market_data_collection
+2025-06-05 22:37:19,245 - INFO - Retrieved 5 market data documents for query: 'what is the stock price of apple?'
+2025-06-05 22:42:50,476 - DEBUG - Fetching stock data...
+2025-06-05 22:42:51,580 - DEBUG - Successfully processed AAPL
+2025-06-05 22:42:52,338 - DEBUG - Successfully processed MSFT
+2025-06-05 22:42:53,465 - DEBUG - Successfully processed JPM
+2025-06-05 22:42:53,466 - DEBUG - 
+Fetching crypto data...
+2025-06-05 22:42:54,370 - DEBUG - Available columns for BTC: ['1. open', '2. high', '3. low', '4. close', '5. volume']
+2025-06-05 22:42:54,394 - DEBUG - Successfully processed BTC
+2025-06-05 22:42:55,410 - DEBUG - Available columns for ETH: ['1. open', '2. high', '3. low', '4. close', '5. volume']
+2025-06-05 22:42:55,421 - DEBUG - Successfully processed ETH
+2025-06-05 22:42:56,227 - DEBUG - Successfully updated vector database with market data
+2025-06-05 22:43:17,127 - INFO - Querying market data collection: market_data_collection
+2025-06-05 22:43:17,629 - INFO - Retrieved 5 market data documents for query: 'what is the stock price of apple?'
+2025-06-05 22:43:33,693 - INFO - Querying market data collection: market_data_collection
+2025-06-05 22:43:34,141 - INFO - Retrieved 5 market data documents for query: 'technical indicators of apple stock'
+2025-06-05 22:43:49,992 - INFO - Querying market data collection: market_data_collection
+2025-06-05 22:43:50,548 - INFO - Retrieved 5 market data documents for query: 'price of bitcoin'
+2025-06-05 22:44:13,385 - INFO - Querying market data collection: market_data_collection
+2025-06-05 22:44:13,884 - INFO - Retrieved 5 market data documents for query: 'technical indicators for bitcoin'
+2025-06-05 22:47:45,858 - INFO - Querying market data collection: market_data_collection
+2025-06-05 22:47:46,276 - INFO - Retrieved 5 market data documents for query: 'What was the company's total long-term debt as of December 31, 2024?'
+2025-06-05 22:48:46,109 - INFO - Querying market data collection: market_data_collection
+2025-06-05 22:48:46,561 - INFO - Retrieved 5 market data documents for query: 'What was the net property and equipment value as of December 31, 2024?'
+2025-06-05 22:50:46,943 - DEBUG - Fetching stock data...
+2025-06-05 22:50:48,575 - DEBUG - Successfully processed AAPL
+2025-06-05 22:50:49,098 - DEBUG - Successfully processed MSFT
+2025-06-05 22:50:50,510 - DEBUG - Successfully processed JPM
+2025-06-05 22:50:50,510 - DEBUG - 
+Fetching crypto data...
+2025-06-05 22:50:51,889 - DEBUG - Available columns for BTC: ['1. open', '2. high', '3. low', '4. close', '5. volume']
+2025-06-05 22:50:51,905 - DEBUG - Successfully processed BTC
+2025-06-05 22:50:53,292 - DEBUG - Available columns for ETH: ['1. open', '2. high', '3. low', '4. close', '5. volume']
+2025-06-05 22:50:53,303 - DEBUG - Successfully processed ETH
+2025-06-05 22:50:54,039 - DEBUG - Successfully updated vector database with market data
+2025-06-05 22:51:06,489 - INFO - Querying market data collection: market_data_collection
+2025-06-05 22:51:06,959 - INFO - Retrieved 5 market data documents for query: 'stock price of apple'
+2025-06-05 22:51:26,510 - INFO - Querying market data collection: market_data_collection
+2025-06-05 22:51:26,998 - INFO - Retrieved 5 market data documents for query: 'technical indicator of apple stock price'
+2025-06-05 22:51:55,272 - INFO - Querying market data collection: market_data_collection
+2025-06-05 22:51:55,793 - INFO - Retrieved 5 market data documents for query: 'current price of bitcoin'
+2025-06-05 22:53:44,066 - INFO - Querying market data collection: market_data_collection
+2025-06-05 22:53:44,493 - INFO - Retrieved 5 market data documents for query: 'What was the company's total long-term debt as of December 31, 2024?'
+2025-06-05 22:54:37,464 - INFO - Querying market data collection: market_data_collection
+2025-06-05 22:54:37,920 - INFO - Retrieved 5 market data documents for query: 'What was the net property and equipment value as of December 31, 2024?'
+2025-06-05 22:55:04,107 - INFO - Querying market data collection: market_data_collection
+2025-06-05 22:55:04,569 - INFO - Retrieved 5 market data documents for query: 'What were the total self-insurance liabilities as of December 31, 2024?'
+2025-06-05 22:55:40,408 - INFO - Querying market data collection: market_data_collection
+2025-06-05 22:55:41,010 - INFO - Retrieved 5 market data documents for query: 'total goodwill as of December 31, 2024'
+2025-06-05 22:57:35,448 - DEBUG - Fetching stock data...
+2025-06-05 22:57:37,289 - DEBUG - Successfully processed AAPL
+2025-06-05 22:57:38,900 - DEBUG - Successfully processed MSFT
+2025-06-05 22:57:40,518 - DEBUG - Successfully processed JPM
+2025-06-05 22:57:40,519 - DEBUG - 
+Fetching crypto data...
+2025-06-05 22:57:41,406 - DEBUG - Available columns for BTC: ['1. open', '2. high', '3. low', '4. close', '5. volume']
+2025-06-05 22:57:41,418 - DEBUG - Successfully processed BTC
+2025-06-05 22:57:42,484 - DEBUG - Available columns for ETH: ['1. open', '2. high', '3. low', '4. close', '5. volume']
+2025-06-05 22:57:42,495 - DEBUG - Successfully processed ETH
+2025-06-05 22:57:43,220 - DEBUG - Successfully updated vector database with market data
+2025-06-05 22:58:02,002 - INFO - Querying market data collection: market_data_collection
+2025-06-05 22:58:02,494 - INFO - Retrieved 5 market data documents for query: 'what is the stock price of MSFT'
+2025-06-05 22:58:27,197 - INFO - Querying market data collection: market_data_collection
+2025-06-05 22:58:27,659 - INFO - Retrieved 5 market data documents for query: 'technical indicator of MSFT'
+2025-06-05 22:59:01,194 - INFO - Querying market data collection: market_data_collection
+2025-06-05 22:59:01,619 - INFO - Retrieved 5 market data documents for query: 'current price of etherium'
+2025-06-05 22:59:20,911 - INFO - Querying market data collection: market_data_collection
+2025-06-05 22:59:21,337 - INFO - Retrieved 5 market data documents for query: 'technical indicator of ETH-USD'
+2025-06-05 23:01:16,826 - INFO - Querying market data collection: market_data_collection
+2025-06-05 23:01:17,402 - INFO - Retrieved 5 market data documents for query: 'what performance obligation is talked about the amazon stock report?'
+2025-06-05 23:03:54,476 - INFO - Querying market data collection: market_data_collection
+2025-06-05 23:03:54,960 - INFO - Retrieved 5 market data documents for query: 'summary report of Cash, Cash Equivalents, Restricted Cash, and Marketable Securities'
+2025-06-05 23:05:07,757 - INFO - Querying market data collection: market_data_collection
+2025-06-05 23:05:08,269 - INFO - Retrieved 5 market data documents for query: 'what amazon services provide profit?'

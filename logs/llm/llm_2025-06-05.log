@@ -753,3 +753,2710 @@ Last Update: 2025-06-04
 
 # Finacial Document Results:
 No relevant documents found.
+2025-06-05 22:03:54,541 - INFO - Function call detected: [FunctionCall(id=None, args={'query': "What were Walmart's total revenues for fiscal year 2025, and what was the percentage change from the previous fiscal year (fiscal 2024)?"}, name='finacial_agent')]
+2025-06-05 22:03:55,826 - INFO - Calling function: finacial_agent with args: {'query': "What were Walmart's total revenues for fiscal year 2025, and what was the percentage change from the previous fiscal year (fiscal 2024)?", 'chat_id': '1749140586138'}
+2025-06-05 22:03:55,826 - INFO - Function result: # Financial Market Data Results:
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## AAPL
+- Price: $202.82
+- Volume: 43,603,985
+- Daily Change: -0.04%
+
+### Technical Indicators:
+- MA(5): $201.72
+- MA(20): $203.73
+- RSI: 32.0
+- Volatility: 29.5%
+- ATR: $4.43
+
+Last Update: 2025-06-04
+
+
+# Finacial Document Results:
+No relevant documents found.
+2025-06-05 22:12:03,174 - INFO - Function call detected: [FunctionCall(id=None, args={'query': "What were Walmart's total revenues for fiscal year 2025, and what was the percentage change from the previous fiscal year (fiscal 2024)?"}, name='finacial_agent')]
+2025-06-05 22:12:04,808 - INFO - Calling function: finacial_agent with args: {'query': "What were Walmart's total revenues for fiscal year 2025, and what was the percentage change from the previous fiscal year (fiscal 2024)?", 'chat_id': '1749141423424'}
+2025-06-05 22:12:04,808 - INFO - Function result: # Financial Market Data Results:
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## AAPL
+- Price: $202.82
+- Volume: 43,603,985
+- Daily Change: -0.04%
+
+### Technical Indicators:
+- MA(5): $201.72
+- MA(20): $203.73
+- RSI: 32.0
+- Volatility: 29.5%
+- ATR: $4.43
+
+Last Update: 2025-06-04
+
+
+# Finacial Document Results:
+No relevant documents found.
+2025-06-05 22:16:24,468 - INFO - Function call detected: [FunctionCall(id=None, args={'query': "What were Walmart's total revenues for fiscal year 2025, and what was the percentage change from the previous fiscal year (fiscal 2024)?"}, name='finacial_agent')]
+2025-06-05 22:16:25,008 - ERROR - Error querying documents: 'Document' object has no attribute 'text'
+2025-06-05 22:16:25,558 - INFO - Calling function: finacial_agent with args: {'query': "What were Walmart's total revenues for fiscal year 2025, and what was the percentage change from the previous fiscal year (fiscal 2024)?", 'chat_id': '1749141910434'}
+2025-06-05 22:16:25,558 - INFO - Function result: # Financial Market Data Results:
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## AAPL
+- Price: $202.82
+- Volume: 43,603,985
+- Daily Change: -0.04%
+
+### Technical Indicators:
+- MA(5): $201.72
+- MA(20): $203.73
+- RSI: 32.0
+- Volatility: 29.5%
+- ATR: $4.43
+
+Last Update: 2025-06-04
+
+
+# Finacial Document Results:
+No relevant documents found.
+2025-06-05 22:17:48,378 - INFO - Function call detected: [FunctionCall(id=None, args={'query': "What were Walmart's total revenues for fiscal year 2025, and what was the percentage change from the previous fiscal year (fiscal 2024)?"}, name='finacial_agent')]
+2025-06-05 22:17:50,196 - INFO - Calling function: finacial_agent with args: {'query': "What were Walmart's total revenues for fiscal year 2025, and what was the percentage change from the previous fiscal year (fiscal 2024)?", 'chat_id': '1749141910434'}
+2025-06-05 22:17:50,197 - INFO - Function result: # Financial Market Data Results:
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## AAPL
+- Price: $202.82
+- Volume: 43,603,985
+- Daily Change: -0.04%
+
+### Technical Indicators:
+- MA(5): $201.72
+- MA(20): $203.73
+- RSI: 32.0
+- Volatility: 29.5%
+- ATR: $4.43
+
+Last Update: 2025-06-04
+
+
+# Finacial Document Results:
+As a result of the factors discussed above, we reported $20.2 billion and $16.3 billion of consolidated net income for fiscal 2025 and 2024, respectively, which represents an increase of $3.9 billion and $5.0 billion for fiscal 2025 and 2024, respectively, when compared to the previous fiscal year. Diluted net income per common share attributable to Walmart ("EPS") was $2.41, $1.91 and $1.42 for fiscal 2025, 2024 and 2023, respectively.
+
+# Walmart U.S. Segment
+Gross profit as a percentage of net sales ("gross profit rate") increased 40 and 27 basis points for fiscal 2025 and 2024, respectively, when compared to the previous fiscal year. The increases were primarily driven by the Walmart U.S. segment, due to managing prices aligned to our competitive historic price gaps, as well as growth in higher margin businesses globally, partially offset by mix shifts into lower margin merchandise categories. Additionally, the increase in fiscal 2024 benefited from lapping
+| 2025                                                                        | 2024     | 2023     |          |
+| Consolidated net income                                                     | $ 20,157 | $ 16,270 | $ 11,292 |
+| Consolidated net (income) loss attributable to noncontrolling interest      | (721)    | (759)    | 388      |
+| Consolidated net income attributable to Walmart                             | $ 19,436 | $ 15,511 | $ 11,680 |
+Membership and other income increased $0.6 billion and $0.1 billion for fiscal 2025 and fiscal 2024, primarily driven by growth in membership fee income from Walmart+ and recycling income.
+Net sales for the Walmart U.S. segment increased $20.6 billion or 4.7% and $21.3 billion or 5.1% for fiscal 2025 and 2024, respectively, when compared to the previous fiscal year. The increases in net sales were primarily due to increases in comparable sales of 4.8% and 5.5% for fiscal 2025 and 2024, respectively. Comparable sales in fiscal 2025 were driven by growth in transactions and unit volumes, with strong sales in grocery and health and wellness. Comparable sales in fiscal 2024 were driven by growth
+2025-06-05 22:28:56,137 - INFO - Function call detected: [FunctionCall(id=None, args={'query': "What were Walmart's total revenues for fiscal year 2025, and what was the percentage change from the previous fiscal year (fiscal 2024)?"}, name='finacial_agent')]
+2025-06-05 22:28:57,374 - INFO - Calling function: finacial_agent with args: {'query': "What were Walmart's total revenues for fiscal year 2025, and what was the percentage change from the previous fiscal year (fiscal 2024)?", 'chat_id': '1749142649760'}
+2025-06-05 22:28:57,374 - INFO - Function result: # Financial Market Data Results:
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## AAPL
+- Price: $202.82
+- Volume: 43,603,985
+- Daily Change: -0.04%
+
+### Technical Indicators:
+- MA(5): $201.72
+- MA(20): $203.73
+- RSI: 32.0
+- Volatility: 29.5%
+- ATR: $4.43
+
+Last Update: 2025-06-04
+
+
+# Finacial Document Results:
+As a result of the factors discussed above, we reported $20.2 billion and $16.3 billion of consolidated net income for fiscal 2025 and 2024, respectively, which represents an increase of $3.9 billion and $5.0 billion for fiscal 2025 and 2024, respectively, when compared to the previous fiscal year. Diluted net income per common share attributable to Walmart ("EPS") was $2.41, $1.91 and $1.42 for fiscal 2025, 2024 and 2023, respectively.
+Our gross profit rate increased 40 and 27 basis points for fiscal 2025 and 2024, respectively, when compared to the previous fiscal year. The increases were primarily driven by the Walmart U.S. segment, due to managing prices aligned to our competitive historic price gaps, as well as growth in higher margin businesses globally, partially offset by mix shifts into lower margin merchandise categories. Additionally, the increase in fiscal 2024
+Membership and other income increased $0.6 billion and $0.1 billion for fiscal 2025 and fiscal 2024, primarily driven by growth in membership fee income from Walmart+ and recycling income.
+Gross profit as a percentage of net sales ("gross profit rate") increased 40 and 27 basis points for fiscal 2025 and 2024, respectively, when compared to the previous fiscal year. The increases were primarily driven by the Walmart U.S. segment, due to managing prices aligned to our competitive historic price gaps, as well as growth in higher margin businesses globally, partially offset by mix shifts into lower margin merchandise categories.
+Net sales for the Walmart U.S. segment increased $20.6 billion or 4.7% and $21.3 billion or 5.1% for fiscal 2025 and 2024, respectively, when compared to the previous fiscal year. The increases in net sales were primarily due to increases in comparable sales of 4.8% and 5.5% for fiscal 2025 and 2024, respectively. Comparable sales in fiscal 2025 were driven by growth in transactions and unit volumes, with strong sales in grocery and health and
+2025-06-05 22:32:24,814 - INFO - Function call detected: [FunctionCall(id=None, args={'query': "What were Walmart's total revenues for fiscal year 2025, and what was the percentage change from the previous fiscal year (fiscal 2024)?"}, name='finacial_agent')]
+2025-06-05 22:32:26,190 - INFO - Calling function: finacial_agent with args: {'query': "What were Walmart's total revenues for fiscal year 2025, and what was the percentage change from the previous fiscal year (fiscal 2024)?", 'chat_id': '1749142649760'}
+2025-06-05 22:32:26,190 - INFO - Function result: # Financial Market Data Results:
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## AAPL
+- Price: $202.82
+- Volume: 43,603,985
+- Daily Change: -0.04%
+
+### Technical Indicators:
+- MA(5): $201.72
+- MA(20): $203.73
+- RSI: 32.0
+- Volatility: 29.5%
+- ATR: $4.43
+
+Last Update: 2025-06-04
+
+
+# Finacial Document Results:
+As a result of the factors discussed above, we reported $20.2 billion and $16.3 billion of consolidated net income for fiscal 2025 and 2024, respectively, which represents an increase of $3.9 billion and $5.0 billion for fiscal 2025 and 2024, respectively, when compared to the previous fiscal year. Diluted net income per common share attributable to Walmart ("EPS") was $2.41, $1.91 and $1.42 for fiscal 2025, 2024 and 2023, respectively.
+Our gross profit rate increased 40 and 27 basis points for fiscal 2025 and 2024, respectively, when compared to the previous fiscal year. The increases were primarily driven by the Walmart U.S. segment, due to managing prices aligned to our competitive historic price gaps, as well as growth in higher margin businesses globally, partially offset by mix shifts into lower margin merchandise categories. Additionally, the increase in fiscal 2024
+Membership and other income increased $0.6 billion and $0.1 billion for fiscal 2025 and fiscal 2024, primarily driven by growth in membership fee income from Walmart+ and recycling income.
+Gross profit as a percentage of net sales ("gross profit rate") increased 40 and 27 basis points for fiscal 2025 and 2024, respectively, when compared to the previous fiscal year. The increases were primarily driven by the Walmart U.S. segment, due to managing prices aligned to our competitive historic price gaps, as well as growth in higher margin businesses globally, partially offset by mix shifts into lower margin merchandise categories.
+Net sales for the Walmart U.S. segment increased $20.6 billion or 4.7% and $21.3 billion or 5.1% for fiscal 2025 and 2024, respectively, when compared to the previous fiscal year. The increases in net sales were primarily due to increases in comparable sales of 4.8% and 5.5% for fiscal 2025 and 2024, respectively. Comparable sales in fiscal 2025 were driven by growth in transactions and unit volumes, with strong sales in grocery and health and
+Our total revenues increased $32.9 billion or 5.1% and $36.8 billion or 6.0% for fiscal 2025 and 2024, respectively, when compared to the previous fiscal year. These increases in revenues were primarily due to increases in net sales, which increased $31.9 billion or 5.0% and $36.8 billion or 6.1% for fiscal 2025 and 2024, respectively, when compared to the previous fiscal year. The increases were primarily due to strong positive comparable sales
+| Fiscal Year ended January 31,                                  | 2020    | 2021    | 2022    | 2023    | 2024    | 2025    |
+| -------------------------------------------------------------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| Walmart Inc.                                                   | $100.00 | $124.77 | $126.14 | $131.84 | $153.75 | $277.25 |
+Comparable sales in the U.S., including fuel, increased 4.8% and 4.9% in fiscal 2025 and 2024, respectively, when compared to the previous fiscal year. Walmart U.S. comparable sales increased 4.8% and 5.5% in fiscal 2025 and 2024, respectively. For fiscal 2025, comparable sales growth was driven by growth in transactions and unit volumes, with strong sales in grocery and health and wellness. For fiscal 2024, comparable sales growth was driven by
+other sites. Walmart International had net sales of $121.9 billion for fiscal 2025, representing 18% of our fiscal 2025 consolidated net sales, and had net sales of $114.6 billion and $101.0 billion for fiscal 2024 and 2023, respectively.
+Net sales for the Walmart International segment increased $7.2 billion or 6.3% and $13.7 billion or 13.5% for fiscal 2025 and 2024, respectively, when compared to the previous fiscal year. For fiscal 2025, the increase was primarily due to positive comparable sales in all of our international markets, which included strength in eCommerce, partially offset by negative fluctuations in currency exchange rates of $3.2 billion. For fiscal 2024, the
+We continue to invest in supply chain automation and utilize a total of 164 distribution facilities which are located strategically throughout the U.S. For fiscal 2025, the majority of Walmart U.S.'s purchases of store merchandise were shipped through these facilities, while most of the remaining store merchandise we purchased was shipped directly from suppliers. General merchandise and dry grocery merchandise is transported primarily through
+2024, comparable sales growth was driven by growth in transactions combined with growth in average ticket, including strong sales in grocery and health and wellness. Walmart U.S. eCommerce sales positively contributed approximately 2.9% and 2.6% to comparable sales for fiscal 2025 and 2024, respectively, which was primarily driven by store-fulfilled pickup and delivery.
+As a result of the factors discussed above, segment operating income increased $1.7 billion and $1.5 billion for fiscal 2025 and 2024, respectively, when compared to the previous fiscal year.
+
+# Walmart International Segment
+
+# Fiscal Years Ended January 31,
+Rogers, Arkansas
+
+March 14, 2025
+
+# Walmart Inc.
+
+# Consolidated Statements of Income
+
+# Fiscal Years Ended January 31,
+# Net income per common share attributable to Walmart
+
+|         | 2025   | 2024   | 2023   |
+| ------- | ------ | ------ | ------ |
+| Basic   | $ 2.42 | $ 1.92 | $ 1.43 |
+| Diluted | 2.41   | 1.91   | 1.42   |
+
+# Note 3. Shareholders' Equity
+In fiscal 2025, our Walmart U.S. and Sam's Club U.S. operating segments generated approximately 82% of our consolidated net sales. Significant changes in tax and trade policies, including tariffs, trade barriers, other restrictions on the exportation and importation of goods and government regulations affecting trade between the U.S. and other countries where we source many of the products we sell in our stores and clubs could have an adverse
+¹ Goodwill recorded in fiscal 2025 relates to the acquisition of VIZIO Holding Corp. in December 2024 within the Walmart U.S. segment.
+with strong sales in grocery and health and wellness. Comparable sales in fiscal 2024 were driven by growth in transactions combined with growth in average ticket, including strong sales in grocery and health and wellness. Walmart U.S. eCommerce sales positively contributed approximately 2.9% and 2.6% to comparable sales for fiscal 2025 and 2024, respectively, which was primarily driven by store-fulfilled pickup and delivery.
+| Fiscal Years Ended January 31, | 2025      | 2024        |           |             |
+| ------------------------------ | --------- | ----------- | --------- | ----------- |
+|                                | With Fuel | Fuel Impact | With Fuel | Fuel Impact |
+| Walmart U.S.                   | 4.8%      | (0.1)%      | 5.5%      | (0.1)%      |
+| Sam's Club U.S.                | 4.7%      | (1.5)%      | 2.3%      | (2.6)%      |
+| (Amounts in millions)                                   | 2025      | 2024      | 2023      |
+| ------------------------------------------------------- | --------- | --------- | --------- |
+| Walmart U.S.                                            |           |           |           |
+| Net sales                                               | $ 462,415 | $ 441,817 | $ 420,553 |
+2025-06-05 22:37:17,703 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'what is the stock price of apple?'}, name='finacial_agent')]
+2025-06-05 22:37:19,246 - INFO - Calling function: finacial_agent with args: {'query': 'what is the stock price of apple?', 'chat_id': '1749142649760'}
+2025-06-05 22:37:19,247 - INFO - Function result: # Financial Market Data Results:
+
+## AAPL
+- Price: $202.82
+- Volume: 43,603,985
+- Daily Change: -0.04%
+
+### Technical Indicators:
+- MA(5): $201.72
+- MA(20): $203.73
+- RSI: 32.0
+- Volatility: 29.5%
+- ATR: $4.43
+
+Last Update: 2025-06-04
+
+
+## AAPL
+- Price: $202.82
+- Volume: 43,603,985
+- Daily Change: -0.04%
+
+### Technical Indicators:
+- MA(5): $201.72
+- MA(20): $203.73
+- RSI: 32.0
+- Volatility: 29.5%
+- ATR: $4.43
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+# Finacial Document Results:
+# Independent Registered Public Accounting Firm
+
+Ernst & Young LLP
+
+5417 Pinnacle Point Dr., Suite 501
+
+Rogers, AR 72758
+
+# Market Price of Common Stock
+
+The high market price and low market price per share for the Company’s common stock for each fiscal quarter in fiscal 2025 and 2024 were as follows:
+We believe that the price of our stock generally reflects high market expectations for our future operating results. Any failure to meet or delay in meeting these expectations, including our consolidated net sales, consolidated operating income, growth rates, eCommerce growth rates, advertising and other higher-margin initiatives (which are expected to help drive our operating income growth at a rate faster than net sales over the long term),
+The high market price and low market price per share for the Company’s common stock for the first fiscal quarter of fiscal 2026, were as follows:
+
+| Fiscal Quarter | 2026 High | 2026 Low |
+| -------------- | --------- | -------- |
+| 1st Quarter    | $105.30   | $84.88   |
+# Note 3. Shareholders' Equity
+
+The total authorized shares of $0.10 par value common stock is 33.0 billion, of which 8.0 billion and 8.1 billion were issued and outstanding as of January 31, 2025 and 2024, respectively. The total authorized shares of $0.10 par value preferred stock is 0.1 billion; none of which were issued or outstanding for any period presented.
+
+# Purchases and Sales of Subsidiary Stock
+Also during fiscal 2024, the Company received $0.7 billion related to new rounds of equity funding for the Company's majority owned PhonePe subsidiary, which decreased the Company's ownership from approximately 89% as of January 31, 2023 to approximately 84% as of January 31, 2024.
+price paid per share and total amount paid for share repurchases for fiscal 2025, 2024 and 2023:
+| Fiscal Period       | Total Number of Shares Repurchased | Average Price Paid per Share (in dollars) | Approximate Dollar Value of Shares Repurchased as Part of Publicly Announced Plans or Programs | Shares that May Yet Be Repurchased Under the Plans or Programs(1) (in billions) |
+As of January 31, 2025, the Company also has approximately $3 billion in unrecognized compensation cost (based on grant-date fair value) primarily associated with share-based compensation plans of certain subsidiaries which contain performance or other conditions including vesting upon an initial public offering. If such conditions are ultimately satisfied, unrecognized compensation cost would be recognized in the applicable reporting period.
+The registrant had 8,016,849,444 shares of common stock outstanding as of March 12, 2025.
+
+# DOCUMENTS INCORPORATED BY REFERENCE
+The Company regularly reviews share repurchase activity and considers several factors in determining when to execute share repurchases, including, among other things, current cash needs, capacity for leverage, cost of borrowings, results of operations and the market price of the Company's common stock. The following table provides, on a settlement date basis, the number of shares repurchased, average price paid per share and total amount paid
+a rate faster than net sales over the long term), capital expenditures, comparable store and club sales growth rates or earnings and adjusted earnings per share could cause the market price of our stock to decline, as could changes in our dividend or stock repurchase programs or policies, changes in our effective tax rates, changes in our financial estimates and recommendations by securities analysts or, failure of our performance to compare
+Effective February 20, 2025, the Company approved the fiscal 2026 annual dividend of $0.94 per share, an increase over the fiscal 2025 annual dividend of $0.83 per share. For fiscal 2026, the annual dividend will be paid in four quarterly installments of $0.235 per share, according to the following record and payable dates:
+From time to time, the Company repurchases shares of its common stock under share repurchase programs authorized by the Company's Board of Directors. All repurchases made during fiscal 2025 were made under the current $20.0 billion share repurchase program approved in November 2022, which has no expiration date or other restrictions limiting the period over which the Company can make repurchases. As of January 31, 2025 authorization for $12.0
+From time to time, the Company repurchases shares of its common stock under share repurchase programs authorized by the Company's Board of Directors. All repurchases made during fiscal 2025 were made under the current $20.0 billion share repurchase program approved in November 2022, which has no expiration date or other restrictions limiting the period over which the Company can make repurchases. As of January 31, 2025, authorization for $12.0
+We maintain our principal offices in Bentonville, Arkansas. Our common stock trades on the New York Stock Exchange under the symbol "WMT."
+
+# The Development of Our Company
+On February 23, 2024, the Company effected a 3-for-1 forward split of its common stock and a proportionate increase in the number of authorized shares. All share and per share information, including share based compensation, has been retroactively adjusted to reflect the stock split. The shares of common stock retain a par value of $0.10 per share. Accordingly, an amount equal to the par value of the increased shares resulting from the stock
+| (\\$0.7467 per share)                             |                                |                   |                                   |                                    |                         |                            |          |           |
+| Sale of subsidiary stock                          | —                              | —                 | $ 48                              | —                                  | —                       | $ 48                       | $ 18     | $ 66      |
+(1) On February 23, 2024, the Company affected a 3-for-1 forward split of its common stock and a proportionate increase in the number of authorized shares. Share and per share information has been retroactively adjusted to reflect the stock split.
+
+(2) Through March 12, 2025.
+
+# Holders of Record of Common Stock
+| (\\$0.7600 per share)                             |                                |                   |                                   |                                    |                         |                            |          |           |
+2025-06-05 22:43:16,402 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'what is the stock price of apple?'}, name='finacial_agent')]
+2025-06-05 22:43:17,630 - INFO - Calling function: finacial_agent with args: {'query': 'what is the stock price of apple?', 'chat_id': '1749143437852'}
+2025-06-05 22:43:17,630 - INFO - Function result: # Financial Market Data Results:
+
+## AAPL
+- Price: $202.82
+- Volume: 43,603,985
+- Daily Change: -0.04%
+
+### Technical Indicators:
+- MA(5): $201.72
+- MA(20): $203.73
+- RSI: 32.0
+- Volatility: 29.5%
+- ATR: $4.43
+
+Last Update: 2025-06-04
+
+
+## AAPL
+- Price: $202.82
+- Volume: 43,603,985
+- Daily Change: -0.04%
+
+### Technical Indicators:
+- MA(5): $201.72
+- MA(20): $203.73
+- RSI: 32.0
+- Volatility: 29.5%
+- ATR: $4.43
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## AAPL
+- Price: $202.82
+- Volume: 43,603,985
+- Daily Change: -0.04%
+
+### Technical Indicators:
+- MA(5): $201.72
+- MA(20): $203.73
+- RSI: 32.0
+- Volatility: 29.5%
+- ATR: $4.43
+
+Last Update: 2025-06-04
+
+
+# Finacial Document Results:
+No relevant documents found.
+2025-06-05 22:43:33,132 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'technical indicators of apple stock'}, name='finacial_agent')]
+2025-06-05 22:43:34,142 - INFO - Calling function: finacial_agent with args: {'query': 'technical indicators of apple stock', 'chat_id': '1749143437852'}
+2025-06-05 22:43:34,142 - INFO - Function result: # Financial Market Data Results:
+
+## AAPL
+- Price: $202.82
+- Volume: 43,603,985
+- Daily Change: -0.04%
+
+### Technical Indicators:
+- MA(5): $201.72
+- MA(20): $203.73
+- RSI: 32.0
+- Volatility: 29.5%
+- ATR: $4.43
+
+Last Update: 2025-06-04
+
+
+## AAPL
+- Price: $202.82
+- Volume: 43,603,985
+- Daily Change: -0.04%
+
+### Technical Indicators:
+- MA(5): $201.72
+- MA(20): $203.73
+- RSI: 32.0
+- Volatility: 29.5%
+- ATR: $4.43
+
+Last Update: 2025-06-04
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## AAPL
+- Price: $202.82
+- Volume: 43,603,985
+- Daily Change: -0.04%
+
+### Technical Indicators:
+- MA(5): $201.72
+- MA(20): $203.73
+- RSI: 32.0
+- Volatility: 29.5%
+- ATR: $4.43
+
+Last Update: 2025-06-04
+
+
+# Finacial Document Results:
+No relevant documents found.
+2025-06-05 22:43:48,966 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'price of bitcoin'}, name='finacial_agent')]
+2025-06-05 22:43:50,550 - INFO - Calling function: finacial_agent with args: {'query': 'price of bitcoin', 'chat_id': '1749143437852'}
+2025-06-05 22:43:50,551 - INFO - Function result: # Financial Market Data Results:
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+# Finacial Document Results:
+No relevant documents found.
+2025-06-05 22:44:12,620 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'technical indicators for bitcoin'}, name='finacial_agent')]
+2025-06-05 22:44:13,885 - INFO - Calling function: finacial_agent with args: {'query': 'technical indicators for bitcoin', 'chat_id': '1749143437852'}
+2025-06-05 22:44:13,886 - INFO - Function result: # Financial Market Data Results:
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+# Finacial Document Results:
+No relevant documents found.
+2025-06-05 22:47:45,250 - INFO - Function call detected: [FunctionCall(id=None, args={'query': "What was the company's total long-term debt as of December 31, 2024?"}, name='finacial_agent')]
+2025-06-05 22:47:46,277 - INFO - Calling function: finacial_agent with args: {'query': "What was the company's total long-term debt as of December 31, 2024?", 'chat_id': '1749143789087'}
+2025-06-05 22:47:46,277 - INFO - Function result: # Financial Market Data Results:
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+# Finacial Document Results:
+31, 2024 and our total unearned revenue as of December 31, 2024 was $24.6 billion. Included in “Other long-term liabilities” on our consolidated balance sheets was $5.7 billion and $6.5 billion of unearned revenue as of December 31, 2023 and 2024.
+As of December 31, 2024, future principal payments for our total long-term debt were as follows (in millions):
+In January 2023, we entered into an $8.0 billion unsecured 364-day term loan with a syndicate of lenders (the “Term Loan”), maturing in January 2024 and bearing interest at the Secured Overnight Financing Rate specified in the Term Loan plus 0.75%. The Term Loan was classified as short-term debt and included within “Accrued expenses and other” on our consolidated balance sheets. As of December 31, 2023, the entire amount of the Term Loan had
+(1) Includes non-cancellable financing obligations for fulfillment network and data center facilities. Excluding interest, current financing obligations of $271 million and $312 million are recorded within “Accrued expenses and other” and $6.6 billion and $7.1 billion are recorded within “Other long-term liabilities” as of December 31, 2023 and 2024. The weighted-average remaining term of the financing obligations was 17.0 years and 16.1 years
+# Note 6 — DEBT
+
+As of December 31, 2024, we had $58.0 billion of unsecured senior notes outstanding (the “Notes”). Our total long-term debt obligations are as follows (in millions):
+outstanding under the Credit Facility as of December 31, 2023, which had an interest rate of 6.6%. As of December 31, 2023, we had pledged $806 million of our cash and seller receivables as collateral for debt related to our Credit Facility. The estimated fair value of the Credit Facility, which was based on Level 2 inputs, approximated its carrying value as of December 31, 2023.
+Additionally, we have performance obligations, primarily related to AWS, associated with commitments in customer contracts for future services that have not yet been recognized in our financial statements. For contracts with original terms that exceed one year, those commitments not yet recognized were approximately $177 billion as of December 31, 2024. The weighted average remaining life of our long-term contracts is 4.1 years. However, the
+We also utilize other short-term credit facilities for working capital purposes. There were $147 million and $151 million of borrowings outstanding under these facilities as of December 31, 2023 and 2024, which were included in “Accrued expenses and other” on our consolidated balance sheets. In addition, we had $8.3 billion of unused letters of credit as of December 31, 2024.
+
+# Note 7 — COMMITMENTS AND CONTINGENCIES
+
+# Commitments
+# The following table summarizes the remaining contractual maturities of our cash equivalents and marketable debt securities as of December 31, 2024 (in millions):
+Our assessment includes a review of recent operating results and trends, recent sales/acquisitions of the investee securities, and other publicly available data. If the investment is impaired, we write it down to its estimated fair value. As of December 31, 2023 and 2024, these investments had a carrying value of $754 million and $989 million.
+# Changes in Estimates
+
+Changes in estimates were not material to our consolidated results of operations for the years ended December 31, 2023 and 2024. As of December 31, 2023 and 2024, our total self-insurance liabilities were $6.3 billion and $8.5 billion and are included in “Accrued expenses and other” on our consolidated balance sheets.
+
+# Unearned Revenue
+| Year Ended December 31 | Amount |
+| ---------------------- | ------ |
+| 2025                   | $994   |
+| 2026                   | $918   |
+| 2027                   | $796   |
+| 2028                   | $632   |
+| 2029                   | $615   |
+| Thereafter             | $3,484 |
+|                        | $7,439 |
+
+
+# Note 6 — DEBT
+| December 31, 2023                    |                              |          |                                 | December 31, 2024            | Weighted Average Life |           |      |
+| Acquired Intangibles, Gross (1)      | Accumulated Amortization (1) | Net      | Acquired Intangibles, Gross (1) | Accumulated Amortization (1) | Net                   | Remaining |      |
+as of December 31, 2023 and 2024. Accumulated amortization associated with finance leases was $44.7 billion and $41.8 billion as of December 31, 2023 and 2024.
+We have entered into non-cancellable operating and finance leases for fulfillment network, data center, office, and physical store facilities as well as server and networking equipment, aircraft, and vehicles. Gross assets acquired under finance leases, including those where title transfers at the end of the lease, are recorded in “Property and equipment, net” and were $62.5 billion and $56.5 billion as of December 31, 2023 and 2024. Accumulated
+investment activity, net of tax” on our consolidated statements of operations. Each reporting period, we evaluate whether declines in fair value below carrying value are other-than-temporary and if so, we write down the investment to its estimated fair value. As of December 31, 2023 and 2024, these investments had a carrying value of $614 million and $1.2 billion.
+Amortization expense for acquired finite-lived intangibles was $604 million, $706 million, and $838 million in 2022, 2023, and 2024. Expected future amortization expense of acquired finite-lived intangible assets as of December 31, 2024 is as follows (in millions):
+|                                            | December 31, 2024 | Operating Leases | Finance Leases | Total    |
+| ------------------------------------------ | ----------------- | ---------------- | -------------- | -------- |
+| Gross lease liabilities                    | $                 | 95,294           | 12,520         | 107,814  |
+# 2022 Acquisition Activity
+
+On March 17, 2022, we acquired MGM Holdings Inc., for cash consideration of approximately $6.1 billion, net of cash acquired, to provide more digital media content options for customers. We also assumed $2.5 billion of debt, which we repaid immediately after closing. The acquired assets primarily consist of $3.4 billion of video content and $4.9 billion of goodwill.
+In October 2024, we entered into a $5.0 billion unsecured 364-day revolving credit facility with a syndicate of lenders (the “Short-Term Credit Agreement”), which replaced the prior 364-day revolving credit agreement entered into in November 2023. The Short-Term Credit Agreement matures in October 2025 and may be extended for one additional period of 364 days subject to approval by the lenders. The interest rate applicable to outstanding
+2025-06-05 22:48:45,553 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'What was the net property and equipment value as of December 31, 2024?'}, name='finacial_agent')]
+2025-06-05 22:48:46,562 - INFO - Calling function: finacial_agent with args: {'query': 'What was the net property and equipment value as of December 31, 2024?', 'chat_id': '1749143789087'}
+2025-06-05 22:48:46,563 - INFO - Function result: # Financial Market Data Results:
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+# Finacial Document Results:
+|                                                     | December 31, 2023 | December 31, 2024 |
+| --------------------------------------------------- | ----------------- | ----------------- |
+| Gross property and equipment (1):                   |                   |                   |
+| Land and buildings                                  | $ 105,293         | $ 123,039         |
+We have entered into non-cancellable operating and finance leases for fulfillment network, data center, office, and physical store facilities as well as server and networking equipment, aircraft, and vehicles. Gross assets acquired under finance leases, including those where title transfers at the end of the lease, are recorded in “Property and equipment, net” and were $62.5 billion and $56.5 billion as of December 31, 2023 and 2024. Accumulated
+investment activity, net of tax” on our consolidated statements of operations. Each reporting period, we evaluate whether declines in fair value below carrying value are other-than-temporary and if so, we write down the investment to its estimated fair value. As of December 31, 2023 and 2024, these investments had a carrying value of $614 million and $1.2 billion.
+| Total accumulated depreciation and amortization (1) | 120,111           | 141,390           |
+| Total property and equipment, net                   | $ 204,177         | $ 252,665         |
+(1) Includes the original cost and accumulated depreciation of fully-depreciated assets.
+
+Depreciation and amortization expense on property and equipment was $24.9 billion, $30.2 billion, and $32.1 billion which includes amortization of property and equipment acquired under finance leases of $6.1 billion, $5.9 billion, and $3.9 billion for 2022, 2023, and 2024.
+
+# Note 4 — LEASES
+Our assessment includes a review of recent operating results and trends, recent sales/acquisitions of the investee securities, and other publicly available data. If the investment is impaired, we write it down to its estimated fair value. As of December 31, 2023 and 2024, these investments had a carrying value of $754 million and $989 million.
+| December 31, 2023                    |                              |          |                                 | December 31, 2024            | Weighted Average Life |           |      |
+| Acquired Intangibles, Gross (1)      | Accumulated Amortization (1) | Net      | Acquired Intangibles, Gross (1) | Accumulated Amortization (1) | Net                   | Remaining |      |
+|                                                                                                      | December 31, 2023 | December 31, 2024 |
+| ---------------------------------------------------------------------------------------------------- | ----------------- | ----------------- |
+| Cash and cash equivalents                                                                            | $ 73,387          | $ 78,779          |
+Less: Restricted cash, cash equivalents, and marketable securities (2) $ (503)
+
+Total cash, cash equivalents, and marketable securities $ 86,780
+
+# December 31, 2024
+| Equipment                                           | 185,039           | 218,893           |
+| Other assets                                        | 5,116             | 5,487             |
+| Construction in progress                            | 28,840            | 46,636            |
+| Gross property and equipment                        | 324,288           | 394,055           |
+As of December 31, 2023 and 2024, equity warrants measured at fair value were $2.2 billion and $2.7 billion, with changes recognized in “Other income (expense), net” on our consolidated statements of operations. These warrants are classified as Level 2 and 3 assets.
+Amortization expense for acquired finite-lived intangibles was $604 million, $706 million, and $838 million in 2022, 2023, and 2024. Expected future amortization expense of acquired finite-lived intangible assets as of December 31, 2024 is as follows (in millions):
+|                                            | December 31, 2024 | Operating Leases | Finance Leases | Total    |
+| ------------------------------------------ | ----------------- | ---------------- | -------------- | -------- |
+| Gross lease liabilities                    | $                 | 95,294           | 12,520         | 107,814  |
+Less: Restricted cash, cash equivalents, and marketable securities (2) $ (3,533)
+
+Total cash, cash equivalents, and marketable securities $ 101,202
+
+(1) The related unrealized gain (loss) recorded in “Other income (expense), net” was $(13.6) billion, $1.0 billion, and $(1.3) billion for the years ended December 31, 2022, 2023, and 2024.
+Pro forma results of operations have not been presented because the effects of the 2024 transactions, individually and in the aggregate, were not material to our consolidated results of operations. Transaction-related costs were expensed as incurred and were not significant.
+
+# Goodwill
+as of December 31, 2023 and 2024. Accumulated amortization associated with finance leases was $44.7 billion and $41.8 billion as of December 31, 2023 and 2024.
+31, 2024 and our total unearned revenue as of December 31, 2024 was $24.6 billion. Included in “Other long-term liabilities” on our consolidated balance sheets was $5.7 billion and $6.5 billion of unearned revenue as of December 31, 2023 and 2024.
+|                                                          | December 31, 2023 | December 31, 2024 |
+| -------------------------------------------------------- | ----------------- | ----------------- |
+| Weighted-average remaining lease term – operating leases | 11.3 years        | 10.6 years        |
+| Weighted-average remaining lease term – finance leases   | 11.9 years        | 11.9 years        |
+# Note 3 — PROPERTY AND EQUIPMENT
+
+Property and equipment, at cost, consisted of the following (in millions):
+|                               | Year Ended December 31, | 2022   | 2023   | 2024   |
+| ----------------------------- | ----------------------- | ------ | ------ | ------ |
+| Operating lease cost          | $                       | 8,847  | 10,550 | 11,961 |
+| Finance lease cost:           |                         |        |        |        |
+| Amortization of lease assets  | $                       | 6,097  | 5,899  | 3,866  |
+2025-06-05 22:51:05,924 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'stock price of apple'}, name='finacial_agent')]
+2025-06-05 22:51:06,960 - INFO - Calling function: finacial_agent with args: {'query': 'stock price of apple', 'chat_id': '1749144027284'}
+2025-06-05 22:51:06,960 - INFO - Function result: # Financial Market Data Results:
+
+## AAPL
+- Price: $202.82
+- Volume: 43,603,985
+- Daily Change: -0.04%
+
+### Technical Indicators:
+- MA(5): $201.72
+- MA(20): $203.73
+- RSI: 32.0
+- Volatility: 29.5%
+- ATR: $4.43
+
+Last Update: 2025-06-04
+
+
+## AAPL
+- Price: $202.82
+- Volume: 43,603,985
+- Daily Change: -0.04%
+
+### Technical Indicators:
+- MA(5): $201.72
+- MA(20): $203.73
+- RSI: 32.0
+- Volatility: 29.5%
+- ATR: $4.43
+
+Last Update: 2025-06-04
+
+
+## AAPL
+- Price: $202.82
+- Volume: 43,603,985
+- Daily Change: -0.04%
+
+### Technical Indicators:
+- MA(5): $201.72
+- MA(20): $203.73
+- RSI: 32.0
+- Volatility: 29.5%
+- ATR: $4.43
+
+Last Update: 2025-06-04
+
+
+## AAPL
+- Price: $202.82
+- Volume: 43,603,985
+- Daily Change: -0.04%
+
+### Technical Indicators:
+- MA(5): $201.72
+- MA(20): $203.73
+- RSI: 32.0
+- Volatility: 29.5%
+- ATR: $4.43
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+# Finacial Document Results:
+No relevant documents found.
+2025-06-05 22:51:25,924 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'technical indicator of apple stock price'}, name='finacial_agent')]
+2025-06-05 22:51:26,998 - INFO - Calling function: finacial_agent with args: {'query': 'technical indicator of apple stock price', 'chat_id': '1749144027284'}
+2025-06-05 22:51:26,999 - INFO - Function result: # Financial Market Data Results:
+
+## AAPL
+- Price: $202.82
+- Volume: 43,603,985
+- Daily Change: -0.04%
+
+### Technical Indicators:
+- MA(5): $201.72
+- MA(20): $203.73
+- RSI: 32.0
+- Volatility: 29.5%
+- ATR: $4.43
+
+Last Update: 2025-06-04
+
+
+## AAPL
+- Price: $202.82
+- Volume: 43,603,985
+- Daily Change: -0.04%
+
+### Technical Indicators:
+- MA(5): $201.72
+- MA(20): $203.73
+- RSI: 32.0
+- Volatility: 29.5%
+- ATR: $4.43
+
+Last Update: 2025-06-04
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## AAPL
+- Price: $202.82
+- Volume: 43,603,985
+- Daily Change: -0.04%
+
+### Technical Indicators:
+- MA(5): $201.72
+- MA(20): $203.73
+- RSI: 32.0
+- Volatility: 29.5%
+- ATR: $4.43
+
+Last Update: 2025-06-04
+
+
+# Finacial Document Results:
+No relevant documents found.
+2025-06-05 22:51:54,571 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'current price of bitcoin'}, name='finacial_agent')]
+2025-06-05 22:51:55,794 - INFO - Calling function: finacial_agent with args: {'query': 'current price of bitcoin', 'chat_id': '1749144027284'}
+2025-06-05 22:51:55,795 - INFO - Function result: # Financial Market Data Results:
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+# Finacial Document Results:
+No relevant documents found.
+2025-06-05 22:53:43,560 - INFO - Function call detected: [FunctionCall(id=None, args={'query': "What was the company's total long-term debt as of December 31, 2024?"}, name='finacial_agent')]
+2025-06-05 22:53:44,501 - INFO - Calling function: finacial_agent with args: {'query': "What was the company's total long-term debt as of December 31, 2024?", 'chat_id': '1749144027284'}
+2025-06-05 22:53:44,501 - INFO - Function result: # Financial Market Data Results:
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+# Finacial Document Results:
+The Company's long-term debt, which includes the fair value instruments further discussed in Note 8, consists of the following as of January 31, 2025 and 2024:
+
+(Amounts in millions)
+Our total outstanding long-term debt decreased $3.6 billion during fiscal 2025, primarily due to maturities of certain long-term debt. Refer to Note 6 to our Consolidated Financial Statements for details on the issuances of long-term debt.
+The Company's long-term debt is also recorded at cost. The fair value is estimated using Level 2 inputs based on observable prices of identical instruments in less active markets. The carrying value and fair value of the Company's long-term debt as of January 31, 2025 and 2024, are as follows:
+# Debt Issuances
+
+There were no long-term debt issuances in fiscal 2025. Information on significant long-term debt issued during fiscal 2024, for general corporate purposes, is as follows:
+relates to the maximum amount of secured debt. Additionally, the Company has syndicated and fronted letters of credit available which totaled $2.1 billion as of January 31, 2025 and 2024, of which $1.5 billion and $1.7 billion was drawn as of January 31, 2025 and 2024, respectively.
+| (Amounts in millions)               | Long-term debt due within one year | Long-term debt | Total    |
+| ----------------------------------- | ---------------------------------- | -------------- | -------- |
+| Balances as of February 1, 2024     | $ 3,447                            | $ 36,132       | $ 39,579 |
+| Repayments of long-term debt        | (3,468)                            | —              | (3,468)  |
+Estimated contractual interest payments associated with our long-term debt amount to $18.2 billion, with approximately $1.7 billion expected to be paid in fiscal 2026. Estimated interest payments are based on our principal amounts and expected maturities of all debt outstanding as of January 31, 2025, and assumes interest rates remain at current levels for our variable rate instruments.
+
+# Dividends
+As of January 31, 2025, we have $2.1 billion of syndicated and fronted letters of credit available, of which $1.5 billion was drawn and represents an unrecorded current obligation.
+
+# Long-term Debt
+
+The following table provides the changes in our long-term debt for fiscal 2025:
+These issuances are senior, unsecured notes which rank equally with all other senior, unsecured debt obligations of the Company, and are not convertible or exchangeable. These issuances do not contain any financial covenants which restrict the Company's ability to pay dividends or repurchase Company stock.
+
+# Maturities
+
+The following tables provide details of significant long-term debt repayments during fiscal 2025 and 2024, respectively:
+We have strong commercial paper and long-term debt ratings that have enabled and should continue to enable us to refinance our debt as it becomes due at favorable rates in capital markets. As of January 31, 2025, the ratings assigned to our commercial paper and rated series of our outstanding long-term debt were as follows:
+Also during fiscal 2023, the Company increased its ownership in PhonePe from approximately 76% to approximately 89% as part of the separation from the Company's majority-owned Flipkart subsidiary. In consideration for the transaction, the Company initially recorded a liability to noncontrolling interest holders of $0.9 billion within accrued liabilities in the Company's Consolidated Balance Sheet as of January 31, 2023, which was paid during
+(4) Other accrued liabilities includes items such as deferred membership revenue, interest, supply chain, advertising, and maintenance and utilities.
+
+# Note 6. Short-term Borrowings and Long-term Debt
+
+Short-term borrowings consist of commercial paper and lines of credit. Short-term borrowings as of January 31, 2025 and 2024 were $3.1 billion and $0.9 billion, respectively, with weighted-average interest rates of 5.3% and 7.7%, respectively.
+As described in more detail in Note 10 to our Consolidated Financial Statements, the Company accrued a liability of approximately $3.3 billion in fiscal year 2023 for certain opioid-related settlements. As of January 31, 2025, all of the accrued liability has been paid. Certain eligible political subdivisions and federally recognized Native American tribes have until July 15, 2025 and February 24, 2026, respectively, to join the settlement.
+Intangible assets are recorded in other long-term assets in the Company's Consolidated Balance Sheets. As of January 31, 2025 and 2024, the Company had $4.5 billion and $4.1 billion, respectively, in indefinite-lived intangible assets which primarily consists of acquired trade names. There were no significant impairment charges related to intangible assets for fiscal 2025, 2024 or 2023.
+
+# Fair Value Measurement
+Investments in debt securities classified as trading are reported at fair value and included in other long-term assets in the Consolidated Balance Sheets, and adjustments in fair value are recorded within other gains and losses in the Consolidated Statements of Income. The Company had debt securities classified as trading of $1.2 billion as of both January 31, 2025 and January 31, 2024, the majority of which is mandatorily redeemable in fiscal
+Cash and cash equivalents were $9.0 billion and $9.9 billion as of January 31, 2025 and 2024, respectively. Our working capital deficit, defined as total current assets less total current liabilities, was $17.1 billion and $15.5 billion as of January 31, 2025 and 2024, respectively. The increase in our working capital deficit is primarily driven by an increase in short-term borrowings for general corporate purposes and accounts payable due to
+(1) In April 2024, the Company renewed and extended its existing 364-day revolving credit facility as well as its five year credit facility.
+# Note 5. Accrued Liabilities
+
+The Company's accrued liabilities consist of the following as of January 31, 2025 and 2024:
+The Company has provided certain indemnifications in connection with previous divestitures and has recorded indemnification liabilities equal to the estimated fair value of the obligations. As of January 31, 2025 and January 31, 2024, the Company had $0.6 billion and $0.7 billion, respectively, of certain legal indemnification liabilities recorded within deferred income taxes and other in the Consolidated Balance Sheets. Maximum potential future
+value of each reporting unit is significantly greater than the carrying amount and, accordingly, the Company has not recorded any impairment charges related to goodwill during fiscal 2025, fiscal 2024 or fiscal 2023.
+2025-06-05 22:54:36,931 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'What was the net property and equipment value as of December 31, 2024?'}, name='finacial_agent')]
+2025-06-05 22:54:37,921 - INFO - Calling function: finacial_agent with args: {'query': 'What was the net property and equipment value as of December 31, 2024?', 'chat_id': '1749144027284'}
+2025-06-05 22:54:37,921 - INFO - Function result: # Financial Market Data Results:
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+# Finacial Document Results:
+Net cash used in investing activities was $21.4 billion, $21.3 billion and $17.7 billion for fiscal 2025, 2024 and 2023, respectively, and generally consisted of capital expenditures. Net cash used in investing activities increased $0.1 billion for fiscal 2025 when compared to the previous fiscal year. The increase is primarily due to increased purchases of property and equipment as well as the acquisition of VIZIO for net consideration of $1.9
+| Fiscal Years Ended January 31,            | (Amounts in millions) | 2025       | 2024       | 2023       |
+| ----------------------------------------- | --------------------- | ---------- | ---------- | ---------- |
+| Net cash provided by operating activities |                       | $ 36,443   | $ 35,726   | $ 28,841   |
+| Payments for property and equipment       |                       | ($ 23,783) | ($ 20,606) | ($ 16,857) |
+Other gains and losses consist of certain non-operating items, such as the change in the fair value of our investments and gains or losses on business dispositions, which by their nature can fluctuate from period to period. Other gains and losses consisted of net losses of $0.8 billion and $3.0 billion in fiscal 2025 and 2024, respectively, which primarily consisted of changes in fair value of our equity and other investments driven by changes
+| Property and equipment, net |                                   | $ 119,993              | $ 110,810              |
+We define free cash flow as net cash provided by operating activities in a period minus payments for property and equipment made in that period. We had net cash provided by operating activities of $36.4 billion, $35.7 billion and $28.8 billion for fiscal 2025, 2024 and 2023, respectively. We generated free cash flow of $12.7 billion, $15.1 billion and $12.0 billion for fiscal 2025, 2024 and 2023, respectively. The increase in net cash provided
+| (Dollar amounts and retail square feet in millions) | Fiscal Years Ended January 31 | 2025     | 2024     | 2023     |
+| --------------------------------------------------- | ----------------------------- | -------- | -------- | -------- |
+| Net sales                                           |                               | $462,415 | $441,817 | $420,553 |
+of VIZIO for net consideration of $1.9 billion, partially offset by net proceeds received from sales of certain strategic investments, including $3.6 billion related to the sale of our JD.com investment. Net cash used in investing activities increased $3.6 billion for fiscal 2024 when compared to the previous fiscal year, primarily due to increased payments for property and equipment.
+| 2025                                                                        | 2024     | 2023     |          |
+| Consolidated net income                                                     | $ 20,157 | $ 16,270 | $ 11,292 |
+| Consolidated net (income) loss attributable to noncontrolling interest      | (721)    | (759)    | 388      |
+Net cash provided by operating activities was $36.4 billion, $35.7 billion and $28.8 billion for fiscal 2025, 2024 and 2023, respectively. The increase in net cash provided by operating activities in fiscal 2025, when compared to the previous fiscal year, is primarily due to an increase in cash provided by operating income and lapping the payment of accrued opioid legal charges in the prior year, partially offset by increased inventory
+|                                           | As of January 31, | 2025      | 2024      | 2023      |
+| ----------------------------------------- | ----------------- | --------- | --------- | --------- |
+| Total assets                              |                   | $ 260,823 | $ 252,399 | $ 243,197 |
+| Accumulated depreciation and amortization |                   | 123,646   | 119,602   | 110,286   |
+| Total current assets                                                            | 79,458    | 76,877    |
+| Property and equipment, net                                                     | 119,993   | 110,810   |
+| Operating lease right-of-use assets                                             | 13,599    | 13,673    |
+| Finance lease right-of-use assets, net                                          | 6,112     | 5,855     |
+within other gains and losses in the Consolidated Statements of Income. These fair value changes, along with certain other immaterial investment activity, resulted in net losses of $0.8 billion, $3.8 billion and $1.7 billion for fiscal 2025, 2024 and 2023.
+real estate transactions. Net receivables from transactions with customers were $4.4 billion and $3.7 billion as of January 31, 2025 and January 31, 2024, respectively.
+Intangible assets are recorded in other long-term assets in the Company's Consolidated Balance Sheets. As of January 31, 2025 and 2024, the Company had $4.5 billion and $4.1 billion, respectively, in indefinite-lived intangible assets which primarily consists of acquired trade names. There were no significant impairment charges related to intangible assets for fiscal 2025, 2024 or 2023.
+
+# Fair Value Measurement
+("fiscal 2024") and January 31, 2023 ("fiscal 2023"). During fiscal 2025, we generated total revenues of $681.0 billion, which primarily comprised net sales of $674.5 billion.
+(1) "Net cash used in investing activities" includes payments for property and equipment, which is also included in our computation of free cash flow.
+
+# Results of Operations
+
+# Consolidated Results of Operations
+
+(Dollar amounts and retail square feet in millions)
+| (Amounts in millions)  | Fiscal Years Ended January 31, | 2025      | 2024      |
+| ---------------------- | ------------------------------ | --------- | --------- |
+| Numerator              | Consolidated net income        | $ 20,157  | $ 16,270  |
+| Denominator            | Average total assets(1)        | $ 256,611 | $ 247,798 |
+| Return on assets (ROA) |                                | 7.9 %     | 6.6 %     |
+year, partially offset by increased inventory purchases. The increase in net cash provided by operating activities for fiscal 2024, when compared to the previous fiscal year, was primarily due to higher cash provided by operating income, as well as timing of certain payments and strategic inventory management as part of working capital initiatives, partially offset by payment of the remaining accrued opioid legal charges.
+# Net Cash Used in Investing Activities
+
+| (Amounts in millions)                 | Fiscal Years Ended January 31, | 2025      | 2024      | 2023      |
+| ------------------------------------- | ------------------------------ | --------- | --------- | --------- |
+| Net cash used in investing activities |                                | $(21,379) | $(21,287) | $(17,722) |
+net sales, and had net sales of $441.8 billion and $420.6 billion for fiscal 2024 and 2023, respectively.
+2025-06-05 22:55:03,606 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'What were the total self-insurance liabilities as of December 31, 2024?'}, name='finacial_agent')]
+2025-06-05 22:55:04,570 - INFO - Calling function: finacial_agent with args: {'query': 'What were the total self-insurance liabilities as of December 31, 2024?', 'chat_id': '1749144027284'}
+2025-06-05 22:55:04,570 - INFO - Function result: # Financial Market Data Results:
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+# Finacial Document Results:
+| (Amounts in millions)         | January 31, 2025 | January 31, 2024 |
+| ----------------------------- | ---------------- | ---------------- |
+| Accrued wages and benefits(1) | 7,897            | 8,590            |
+| Self-insurance(2)             | 4,976            | 4,916            |
+| Accrued non-income taxes(3)   | 3,503            | 3,459            |
+| Deferred gift card revenue    | 2,755            | 2,664            |
+| Balances as of January 31, 2024                                 | (10,407)                       | (895)            | (11,302)   |
+| Other comprehensive loss before reclassifications, net          | (2,161)                        | (198)            | (2,359)    |
+| Reclassifications to income, net                                | (93)                           | 149              | 56         |
+The Company self-insures a number of risks, including, but not limited to, workers' compensation, general liability, auto liability, product liability and certain employee-related healthcare benefits. Standard actuarial procedures and data analysis are used to estimate the liabilities associated with these risks on an undiscounted basis. The recorded liabilities reflect the ultimate cost for claims incurred but not paid and any estimable
+As described in more detail in Note 10 to our Consolidated Financial Statements, the Company accrued a liability of approximately $3.3 billion in fiscal year 2023 for certain opioid-related settlements. As of January 31, 2025, all of the accrued liability has been paid. Certain eligible political subdivisions and federally recognized Native American tribes have until July 15, 2025 and February 24, 2026, respectively, to join the settlement.
+The Delaware Court of Chancery entered a final order and judgment on December 20, 2024, granting approval to a settlement of the Derivative Actions. Pursuant to this order and judgment (i) insurance carriers funded a $123 million settlement, of which $24.6 million was awarded to plaintiffs' counsel for attorneys' fees and the balance was awarded to the Company; and (ii) the Company agreed to maintain certain corporate governance practices for a
+workers' compensation, general liability and auto liability. Refer to Note 5 for the self insurance reserves which are recorded in accrued liabilities in the Company's Consolidated Balance Sheets.
+The Company has provided certain indemnifications in connection with previous divestitures and has recorded indemnification liabilities equal to the estimated fair value of the obligations. As of January 31, 2025 and January 31, 2024, the Company had $0.6 billion and $0.7 billion, respectively, of certain legal indemnification liabilities recorded within deferred income taxes and other in the Consolidated Balance Sheets. Maximum potential future
+and January 31, 2024, the notional amounts and fair values of these derivatives were as follows:
+| Balances as of January 31, 2023                                 | (10,729)                       | (951)            | (11,680)   |
+| Other comprehensive income (loss) before reclassifications, net | 322                            | (8)              | 314        |
+| Reclassifications to income, net                                |                                | 64               | 64         |
+# Note 5. Accrued Liabilities
+
+The Company's accrued liabilities consist of the following as of January 31, 2025 and 2024:
+Balance Sheets. Maximum potential future payments under these indemnities was $3.1 billion, based on exchange rates as of January 31, 2025.
+| (Amounts in millions)                            | January 31, | 2025    | 2024    |
+| ------------------------------------------------ | ----------- | ------- | ------- |
+| Deferred tax assets:                             |             |         |         |
+| Loss and tax credit carryforwards                |             | $ 7,539 | $ 7,136 |
+| Accrued liabilities                              |             | 3,009   | 3,066   |
+| 2025                                                                        | 2024     | 2023     |          |
+| Consolidated net income                                                     | $ 20,157 | $ 16,270 | $ 11,292 |
+| Consolidated net (income) loss attributable to noncontrolling interest      | (721)    | (759)    | 388      |
+15, 2024. The Company adopted the ASU for the fiscal year ended January 31, 2025 on a retrospective basis for all prior periods presented in the financial statements, which includes disclosure of cost of sales and operating, selling, general and administrative expenses by segment. See Note 12.
+| (Amounts in millions)                                                     | 2025     | 2024     | 2023     |
+| ------------------------------------------------------------------------- | -------- | -------- | -------- |
+| Consolidated net income                                                   | $ 20,157 | $ 16,270 | $ 11,292 |
+| Consolidated net (income) loss attributable to noncontrolling interest    | (721)    | (759)    | 388      |
+which include amounts for remediation of alleged harms, attorneys' fees, and costs. As of January 31, 2025, all of the accrued liability has been paid. Remaining eligible political subdivisions and federally recognized Native American tribes have until July 15, 2025 and February 24, 2026, respectively, to join these settlements. The Company will owe no additional funds for any eligible political subdivision or federally recognized Native
+(4) Other accrued liabilities includes items such as deferred membership revenue, interest, supply chain, advertising, and maintenance and utilities.
+
+# Note 6. Short-term Borrowings and Long-term Debt
+
+Short-term borrowings consist of commercial paper and lines of credit. Short-term borrowings as of January 31, 2025 and 2024 were $3.1 billion and $0.9 billion, respectively, with weighted-average interest rates of 5.3% and 7.7%, respectively.
+|                           | Fiscal 2026                    | Fiscal 2027       | Fiscal 2028 | Fiscal 2029 | Fiscal 2030 | Thereafter |         |          |          |
+| Liabilities               | Short-term borrowings:         | Variable rate     | $ 3,068     | —           | —           | —          | —       | $ 3,068  |          |
+(1) Accrued wages and benefits include accrued wages, salaries, vacation, bonuses and other incentive plans.
+
+(2) Self-insurance consists of insurance-related liabilities, such as workers' compensation, general liability, auto liability, product liability and certain employee-related healthcare benefits.
+
+(3) Accrued non-income taxes include accrued payroll, property, value-added, sales and miscellaneous other taxes.
+Also during fiscal 2023, the Company increased its ownership in PhonePe from approximately 76% to approximately 89% as part of the separation from the Company's majority-owned Flipkart subsidiary. In consideration for the transaction, the Company initially recorded a liability to noncontrolling interest holders of $0.9 billion within accrued liabilities in the Company's Consolidated Balance Sheet as of January 31, 2023, which was paid during
+2025-06-05 22:55:39,646 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'total goodwill as of December 31, 2024'}, name='finacial_agent')]
+2025-06-05 22:55:41,011 - INFO - Calling function: finacial_agent with args: {'query': 'total goodwill as of December 31, 2024', 'chat_id': '1749144027284'}
+2025-06-05 22:55:41,011 - INFO - Function result: # Financial Market Data Results:
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+# Finacial Document Results:
+# The following table reflects goodwill activity, by reportable segment, for fiscal 2025 and 2024:
+¹ Goodwill recorded in fiscal 2025 relates to the acquisition of VIZIO Holding Corp. in December 2024 within the Walmart U.S. segment.
+value of each reporting unit is significantly greater than the carrying amount and, accordingly, the Company has not recorded any impairment charges related to goodwill during fiscal 2025, fiscal 2024 or fiscal 2023.
+| Balances as of January 31, 2024                                 | (10,407)                       | (895)            | (11,302)   |
+| Other comprehensive loss before reclassifications, net          | (2,161)                        | (198)            | (2,359)    |
+| Reclassifications to income, net                                | (93)                           | 149              | 56         |
+|                                           | As of January 31, | 2025      | 2024      | 2023      |
+| ----------------------------------------- | ----------------- | --------- | --------- | --------- |
+| Total assets                              |                   | $ 260,823 | $ 252,399 | $ 243,197 |
+| Accumulated depreciation and amortization |                   | 123,646   | 119,602   | 110,286   |
+| (Amounts in millions)         | January 31, 2025 | January 31, 2024 |
+| ----------------------------- | ---------------- | ---------------- |
+| Accrued wages and benefits(1) | 7,897            | 8,590            |
+| Self-insurance(2)             | 4,976            | 4,916            |
+| Accrued non-income taxes(3)   | 3,503            | 3,459            |
+| Deferred gift card revenue    | 2,755            | 2,664            |
+| Goodwill                                                                        | 28,792    | 28,113    |
+| Other long-term assets                                                          | 12,869    | 17,071    |
+| Total assets                                                                    | $ 260,823 | $ 252,399 |
+| LIABILITIES, REDEEMABLE NONCONTROLLING INTEREST, AND SHAREHOLDERS' EQUITY       |           |           |
+| Acquisitions                              | —            | 7                     | —          | 7        |
+| Balances as of January 31, 2024           | 3,364        | 24,428                | 321        | 28,113   |
+| Changes in currency translation and other | —            | (696)                 | —          | (696)    |
+| Acquisitions¹                             | 1,375        | —                     | —          | 1,375    |
+| Balances as of January 31, 2023                                 | (10,729)                       | (951)            | (11,680)   |
+| Other comprehensive income (loss) before reclassifications, net | 322                            | (8)              | 314        |
+| Reclassifications to income, net                                |                                | 64               | 64         |
+("fiscal 2024") and January 31, 2023 ("fiscal 2023"). During fiscal 2025, we generated total revenues of $681.0 billion, which primarily comprised net sales of $674.5 billion.
+| December 1-31, 2024 | 5,727,132                          | $ 93.42                                   | 5,727,132                                                                                      | $ 12.6                                                                          |
+| Balances as of January 31, 2024                   | 8,054                          | 805               | 4,544                             | 89,814                             | ($11,302)               | 83,861                     | 6,488    | 90,349    |
+| (Amounts in millions) | Fiscal Years Ended January 31, | 2025      | 2024      | 2023      |
+| --------------------- | ------------------------------ | --------- | --------- | --------- |
+| Walmart U.S.          | Total assets                   | $ 150,006 | $ 137,782 | $ 130,659 |
+|                       | Depreciation and amortization  | 8,549     | 7,671     | 7,054     |
+| January 31, 2025 | January 31, 2024                                                                          |            |                 |            |               |
+| Notional Amount  |                                                                                           | Fair Value | Notional Amount | Fair Value |               |
+Intangible assets are recorded in other long-term assets in the Company's Consolidated Balance Sheets. As of January 31, 2025 and 2024, the Company had $4.5 billion and $4.1 billion, respectively, in indefinite-lived intangible assets which primarily consists of acquired trade names. There were no significant impairment charges related to intangible assets for fiscal 2025, 2024 or 2023.
+
+# Fair Value Measurement
+| Balances as of January 31, 2025                                 | $ (12,661)                     | $ (944)          | $ (13,605) |
+| (Dollar amounts and retail square feet in millions) | Fiscal Years Ended January 31 | 2025     | 2024     | 2023     |
+| --------------------------------------------------- | ----------------------------- | -------- | -------- | -------- |
+| Net sales                                           |                               | $462,415 | $441,817 | $420,553 |
+| (Amounts in millions)                            | January 31, | 2025    | 2024    |
+| ------------------------------------------------ | ----------- | ------- | ------- |
+| Deferred tax assets:                             |             |         |         |
+| Loss and tax credit carryforwards                |             | $ 7,539 | $ 7,136 |
+| Accrued liabilities                              |             | 3,009   | 3,066   |
+| Balances as of January 31, 2025           | $ 4,739      | $ 23,732              | $ 321      | $ 28,792 |
+|                                          |                    |           |           |        |
+| ---------------------------------------- | ------------------ | --------- | --------- | ------ |
+| Fiscal Years Ended January 31,           | 2025               | 2024      | 2023      |        |
+| Net sales                                | $ 674,538          | $ 642,637 | $ 605,881 |        |
+2025-06-05 22:58:01,319 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'what is the stock price of MSFT'}, name='finacial_agent')]
+2025-06-05 22:58:02,496 - INFO - Calling function: finacial_agent with args: {'query': 'what is the stock price of MSFT', 'chat_id': '1749144432787'}
+2025-06-05 22:58:02,497 - INFO - Function result: # Financial Market Data Results:
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+# Finacial Document Results:
+No relevant documents found.
+2025-06-05 22:58:26,683 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'technical indicator of MSFT'}, name='finacial_agent')]
+2025-06-05 22:58:27,660 - INFO - Calling function: finacial_agent with args: {'query': 'technical indicator of MSFT', 'chat_id': '1749144432787'}
+2025-06-05 22:58:27,660 - INFO - Function result: # Financial Market Data Results:
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+# Finacial Document Results:
+No relevant documents found.
+2025-06-05 22:59:00,691 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'current price of etherium'}, name='finacial_agent')]
+2025-06-05 22:59:01,619 - INFO - Calling function: finacial_agent with args: {'query': 'current price of etherium', 'chat_id': '1749144432787'}
+2025-06-05 22:59:01,620 - INFO - Function result: # Financial Market Data Results:
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+# Finacial Document Results:
+No relevant documents found.
+2025-06-05 22:59:20,366 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'technical indicator of ETH-USD'}, name='finacial_agent')]
+2025-06-05 22:59:21,337 - INFO - Calling function: finacial_agent with args: {'query': 'technical indicator of ETH-USD', 'chat_id': '1749144432787'}
+2025-06-05 22:59:21,338 - INFO - Function result: # Financial Market Data Results:
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+# Finacial Document Results:
+No relevant documents found.
+2025-06-05 23:01:16,322 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'what performance obligation is talked about the amazon stock report?'}, name='finacial_agent')]
+2025-06-05 23:01:17,403 - INFO - Calling function: finacial_agent with args: {'query': 'what performance obligation is talked about the amazon stock report?', 'chat_id': '1749144432787'}
+2025-06-05 23:01:17,403 - INFO - Function result: # Financial Market Data Results:
+
+## AAPL
+- Price: $202.82
+- Volume: 43,603,985
+- Daily Change: -0.04%
+
+### Technical Indicators:
+- MA(5): $201.72
+- MA(20): $203.73
+- RSI: 32.0
+- Volatility: 29.5%
+- ATR: $4.43
+
+Last Update: 2025-06-04
+
+
+## AAPL
+- Price: $202.82
+- Volume: 43,603,985
+- Daily Change: -0.04%
+
+### Technical Indicators:
+- MA(5): $201.72
+- MA(20): $203.73
+- RSI: 32.0
+- Volatility: 29.5%
+- ATR: $4.43
+
+Last Update: 2025-06-04
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+# Finacial Document Results:
+Additionally, we have performance obligations, primarily related to AWS, associated with commitments in customer contracts for future services that have not yet been recognized in our financial statements. For contracts with original terms that exceed one year, those commitments not yet recognized were approximately $177 billion as of December 31, 2024. The weighted average remaining life of our long-term contracts is 4.1 years. However, the
+Equity investments in private companies for which we do not have the ability to exercise significant influence are accounted for at cost, with adjustments for observable changes in prices or impairments recognized in “Other income (expense), net” on our consolidated statements of operations. Each reporting period, we perform a qualitative assessment to evaluate whether the investment is impaired. Our assessment includes a review of recent
+or retroactive basis. We are currently evaluating the ASU to determine its impact on our disclosures.
+(1) Includes non-cancellable financing obligations for fulfillment network and data center facilities. Excluding interest, current financing obligations of $271 million and $312 million are recorded within “Accrued expenses and other” and $6.6 billion and $7.1 billion are recorded within “Other long-term liabilities” as of December 31, 2023 and 2024. The weighted-average remaining term of the financing obligations was 17.0 years and 16.1 years
+(2) Includes unconditional purchase obligations related to long-term agreements to acquire and license digital media content, procure energy, and license software that are not reflected on the consolidated balance sheets. For those agreements with variable terms, we do not estimate the total obligation beyond any minimum quantities and/or pricing as of the reporting date. Purchase obligations associated with renewal provisions solely at the
+(2) We are required to pledge or otherwise restrict a portion of our cash, cash equivalents, and marketable debt securities primarily as collateral for real estate, amounts due to third-party sellers in certain jurisdictions, debt, standby and trade letters of credit, and licenses of digital media content. We classify cash, cash equivalents, and marketable debt securities with use restrictions of less than twelve months as “Accounts receivable,
+Our assessment includes a review of recent operating results and trends, recent sales/acquisitions of the investee securities, and other publicly available data. If the investment is impaired, we write it down to its estimated fair value. As of December 31, 2023 and 2024, these investments had a carrying value of $754 million and $989 million.
+# Accounting Pronouncements Not Yet Adopted
+met, including when management has committed to a plan to sell the asset, the asset is available for sale in its immediate condition, and the sale is probable within one year of the reporting date. Assets held for sale are reported at the lower of cost or fair value less costs to sell. Assets held for sale were not significant as of December 31, 2023 and 2024.
+investment activity, net of tax” on our consolidated statements of operations. Each reporting period, we evaluate whether declines in fair value below carrying value are other-than-temporary and if so, we write down the investment to its estimated fair value. As of December 31, 2023 and 2024, these investments had a carrying value of $614 million and $1.2 billion.
+# Financial Overview
+
+A gain will be recorded in “Other income (expense), net” in our Q1 2025 consolidated statement of operations. We also have a commercial arrangement primarily for the provision of AWS cloud services, which includes the use of AWS chips.
+
+# Equity Investments
+Unearned revenue is recorded when payments are received or due in advance of performing our service obligations and is recognized over the service period. Unearned revenue primarily relates to prepayments of AWS services and Amazon Prime memberships. Our total unearned revenue as of December 31, 2023 was $20.9 billion, of which $14.2 billion was recognized as revenue during the year ended December 31, 2024 and our total unearned revenue as of
+# Commitments
+
+The following summarizes our principal contractual commitments, excluding open orders for purchases that support normal operations and are generally cancellable, as of December 31, 2024 (in millions):
+# Accrued Expenses and Other
+
+Included in “Accrued expenses and other” on our consolidated balance sheets are liabilities primarily related to tax-related liabilities, leases and asset retirement obligations, self-insurance liabilities, payroll and related expenses, current debt, unredeemed gift cards, customer liabilities, marketing liabilities, acquired digital media content, and other operating expenses.
+into U.S. Dollars at period-end foreign exchange rates, and revenues and expenses are translated at average rates prevailing throughout the period. Translation adjustments are included in “Accumulated other comprehensive income (loss),” a separate component of stockholders’ equity. Transaction gains and losses including intercompany transactions denominated in a currency other than the functional currency of the entity involved are included in
+(3) Includes asset retirement obligations, the estimated timing and amounts of payments for rent and tenant improvements associated with build-to-suit lease arrangements that are under construction, and liabilities associated with digital media content agreements with initial terms greater than one year. Excludes approximately $6.5 billion of income tax contingencies for which we cannot make a reasonably reliable estimate of the amount and
+During 2023, we also completed acquisition activity for immaterial aggregate cash consideration, net of cash acquired.
+
+# 2024 Acquisition Activity
+
+During 2024, we completed acquisition activity for aggregate cash consideration of $780 million, net of cash acquired. The primary reasons for these transactions were to acquire technologies and know-how to enable Amazon to serve customers more effectively or to expand our customer base.
+obligations was 17.0 years and 16.1 years and the weighted-average imputed interest rate was 3.1% as of December 31, 2023 and 2024.
+be applied on either a prospective or retroactive basis. We expect to adopt the ASU on a retroactive basis.
+for general, product, and automobile liabilities by $1.3 billion primarily driven by changes in our estimates about the costs of asserted and unasserted claims, which was primarily recorded in “Cost of sales” on our consolidated statements of operations and impacted our North America segment. Increases to our reserves driven by.
+2025-06-05 23:03:53,908 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'summary report of Cash, Cash Equivalents, Restricted Cash, and Marketable Securities'}, name='finacial_agent')]
+2025-06-05 23:03:54,961 - INFO - Calling function: finacial_agent with args: {'query': 'summary report of Cash, Cash Equivalents, Restricted Cash, and Marketable Securities', 'chat_id': '1749144432787'}
+2025-06-05 23:03:54,961 - INFO - Function result: # Financial Market Data Results:
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+# Finacial Document Results:
+As of December 31, 2023 and 2024, our cash, cash equivalents, restricted cash, and marketable securities primarily consisted of cash, AAA-rated money market funds, U.S. and foreign government and agency securities, other investment grade securities, and marketable equity securities. Cash equivalents and marketable securities are recorded at fair value. The following table summarizes, by major security type, our cash, cash equivalents, restricted
+Less: Restricted cash, cash equivalents, and marketable securities (2) $ (503)
+
+Total cash, cash equivalents, and marketable securities $ 86,780
+
+# December 31, 2024
+# Note 2 — FINANCIAL INSTRUMENTS
+
+# Cash, Cash Equivalents, Restricted Cash, and Marketable Securities
+type, our cash, cash equivalents, restricted cash, and marketable securities that are measured at fair value on a recurring basis and are categorized using the fair value hierarchy (in millions):
+Less: Restricted cash, cash equivalents, and marketable securities (2) $ (3,533)
+
+Total cash, cash equivalents, and marketable securities $ 101,202
+
+(1) The related unrealized gain (loss) recorded in “Other income (expense), net” was $(13.6) billion, $1.0 billion, and $(1.3) billion for the years ended December 31, 2022, 2023, and 2024.
+| Restricted cash included in accounts receivable, net and other                                       | 497               | 247               |
+| Restricted cash included in other assets                                                             | 6                 | 3,286             |
+| Total cash, cash equivalents, and restricted cash shown in the consolidated statements of cash flows | $ 73,890          | $ 82,312          |
+# The following table summarizes the remaining contractual maturities of our cash equivalents and marketable debt securities as of December 31, 2024 (in millions):
+(2) We are required to pledge or otherwise restrict a portion of our cash, cash equivalents, and marketable debt securities primarily as collateral for real estate, amounts due to third-party sellers in certain jurisdictions, debt, standby and trade letters of credit, and licenses of digital media content. We classify cash, cash equivalents, and marketable debt securities with use restrictions of less than twelve months as “Accounts receivable,
+Actual maturities may differ from the contractual maturities because borrowers may have certain prepayment conditions.
+
+# Consolidated Statements of Cash Flows Reconciliation
+
+The following table provides a reconciliation of the amount of cash, cash equivalents, and restricted cash reported within the consolidated balance sheets to the total of the same such amounts shown in the consolidated statements of cash flows (in millions):
+|                                                                                                      | December 31, 2023 | December 31, 2024 |
+| ---------------------------------------------------------------------------------------------------- | ----------------- | ----------------- |
+| Cash and cash equivalents                                                                            | $ 73,387          | $ 78,779          |
+| Cash                                     | $ 17,055               | —                       | —                          | $ 17,055 |           |     |         |           |
+| Level 1 securities:                      |                        |                         |                            |          |           |     |         |           |
+# The following table summarizes gross gains and gross losses realized on sales of marketable debt securities (in millions):
+
+| Year Ended December 31 | 2022 | 2023 | 2024 |
+| ---------------------- | ---- | ---- | ---- |
+| Realized gains         | $ 43 | $ 2  | $ 3  |
+| Realized losses        | 341  | 67   | 10   |
+| Cash                                     | $ 11,706               | —                      | —                       | $ 11,706                   |
+| **Level 1 securities:**                  |                        |                        |                         |                            |
+| Money market funds                       | $ 39,160               | —                      | —                       | $ 39,160                   |
+into U.S. Dollars at period-end foreign exchange rates, and revenues and expenses are translated at average rates prevailing throughout the period. Translation adjustments are included in “Accumulated other comprehensive income (loss),” a separate component of stockholders’ equity. Transaction gains and losses including intercompany transactions denominated in a currency other than the functional currency of the entity involved are included in
+| U.S. government and agency securities    | $ 1,789                | 1                      | (91)                    | $ 1,699                    |
+| Corporate debt securities                | $ 27,996               | —                      | (191)                   | $ 27,805                   |
+| Asset-backed securities                  | $ 1,707                | —                      | (61)                    | $ 1,646                    |
+| Equity securities (1)                    | $ 4,658                |                        |                         |                            |
+| **Level 2 securities:**                  |                        |                        |                         |                            |
+| Foreign government and agency securities | $ 505                  | —                      | —                       | $ 505                      |
+| Asset-backed securities                  | $ 1,539                | 2                       | (18)                       | $ 1,523  |           |     |         |           |
+| Other debt securities                    | $ 68                   | —                       | (1)                        | $ 67     |           |     |         |           |
+| Level 2 securities:                      |                        |                         |                            |          |           |     |         |           |
+| Foreign government and agency securities | $ 177                  | —                       | —                          | $ 177    |           |     |         |           |
+Our assessment includes a review of recent operating results and trends, recent sales/acquisitions of the investee securities, and other publicly available data. If the investment is impaired, we write it down to its estimated fair value. As of December 31, 2023 and 2024, these investments had a carrying value of $754 million and $989 million.
+| U.S. government and agency securities    | $ 3,452                | 1                       | (52)                       | $ 3,401  |           |     |         |           |
+| Corporate debt securities                | $ 50,959               | 3                       | (50)                       | $ 50,912 |           |     |         |           |
+2025-06-05 23:05:06,561 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'what amazon services provide profit?'}, name='finacial_agent')]
+2025-06-05 23:05:08,270 - INFO - Calling function: finacial_agent with args: {'query': 'what amazon services provide profit?', 'chat_id': '1749144432787'}
+2025-06-05 23:05:08,270 - INFO - Function result: # Financial Market Data Results:
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+## AAPL
+- Price: $202.82
+- Volume: 43,603,985
+- Daily Change: -0.04%
+
+### Technical Indicators:
+- MA(5): $201.72
+- MA(20): $203.73
+- RSI: 32.0
+- Volatility: 29.5%
+- ATR: $4.43
+
+Last Update: 2025-06-04
+
+
+## AAPL
+- Price: $202.82
+- Volume: 43,603,985
+- Daily Change: -0.04%
+
+### Technical Indicators:
+- MA(5): $201.72
+- MA(20): $203.73
+- RSI: 32.0
+- Volatility: 29.5%
+- ATR: $4.43
+
+Last Update: 2025-06-04
+
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+# Finacial Document Results:
+# Financial Overview
+
+A gain will be recorded in “Other income (expense), net” in our Q1 2025 consolidated statement of operations. We also have a commercial arrangement primarily for the provision of AWS cloud services, which includes the use of AWS chips.
+
+# Equity Investments
+Unearned revenue is recorded when payments are received or due in advance of performing our service obligations and is recognized over the service period. Unearned revenue primarily relates to prepayments of AWS services and Amazon Prime memberships. Our total unearned revenue as of December 31, 2023 was $20.9 billion, of which $14.2 billion was recognized as revenue during the year ended December 31, 2024 and our total unearned revenue as of
+Additionally, we have performance obligations, primarily related to AWS, associated with commitments in customer contracts for future services that have not yet been recognized in our financial statements. For contracts with original terms that exceed one year, those commitments not yet recognized were approximately $177 billion as of December 31, 2024. The weighted average remaining life of our long-term contracts is 4.1 years. However, the
+During 2023, we also completed acquisition activity for immaterial aggregate cash consideration, net of cash acquired.
+
+# 2024 Acquisition Activity
+
+During 2024, we completed acquisition activity for aggregate cash consideration of $780 million, net of cash acquired. The primary reasons for these transactions were to acquire technologies and know-how to enable Amazon to serve customers more effectively or to expand our customer base.
+# Accrued Expenses and Other
+
+Included in “Accrued expenses and other” on our consolidated balance sheets are liabilities primarily related to tax-related liabilities, leases and asset retirement obligations, self-insurance liabilities, payroll and related expenses, current debt, unredeemed gift cards, customer liabilities, marketing liabilities, acquired digital media content, and other operating expenses.
+| Segment                      | Goodwill Activity (in millions) |         |              |          |
+| ---------------------------- | ------------------------------- | ------- | ------------ | -------- |
+| North America                | International                   | AWS     | Consolidated |          |
+| Goodwill - January 1, 2023   | $ 16,621                        | $ 2,411 | $ 1,256      | $ 20,288 |
+outstanding under the Commercial Paper Programs as of December 31, 2023 and 2024. We use the net proceeds from the issuance of commercial paper for general corporate purposes.
+currency of the entity involved are included in “Other income (expense), net” on our consolidated statements of operations. In connection with the settlement and remeasurement of intercompany balances, we recorded gains (losses) of $386 million, $(329) million, and $413 million in 2022, 2023, and 2024.
+As of December 31, 2023 and 2024, our liabilities for payroll related expenses were $7.7 billion and $7.5 billion and our liabilities for unredeemed gift cards were $5.3 billion and $5.4 billion. We reduce the liability for a gift card when redeemed by a customer. The portion of gift cards that we do not expect to be redeemed is recognized based on customer usage patterns.
+
+# Self-Insurance Liabilities
+Although we maintain certain high-deductible, third-party insurance coverage for catastrophic losses, we effectively self-insure for exposure primarily related to workers’ compensation, employee healthcare benefits, general and product liability, and automobile liability, including liability resulting from third-party transportation service providers. We estimate self-insurance liabilities by considering historical claims experience, frequency
+type, our cash, cash equivalents, restricted cash, and marketable securities that are measured at fair value on a recurring basis and are categorized using the fair value hierarchy (in millions):
+We have internationally-focused stores for which the net sales generated, as well as most of the related expenses directly incurred from those operations, are denominated in local functional currencies. The functional currency of our subsidiaries that either operate or support these stores is generally the same as the local currency. Assets and liabilities of these subsidiaries are translated into U.S. Dollars at period-end foreign exchange
+Pro forma results of operations have not been presented because the effects of the 2024 transactions, individually and in the aggregate, were not material to our consolidated results of operations. Transaction-related costs were expensed as incurred and were not significant.
+
+# Goodwill
+# Commitments
+
+The following summarizes our principal contractual commitments, excluding open orders for purchases that support normal operations and are generally cancellable, as of December 31, 2024 (in millions):
+long-term contracts is 4.1 years. However, the amount and timing of revenue recognition is largely driven by customer usage, which can extend beyond the original contractual term.
+# Goodwill
+
+The goodwill resulting from the acquisition activity is primarily related to expected improvements in technology performance and functionality, as well as sales growth from future product and service offerings and new customers, together with certain intangible assets that do not qualify for separate recognition. The goodwill resulting from the acquisition activity is generally not deductible for tax purposes.
+# Accounting Pronouncements Not Yet Adopted
+Equity investments in private companies for which we do not have the ability to exercise significant influence are accounted for at cost, with adjustments for observable changes in prices or impairments recognized in “Other income (expense), net” on our consolidated statements of operations. Each reporting period, we perform a qualitative assessment to evaluate whether the investment is impaired. Our assessment includes a review of recent
+(2) We are required to pledge or otherwise restrict a portion of our cash, cash equivalents, and marketable debt securities primarily as collateral for real estate, amounts due to third-party sellers in certain jurisdictions, debt, standby and trade letters of credit, and licenses of digital media content. We classify cash, cash equivalents, and marketable debt securities with use restrictions of less than twelve months as “Accounts receivable,
+into U.S. Dollars at period-end foreign exchange rates, and revenues and expenses are translated at average rates prevailing throughout the period. Translation adjustments are included in “Accumulated other comprehensive income (loss),” a separate component of stockholders’ equity. Transaction gains and losses including intercompany transactions denominated in a currency other than the functional currency of the entity involved are included in

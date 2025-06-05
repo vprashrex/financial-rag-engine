@@ -4,6 +4,8 @@ from fastapi.staticfiles import StaticFiles
 from fastapi.templating  import Jinja2Templates
 from fastapi.responses import HTMLResponse
 from fastapi.requests import Request
+from memory.conv_memory import init_db
+from contextlib import asynccontextmanager
 
 def init_app():
     app = FastAPI()
@@ -15,8 +17,16 @@ def init_app():
         allow_origins=["*"],  # Allow all origins for development; restrict in production
         allow_credentials=True,
         allow_methods=["*"],
-        allow_headers=["*"],
+        allow_headers=["*"]
     )
+
+    # Startup event to initialize the database
+    @asynccontextmanager
+    async def lifespan():
+        """
+        Initialize the database connection when the application starts.
+        """
+        init_db()
 
     # Serve static files from the 'static' directory
     app.mount("/static", StaticFiles(directory="./static"), name="static")
