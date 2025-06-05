@@ -17,7 +17,7 @@ This application is a comprehensive financial analysis tool that integrates:
 ![alt text](image.png)
 
 ## Demo Video
-![Demo Video](https://drive.google.com/file/d/1Kvfd3X5sewCnYPEKCyhyxrlPVeCmT1Ym/view?usp=sharing)
+https://drive.google.com/file/d/1Kvfd3X5sewCnYPEKCyhyxrlPVeCmT1Ym/view?usp=sharing
 
 ## 🏗️ Architecture
 
