@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Chat Assistant</title>
+    <link rel="stylesheet" href="../static/styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <div class="sidebar">
+            <div class="sidebar-header">
+                <h2><i class="fas fa-robot"></i> AI Assistant</h2>
+                <button class="new-chat-btn" id="newChatBtn">
+                    <i class="fas fa-plus"></i>
+                    <span>New Chat</span>
+                </button>
+            </div>
+            
+            <div class="chat-history">
+                <h3>Chat History</h3>
+                <div class="chat-list" id="chatList">
+                    <!-- Chat history items will be populated here -->
+                </div>
+            </div>
+            
+            <div class="sidebar-footer">
+                <button class="fetch-market-btn" id="fetchMarketBtn">
+                    <i class="fas fa-chart-line"></i>
+                    <span>Fetch Market Data</span>
+                    <div class="market-status" id="marketStatus">
+                        <small>Last updated: <span id="lastUpdated">Never</span></small>
+                    </div>
+                </button>
+            </div>
+        </div>
+
+        <!-- Main Chat Area -->
+        <div class="main-content">
+            <div class="chat-header">
+                <div class="chat-title">
+                    <h3 id="activeChatTitle">Select a chat or start a new conversation</h3>
+                    <span class="chat-id" id="activeChatId"></span>
+                </div>
+                
+                <!-- Document Upload Section -->
+                <div class="document-section" id="documentSection" style="display: none;">
+                    <button class="upload-btn" id="uploadBtn">
+                        <i class="fas fa-paperclip"></i>
+                        <span>Attach File</span>
+                    </button>
+                    <input type="file" id="fileInput" accept=".pdf" style="display: none;">
+                    
+                    <div class="documents-list" id="documentsList">
+                        <!-- Uploaded documents will appear here -->
+                    </div>
+                </div>
+            </div>
+
+            <div class="chat-messages" id="chatMessages">
+                <div class="welcome-message">
+                    <div class="welcome-content">
+                        <i class="fas fa-robot welcome-icon"></i>
+                        <h2>Welcome to AI Assistant</h2>
+                        <p>Start a new conversation or select from your chat history</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="chat-input-container" id="chatInputContainer" style="display: none;">
+                <div class="chat-input">
+                    <input type="text" id="messageInput" placeholder="Type your message here..." disabled>
+                    <button class="send-btn" id="sendBtn" disabled>
+                        <i class="fas fa-paper-plane"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Loading Overlay -->
+    <div class="loading-overlay" id="loadingOverlay">
+        <div class="loading-spinner">
+            <i class="fas fa-spinner"></i>
+        </div>
+    </div>
+
+    <!-- Upload Progress Modal -->
+    <div class="modal" id="uploadModal">
+        <div class="modal-content">
+            <div class="upload-progress">
+                <i class="fas fa-upload"></i>
+                <h3>Uploading Document</h3>
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progressFill"></div>
+                </div>
+                <p id="uploadStatus">Processing your document...</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="../static/script.js"></script>
+</body>
+</html>

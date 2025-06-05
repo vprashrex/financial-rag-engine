@@ -117,24 +117,22 @@ async def upload_pdf(
     
 @router.get("/documents/{chat_id}")
 async def get_documents(
-    chat_id: str = Path(..., description="The ID of the chat"),
-    k: Optional[int] = Query(5, description="Number of documents to return")
+    chat_id: str = Path(..., description="The ID of the chat")
 ):
     """
     Retrieve a list of documents associated with a specific chat ID.
     
     Args:
         chat_id: Unique identifier for the chat
-        k: Number of documents to return (default is 5)
     
     Returns:
         JSON response with list of documents or error message
     """
-    logger.info(f"Retrieving documents for chat_id: {chat_id}, limit: {k}")
+    logger.info(f"Retrieving documents for chat_id: {chat_id}")
     
     try:
         # Fetch list of documents from memory
-        documents = await get_list_of_documents(chat_id=chat_id, k=k)
+        documents = await get_list_of_documents(chat_id=chat_id)
         
         if not documents:
             logger.warning(f"No documents found for chat_id: {chat_id}")

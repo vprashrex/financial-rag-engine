@@ -232,3 +232,32 @@
 2025-06-05 16:50:47,675 - DEBUG - Collection 'market_data_collection' exists
 2025-06-05 16:50:47,675 - DEBUG - Collection 'market_data_collection' exists
 2025-06-05 16:50:48,128 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'current prices of Bitcoin and Ethereum'
+2025-06-05 20:00:31,218 - DEBUG - Successfully updated 5 documents in market_data_collection
+2025-06-05 20:16:36,621 - INFO - Initialized vector DB for chat_id: 1749134728679 in ./financial_documents_db/1749134728679
+2025-06-05 20:16:36,621 - INFO - Processing PDF for chat_id 1749134728679: Hiring Tasks.pdf
+2025-06-05 20:16:36,621 - INFO - Starting to parse PDF for chat_id 1749134728679: uploads\1749134728679\Hiring Tasks.pdf
+2025-06-05 20:16:48,537 - INFO - Successfully parsed PDF for chat_id 1749134728679: uploads\1749134728679\Hiring Tasks.pdf
+2025-06-05 20:16:48,537 - INFO - Created 8 document chunks for chat_id 1749134728679
+2025-06-05 20:16:49,971 - DEBUG - Successfully updated 8 documents in financial_documents_collection_1749134728679
+2025-06-05 20:16:49,986 - INFO - Successfully processed and stored PDF for chat_id 1749134728679: Hiring Tasks.pdf
+2025-06-05 20:17:49,038 - INFO - Initialized vector DB for chat_id: 1749134728679 in ./financial_documents_db/1749134728679
+2025-06-05 20:17:49,038 - INFO - Querying collection: financial_documents_collection_1749134728679 for chat_id: 1749134728679
+2025-06-05 20:17:49,055 - DEBUG - Collection 'financial_documents_collection_1749134728679' exists
+2025-06-05 20:17:49,504 - INFO - Retrieved 5 documents from collection 'financial_documents_collection_1749134728679' for query: 'what is the stock price of apple?'
+2025-06-05 20:17:49,538 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 20:17:49,538 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 20:17:50,033 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'what is the stock price of apple?'
+2025-06-05 20:18:02,338 - INFO - Initialized vector DB for chat_id: 1749134728679 in ./financial_documents_db/1749134728679
+2025-06-05 20:18:02,338 - INFO - Querying collection: financial_documents_collection_1749134728679 for chat_id: 1749134728679
+2025-06-05 20:18:02,338 - DEBUG - Collection 'financial_documents_collection_1749134728679' exists
+2025-06-05 20:18:02,755 - INFO - Retrieved 5 documents from collection 'financial_documents_collection_1749134728679' for query: 'what is the stock price of etherum?'
+2025-06-05 20:18:02,771 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 20:18:02,771 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 20:18:03,193 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'what is the stock price of etherum?'
+2025-06-05 20:18:18,273 - INFO - Initialized vector DB for chat_id: 1749134728679 in ./financial_documents_db/1749134728679
+2025-06-05 20:18:18,273 - INFO - Querying collection: financial_documents_collection_1749134728679 for chat_id: 1749134728679
+2025-06-05 20:18:18,273 - DEBUG - Collection 'financial_documents_collection_1749134728679' exists
+2025-06-05 20:18:18,739 - INFO - Retrieved 5 documents from collection 'financial_documents_collection_1749134728679' for query: 'technical indicator of apple stock'
+2025-06-05 20:18:18,772 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 20:18:18,772 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 20:18:19,172 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'technical indicator of apple stock'

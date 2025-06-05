@@ -100,3 +100,20 @@ Fetching crypto data...
 2025-06-05 16:47:51,555 - INFO - Retrieved 5 market data documents for query: 'technical analysis for Apple'
 2025-06-05 16:50:47,675 - INFO - Querying market data collection: market_data_collection
 2025-06-05 16:50:48,128 - INFO - Retrieved 5 market data documents for query: 'current prices of Bitcoin and Ethereum'
+2025-06-05 20:00:25,183 - DEBUG - Fetching stock data...
+2025-06-05 20:00:26,599 - DEBUG - Successfully processed AAPL
+2025-06-05 20:00:27,384 - DEBUG - Successfully processed MSFT
+2025-06-05 20:00:28,115 - DEBUG - Successfully processed JPM
+2025-06-05 20:00:28,117 - DEBUG - 
+Fetching crypto data...
+2025-06-05 20:00:28,999 - DEBUG - Available columns for BTC: ['1. open', '2. high', '3. low', '4. close', '5. volume']
+2025-06-05 20:00:29,035 - DEBUG - Successfully processed BTC
+2025-06-05 20:00:29,889 - DEBUG - Available columns for ETH: ['1. open', '2. high', '3. low', '4. close', '5. volume']
+2025-06-05 20:00:29,904 - DEBUG - Successfully processed ETH
+2025-06-05 20:00:31,218 - DEBUG - Successfully updated vector database with market data
+2025-06-05 20:17:49,538 - INFO - Querying market data collection: market_data_collection
+2025-06-05 20:17:50,033 - INFO - Retrieved 5 market data documents for query: 'what is the stock price of apple?'
+2025-06-05 20:18:02,771 - INFO - Querying market data collection: market_data_collection
+2025-06-05 20:18:03,193 - INFO - Retrieved 5 market data documents for query: 'what is the stock price of etherum?'
+2025-06-05 20:18:18,772 - INFO - Querying market data collection: market_data_collection
+2025-06-05 20:18:19,172 - INFO - Retrieved 5 market data documents for query: 'technical indicator of apple stock'
