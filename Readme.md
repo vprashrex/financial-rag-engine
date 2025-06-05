@@ -14,7 +14,7 @@ This application is a comprehensive financial analysis tool that integrates:
 - **Modern Frontend**: Responsive web interface with real-time chat
 
 ## Screenshots
-![](image.png)
+![alt text](image.png)
 
 ## 🏗️ Architecture
 
