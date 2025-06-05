@@ -1,0 +1,35 @@
+2025-06-04 22:49:26,748 - DEBUG - Available columns for BTC: ['1. open', '2. high', '3. low', '4. close', '5. volume']
+2025-06-04 22:49:26,882 - ERROR - Columns in response: ['1. open', '2. high', '3. low', '4. close', '5. volume']
+2025-06-04 22:50:18,480 - DEBUG - Available columns for BTC: ['1. open', '2. high', '3. low', '4. close', '5. volume']
+2025-06-04 22:50:18,494 - ERROR - Columns in response: ['1. open', '2. high', '3. low', '4. close', '5. volume']
+2025-06-04 22:53:26,395 - DEBUG - Fetching stock data...
+2025-06-04 22:53:28,054 - DEBUG - Successfully processed AAPL
+2025-06-04 22:53:29,357 - DEBUG - Successfully processed MSFT
+2025-06-04 22:53:30,574 - DEBUG - Successfully processed JPM
+2025-06-04 22:53:30,579 - DEBUG - 
+Fetching crypto data...
+2025-06-04 22:53:31,911 - DEBUG - Available columns for BTC: ['1. open', '2. high', '3. low', '4. close', '5. volume']
+2025-06-04 22:53:31,934 - DEBUG - Successfully processed BTC
+2025-06-04 22:53:33,354 - DEBUG - Available columns for ETH: ['1. open', '2. high', '3. low', '4. close', '5. volume']
+2025-06-04 22:53:33,354 - DEBUG - Successfully processed ETH
+2025-06-04 22:54:06,234 - DEBUG - Fetching stock data...
+2025-06-04 22:54:07,372 - DEBUG - Successfully processed AAPL
+2025-06-04 22:54:08,534 - DEBUG - Successfully processed MSFT
+2025-06-04 22:54:09,247 - DEBUG - Successfully processed JPM
+2025-06-04 22:54:09,247 - DEBUG - 
+Fetching crypto data...
+2025-06-04 22:54:10,599 - DEBUG - Available columns for BTC: ['1. open', '2. high', '3. low', '4. close', '5. volume']
+2025-06-04 22:54:10,615 - DEBUG - Successfully processed BTC
+2025-06-04 22:54:11,547 - DEBUG - Available columns for ETH: ['1. open', '2. high', '3. low', '4. close', '5. volume']
+2025-06-04 22:54:11,562 - DEBUG - Successfully processed ETH
+2025-06-04 23:57:12,908 - DEBUG - Fetching stock data...
+2025-06-04 23:57:15,075 - DEBUG - Successfully processed AAPL
+2025-06-04 23:57:15,837 - DEBUG - Successfully processed MSFT
+2025-06-04 23:57:17,050 - DEBUG - Successfully processed JPM
+2025-06-04 23:57:17,051 - DEBUG - 
+Fetching crypto data...
+2025-06-04 23:57:18,579 - DEBUG - Available columns for BTC: ['1. open', '2. high', '3. low', '4. close', '5. volume']
+2025-06-04 23:57:18,612 - DEBUG - Successfully processed BTC
+2025-06-04 23:57:19,723 - DEBUG - Available columns for ETH: ['1. open', '2. high', '3. low', '4. close', '5. volume']
+2025-06-04 23:57:19,850 - DEBUG - Successfully processed ETH
+2025-06-04 23:57:19,861 - ERROR - Error fetching or updating market data: 'str' object has no attribute 'id'

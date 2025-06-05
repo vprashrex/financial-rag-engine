@@ -1,0 +1,125 @@
+2025-06-04 17:09:47,211 - ERROR - Error creating chat completion: object ChatCompletion can't be used in 'await' expression
+2025-06-04 17:09:52,895 - ERROR - Error creating chat completion: object ChatCompletion can't be used in 'await' expression
+2025-06-04 17:09:58,518 - ERROR - Error creating chat completion: object ChatCompletion can't be used in 'await' expression
+2025-06-04 17:10:39,284 - ERROR - Error creating chat completion: object ChatCompletion can't be used in 'await' expression
+2025-06-04 17:10:47,395 - ERROR - Error creating chat completion: object ChatCompletion can't be used in 'await' expression
+2025-06-04 17:10:55,798 - ERROR - Error creating chat completion: object ChatCompletion can't be used in 'await' expression
+2025-06-04 18:23:56,721 - ERROR - Error generating response: 'NoneType' object is not subscriptable
+2025-06-04 18:24:16,830 - ERROR - Error generating response: 'NoneType' object is not subscriptable
+2025-06-04 18:24:30,133 - ERROR - Error generating response: 'NoneType' object is not subscriptable
+2025-06-04 18:47:51,075 - ERROR - Error creating chat completion: Error code: 400 - [{'error': {'code': 400, 'message': 'Failed to parse parameters of tool declaration with name greet_user', 'status': 'INVALID_ARGUMENT'}}]
+2025-06-04 18:47:52,432 - ERROR - Error creating chat completion: Error code: 400 - [{'error': {'code': 400, 'message': 'Failed to parse parameters of tool declaration with name greet_user', 'status': 'INVALID_ARGUMENT'}}]
+2025-06-04 18:47:54,046 - ERROR - Error creating chat completion: Error code: 400 - [{'error': {'code': 400, 'message': 'Failed to parse parameters of tool declaration with name greet_user', 'status': 'INVALID_ARGUMENT'}}]
+2025-06-04 18:47:55,719 - ERROR - Error creating chat completion: Error code: 400 - [{'error': {'code': 400, 'message': 'Failed to parse parameters of tool declaration with name greet_user', 'status': 'INVALID_ARGUMENT'}}]
+2025-06-04 18:48:39,796 - ERROR - Error creating chat completion: Error code: 400 - [{'error': {'code': 400, 'message': 'Failed to parse parameters of tool declaration with name greet_user', 'status': 'INVALID_ARGUMENT'}}]
+2025-06-04 18:48:41,163 - ERROR - Error creating chat completion: Error code: 400 - [{'error': {'code': 400, 'message': 'Failed to parse parameters of tool declaration with name greet_user', 'status': 'INVALID_ARGUMENT'}}]
+2025-06-04 18:48:43,065 - ERROR - Error creating chat completion: Error code: 400 - [{'error': {'code': 400, 'message': 'Failed to parse parameters of tool declaration with name greet_user', 'status': 'INVALID_ARGUMENT'}}]
+2025-06-04 18:48:46,664 - ERROR - Error creating chat completion: Error code: 400 - [{'error': {'code': 400, 'message': 'Failed to parse parameters of tool declaration with name greet_user', 'status': 'INVALID_ARGUMENT'}}]
+2025-06-04 18:48:54,198 - ERROR - Error creating chat completion: Error code: 400 - [{'error': {'code': 400, 'message': 'Failed to parse parameters of tool declaration with name greet_user', 'status': 'INVALID_ARGUMENT'}}]
+2025-06-04 18:48:54,198 - ERROR - Error generating response: RetryError[<Future at 0x1f553fb52d0 state=finished raised BadRequestError>]
+2025-06-04 18:49:14,606 - ERROR - Error creating chat completion: Error code: 400 - [{'error': {'code': 400, 'message': 'Failed to parse parameters of tool declaration with name greet_user', 'status': 'INVALID_ARGUMENT'}}]
+2025-06-04 18:49:15,996 - ERROR - Error creating chat completion: Error code: 400 - [{'error': {'code': 400, 'message': 'Failed to parse parameters of tool declaration with name greet_user', 'status': 'INVALID_ARGUMENT'}}]
+2025-06-04 18:49:18,237 - ERROR - Error creating chat completion: Error code: 400 - [{'error': {'code': 400, 'message': 'Failed to parse parameters of tool declaration with name greet_user', 'status': 'INVALID_ARGUMENT'}}]
+2025-06-04 18:49:19,926 - ERROR - Error creating chat completion: Error code: 400 - [{'error': {'code': 400, 'message': 'Failed to parse parameters of tool declaration with name greet_user', 'status': 'INVALID_ARGUMENT'}}]
+2025-06-04 18:49:23,291 - ERROR - Error creating chat completion: Error code: 400 - [{'error': {'code': 400, 'message': 'Failed to parse parameters of tool declaration with name greet_user', 'status': 'INVALID_ARGUMENT'}}]
+2025-06-04 18:49:23,291 - ERROR - Error generating response: RetryError[<Future at 0x1611bad47d0 state=finished raised BadRequestError>]
+2025-06-04 18:56:02,543 - ERROR - Error generating response: Object of type ChatCompletion is not JSON serializable
+2025-06-04 19:08:05,333 - INFO - Calling function greet_user with args {'name': 'Prashant'}
+2025-06-04 19:56:32,501 - ERROR - Error generating response: Part.from_text() takes 1 positional argument but 2 were given
+2025-06-04 20:37:32,937 - ERROR - Error creating chat completion: AsyncModels.generate_content() got an unexpected keyword argument 'tools'
+2025-06-04 20:37:33,947 - ERROR - Error creating chat completion: AsyncModels.generate_content() got an unexpected keyword argument 'tools'
+2025-06-04 20:37:35,589 - ERROR - Error creating chat completion: AsyncModels.generate_content() got an unexpected keyword argument 'tools'
+2025-06-04 20:43:45,360 - ERROR - Error creating chat completion: AsyncModels.generate_content() got an unexpected keyword argument 'tools'
+2025-06-04 20:43:46,363 - ERROR - Error creating chat completion: AsyncModels.generate_content() got an unexpected keyword argument 'tools'
+2025-06-04 20:43:47,959 - ERROR - Error creating chat completion: AsyncModels.generate_content() got an unexpected keyword argument 'tools'
+2025-06-04 20:52:44,784 - ERROR - Error creating chat completion: module 'google.genai.types' has no attribute 'FunctionCalling'
+2025-06-04 20:52:45,788 - ERROR - Error creating chat completion: module 'google.genai.types' has no attribute 'FunctionCalling'
+2025-06-04 20:52:46,906 - ERROR - Error creating chat completion: module 'google.genai.types' has no attribute 'FunctionCalling'
+2025-06-04 21:33:31,876 - INFO - Function call detected: [FunctionCall(id=None, args={'name': ''}, name='greet_user')]
+2025-06-04 21:33:31,876 - INFO - Calling function: greet_user with args: {'name': ''}
+2025-06-04 21:33:31,876 - INFO - Function result: <coroutine object greet_user at 0x00000219E7C5D3C0>
+2025-06-04 21:33:31,876 - ERROR - Error calling function: 1 validation error for FunctionResponse
+response
+  Input should be a valid dictionary [type=dict_type, input_value=<coroutine object greet_u...r at 0x00000219E7C5D3C0>, input_type=coroutine]
+    For further information visit https://errors.pydantic.dev/2.11/v/dict_type
+2025-06-04 21:33:31,876 - ERROR - Error generating response: 1 validation error for FunctionResponse
+response
+  Input should be a valid dictionary [type=dict_type, input_value=<coroutine object greet_u...r at 0x00000219E7C5D3C0>, input_type=coroutine]
+    For further information visit https://errors.pydantic.dev/2.11/v/dict_type
+2025-06-04 21:35:04,992 - INFO - Function call detected: [FunctionCall(id=None, args={'name': 'buddy'}, name='greet_user')]
+2025-06-04 21:35:04,992 - INFO - Calling function: greet_user with args: {'name': 'buddy'}
+2025-06-04 21:35:04,992 - INFO - Function result: Greet the buddy with a very lovinging message. and encourage him to participate in comming cricket tournament.
+2025-06-04 21:35:05,007 - ERROR - Error calling function: 1 validation error for FunctionResponse
+response
+  Input should be a valid dictionary [type=dict_type, input_value='Greet the buddy with a v...ing cricket tournament.', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/dict_type
+2025-06-04 21:35:05,007 - ERROR - Error generating response: 1 validation error for FunctionResponse
+response
+  Input should be a valid dictionary [type=dict_type, input_value='Greet the buddy with a v...ing cricket tournament.', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/dict_type
+2025-06-04 21:38:29,240 - INFO - Function call detected: [FunctionCall(id=None, args={'name': 'PRASH'}, name='greet_user')]
+2025-06-04 21:38:29,240 - INFO - Calling function: greet_user with args: {'name': 'PRASH'}
+2025-06-04 21:38:29,240 - INFO - Function result: Greet the PRASH with a very lovinging message. and encourage him to participate in comming cricket tournament.
+2025-06-04 21:38:29,240 - ERROR - Error calling function: 1 validation error for FunctionResponse
+response
+  Input should be a valid dictionary [type=dict_type, input_value='Greet the PRASH with a v...ing cricket tournament.', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/dict_type
+2025-06-04 21:38:29,240 - ERROR - Error generating response: 1 validation error for FunctionResponse
+response
+  Input should be a valid dictionary [type=dict_type, input_value='Greet the PRASH with a v...ing cricket tournament.', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/dict_type
+2025-06-04 21:41:30,596 - INFO - Function call detected: [FunctionCall(id=None, args={'name': 'prashant'}, name='greet_user')]
+2025-06-04 21:41:30,596 - INFO - Calling function: greet_user with args: {'name': 'prashant'}
+2025-06-04 21:41:30,597 - INFO - Function result: Greet the prashant with a very lovinging message. and encourage him to participate in comming cricket tournament.
+2025-06-04 21:41:31,397 - ERROR - Error creating chat completion: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Please ensure that function response turn comes immediately after a function call turn.', 'status': 'INVALID_ARGUMENT'}}
+2025-06-04 21:41:32,823 - ERROR - Error creating chat completion: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Please ensure that function response turn comes immediately after a function call turn.', 'status': 'INVALID_ARGUMENT'}}
+2025-06-04 21:41:34,270 - ERROR - Error creating chat completion: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Please ensure that function response turn comes immediately after a function call turn.', 'status': 'INVALID_ARGUMENT'}}
+2025-06-04 21:41:36,516 - ERROR - Error creating chat completion: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Please ensure that function response turn comes immediately after a function call turn.', 'status': 'INVALID_ARGUMENT'}}
+2025-06-04 21:41:42,435 - ERROR - Error creating chat completion: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Please ensure that function response turn comes immediately after a function call turn.', 'status': 'INVALID_ARGUMENT'}}
+2025-06-04 21:41:42,436 - ERROR - Error calling function: RetryError[<Future at 0x1b97915d250 state=finished raised ClientError>]
+2025-06-04 21:41:42,436 - ERROR - Error generating response: RetryError[<Future at 0x1b97915d250 state=finished raised ClientError>]
+2025-06-04 22:11:49,769 - INFO - Function call detected: [FunctionCall(id=None, args={'name': 'ash'}, name='greet_user')]
+2025-06-04 22:11:49,769 - INFO - Calling function: greet_user with args: {'name': 'ash'}
+2025-06-04 22:11:49,784 - INFO - Function result: Greet the ash with a very lovinging message. and encourage him to participate in comming cricket tournament.
+2025-06-04 22:11:49,793 - ERROR - Error creating chat completion: file uri and mime_type are required.
+2025-06-04 22:11:50,813 - ERROR - Error creating chat completion: file uri and mime_type are required.
+2025-06-04 22:11:52,066 - ERROR - Error creating chat completion: file uri and mime_type are required.
+2025-06-04 22:11:55,503 - ERROR - Error creating chat completion: file uri and mime_type are required.
+2025-06-04 22:12:00,400 - ERROR - Error creating chat completion: file uri and mime_type are required.
+2025-06-04 22:12:00,400 - ERROR - Error calling function: RetryError[<Future at 0x1c43b3c83d0 state=finished raised ValueError>]
+2025-06-04 22:12:00,400 - ERROR - Error generating response: RetryError[<Future at 0x1c43b3c83d0 state=finished raised ValueError>]
+2025-06-04 22:12:40,114 - INFO - Function call detected: [FunctionCall(id=None, args={'name': 'ashvey'}, name='greet_user')]
+2025-06-04 22:12:40,114 - INFO - Calling function: greet_user with args: {'name': 'ashvey'}
+2025-06-04 22:12:40,114 - INFO - Function result: Greet the ashvey with a very lovinging message. and encourage him to participate in comming cricket tournament.
+2025-06-04 22:12:40,123 - ERROR - Error creating chat completion: file uri and mime_type are required.
+2025-06-04 22:12:41,125 - ERROR - Error creating chat completion: file uri and mime_type are required.
+2025-06-04 22:12:42,211 - ERROR - Error creating chat completion: file uri and mime_type are required.
+2025-06-04 22:12:45,564 - ERROR - Error creating chat completion: file uri and mime_type are required.
+2025-06-04 22:12:51,462 - ERROR - Error creating chat completion: file uri and mime_type are required.
+2025-06-04 22:12:51,462 - ERROR - Error calling function: RetryError[<Future at 0x1a893529490 state=finished raised ValueError>]
+2025-06-04 22:12:51,462 - ERROR - Error generating response: RetryError[<Future at 0x1a893529490 state=finished raised ValueError>]
+2025-06-04 22:15:57,383 - INFO - Function call detected: [FunctionCall(id=None, args={'name': 'shreyas'}, name='greet_user')]
+2025-06-04 22:15:57,383 - INFO - Calling function: greet_user with args: {'name': 'shreyas'}
+2025-06-04 22:15:57,383 - INFO - Function result: Greet the shreyas with a very lovinging message. and encourage him to participate in comming cricket tournament.
+2025-06-04 22:15:57,844 - ERROR - Error creating chat completion: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Please ensure that function call turn comes immediately after a user turn or after a function response turn.', 'status': 'INVALID_ARGUMENT'}}
+2025-06-04 22:15:59,265 - ERROR - Error creating chat completion: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Please ensure that function call turn comes immediately after a user turn or after a function response turn.', 'status': 'INVALID_ARGUMENT'}}
+2025-06-04 22:16:00,735 - ERROR - Error creating chat completion: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Please ensure that function call turn comes immediately after a user turn or after a function response turn.', 'status': 'INVALID_ARGUMENT'}}
+2025-06-04 22:16:04,559 - ERROR - Error creating chat completion: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Please ensure that function call turn comes immediately after a user turn or after a function response turn.', 'status': 'INVALID_ARGUMENT'}}
+2025-06-04 22:16:12,060 - ERROR - Error creating chat completion: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Please ensure that function call turn comes immediately after a user turn or after a function response turn.', 'status': 'INVALID_ARGUMENT'}}
+2025-06-04 22:16:12,061 - ERROR - Error calling function: RetryError[<Future at 0x24b9b34a490 state=finished raised ClientError>]
+2025-06-04 22:16:12,062 - ERROR - Error generating response: RetryError[<Future at 0x24b9b34a490 state=finished raised ClientError>]
+2025-06-04 22:18:27,840 - INFO - Function call detected: [FunctionCall(id=None, args={'name': 'Gracy'}, name='greet_user')]
+2025-06-04 22:18:27,840 - INFO - Calling function: greet_user with args: {'name': 'Gracy'}
+2025-06-04 22:18:27,840 - INFO - Function result: Greet the Gracy with a very lovinging message. and encourage him to participate in comming cricket tournament.
+2025-06-04 22:20:36,728 - INFO - Function call detected: [FunctionCall(id=None, args={'name': 'prash'}, name='greet_user')]
+2025-06-04 22:20:36,728 - INFO - Calling function: greet_user with args: {'name': 'prash'}
+2025-06-04 22:20:36,728 - INFO - Function result: Greet the prash with a very lovinging message. and encourage him to participate in comming cricket tournament.
+2025-06-04 22:22:14,881 - INFO - Function call detected: [FunctionCall(id=None, args={'name': 'prash'}, name='greet_user')]
+2025-06-04 22:22:14,881 - INFO - Calling function: greet_user with args: {'name': 'prash'}
+2025-06-04 22:22:14,881 - INFO - Function result: Greet the prash with a very lovinging message. and encourage him to participate in comming cricket tournament.
+2025-06-04 22:22:27,925 - INFO - Function call detected: [FunctionCall(id=None, args={'name': 'ashley'}, name='greet_user')]
+2025-06-04 22:22:27,926 - INFO - Calling function: greet_user with args: {'name': 'ashley'}
+2025-06-04 22:22:27,926 - INFO - Function result: Greet the ashley with a very lovinging message. and encourage him to participate in comming cricket tournament.
+2025-06-04 22:27:03,513 - INFO - Function call detected: [FunctionCall(id=None, args={'name': 'prash'}, name='greet_user')]
+2025-06-04 22:27:03,529 - INFO - Calling function: greet_user with args: {'name': 'prash'}
+2025-06-04 22:27:03,529 - INFO - Function result: Greet the prash with a very lovinging message. and encourage him to participate in comming cricket tournament.

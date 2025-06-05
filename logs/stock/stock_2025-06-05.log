@@ -1,0 +1,102 @@
+2025-06-05 00:02:24,120 - DEBUG - Fetching stock data...
+2025-06-05 00:02:25,801 - DEBUG - Successfully processed AAPL
+2025-06-05 00:02:26,254 - ERROR - API Error for MSFT: We have detected your API key as MHPYBQZYCH8T5WCD and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits.
+2025-06-05 00:02:26,773 - ERROR - API Error for JPM: We have detected your API key as MHPYBQZYCH8T5WCD and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits.
+2025-06-05 00:02:26,773 - DEBUG - 
+Fetching crypto data...
+2025-06-05 00:02:27,371 - ERROR - API Error for BTC: We have detected your API key as MHPYBQZYCH8T5WCD and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits.
+2025-06-05 00:02:28,417 - ERROR - API Error for ETH: We have detected your API key as MHPYBQZYCH8T5WCD and our standard API rate limit is 25 requests per day. Please subscribe to any of the premium plans at https://www.alphavantage.co/premium/ to instantly remove all daily rate limits.
+2025-06-05 00:02:29,958 - DEBUG - Successfully updated vector database with market data
+2025-06-05 11:15:14,934 - DEBUG - Fetching stock data...
+2025-06-05 11:15:15,777 - DEBUG - Successfully processed AAPL
+2025-06-05 11:15:16,402 - DEBUG - Successfully processed MSFT
+2025-06-05 11:15:17,106 - DEBUG - Successfully processed JPM
+2025-06-05 11:15:17,106 - DEBUG - 
+Fetching crypto data...
+2025-06-05 11:15:17,935 - DEBUG - Available columns for BTC: ['1. open', '2. high', '3. low', '4. close', '5. volume']
+2025-06-05 11:15:17,951 - DEBUG - Successfully processed BTC
+2025-06-05 11:15:18,701 - DEBUG - Available columns for ETH: ['1. open', '2. high', '3. low', '4. close', '5. volume']
+2025-06-05 11:15:18,716 - DEBUG - Successfully processed ETH
+2025-06-05 11:15:21,158 - DEBUG - Successfully updated vector database with market data
+2025-06-05 12:35:47,723 - INFO - Querying market data collection: market_data_collection
+2025-06-05 12:35:47,723 - INFO - Retrieved 0 market data documents for query: 'stock market price'
+2025-06-05 13:12:46,766 - INFO - Querying market data collection: market_data_collection
+2025-06-05 13:12:46,766 - INFO - Retrieved 0 market data documents for query: 'stock price of apple'
+2025-06-05 13:16:46,174 - INFO - Querying market data collection: market_data_collection
+2025-06-05 13:16:46,174 - INFO - Retrieved 0 market data documents for query: 'AAPL'
+2025-06-05 13:17:57,793 - INFO - Querying market data collection: market_data_collection
+2025-06-05 13:17:58,722 - INFO - Retrieved 0 market data documents for query: 'AAPL'
+2025-06-05 13:19:29,992 - INFO - Querying market data collection: market_data_collection
+2025-06-05 13:19:30,005 - INFO - Retrieved 0 market data documents for query: 'AAPL'
+2025-06-05 13:22:30,873 - DEBUG - Fetching stock data...
+2025-06-05 13:22:33,007 - DEBUG - Successfully processed AAPL
+2025-06-05 13:22:33,634 - DEBUG - Successfully processed MSFT
+2025-06-05 13:22:35,155 - DEBUG - Successfully processed JPM
+2025-06-05 13:22:35,155 - DEBUG - 
+Fetching crypto data...
+2025-06-05 13:22:37,240 - DEBUG - Available columns for BTC: ['1. open', '2. high', '3. low', '4. close', '5. volume']
+2025-06-05 13:22:37,255 - DEBUG - Successfully processed BTC
+2025-06-05 13:22:38,557 - DEBUG - Available columns for ETH: ['1. open', '2. high', '3. low', '4. close', '5. volume']
+2025-06-05 13:22:38,557 - DEBUG - Successfully processed ETH
+2025-06-05 13:22:39,236 - DEBUG - Successfully updated vector database with market data
+2025-06-05 13:22:39,237 - INFO - Querying market data collection: market_data_collection
+2025-06-05 13:22:39,724 - INFO - Retrieved 1 market data documents for query: 'AAPL'
+2025-06-05 13:23:19,982 - INFO - Querying market data collection: market_data_collection
+2025-06-05 13:23:20,601 - INFO - Retrieved 1 market data documents for query: 'AAPL'
+2025-06-05 13:26:15,667 - INFO - Querying market data collection: market_data_collection
+2025-06-05 13:26:16,465 - INFO - Retrieved 1 market data documents for query: 'AAPL'
+2025-06-05 13:26:38,181 - INFO - Querying market data collection: market_data_collection
+2025-06-05 13:26:39,436 - INFO - Retrieved 1 market data documents for query: 'ETH-USD'
+2025-06-05 13:27:04,162 - INFO - Querying market data collection: market_data_collection
+2025-06-05 13:27:04,805 - INFO - Retrieved 1 market data documents for query: 'ETH-USD'
+2025-06-05 14:39:46,058 - DEBUG - Fetching stock data...
+2025-06-05 14:39:47,439 - DEBUG - Successfully processed AAPL
+2025-06-05 14:39:48,505 - DEBUG - Successfully processed MSFT
+2025-06-05 14:39:49,195 - DEBUG - Successfully processed JPM
+2025-06-05 14:39:49,195 - DEBUG - 
+Fetching crypto data...
+2025-06-05 14:39:50,419 - DEBUG - Available columns for BTC: ['1. open', '2. high', '3. low', '4. close', '5. volume']
+2025-06-05 14:39:50,431 - DEBUG - Successfully processed BTC
+2025-06-05 14:39:51,418 - DEBUG - Available columns for ETH: ['1. open', '2. high', '3. low', '4. close', '5. volume']
+2025-06-05 14:39:51,418 - DEBUG - Successfully processed ETH
+2025-06-05 14:39:52,501 - DEBUG - Successfully updated vector database with market data
+2025-06-05 14:39:52,501 - INFO - Querying market data collection: market_data_collection
+2025-06-05 14:39:53,005 - INFO - Retrieved 1 market data documents for query: 'ETH-USD'
+2025-06-05 14:40:50,559 - DEBUG - Fetching stock data...
+2025-06-05 14:40:51,341 - DEBUG - Successfully processed AAPL
+2025-06-05 14:41:00,499 - INFO - Querying market data collection: market_data_collection
+2025-06-05 14:41:01,142 - INFO - Retrieved 1 market data documents for query: 'ETH-USD'
+2025-06-05 14:41:25,311 - INFO - Querying market data collection: market_data_collection
+2025-06-05 14:41:25,892 - INFO - Retrieved 1 market data documents for query: 'ETH-USD'
+2025-06-05 14:43:55,972 - INFO - Querying market data collection: market_data_collection
+2025-06-05 14:43:56,674 - INFO - Retrieved 1 market data documents for query: 'APPL'
+2025-06-05 14:44:50,822 - INFO - Querying market data collection: market_data_collection
+2025-06-05 14:44:51,415 - INFO - Retrieved 1 market data documents for query: 'what is the stock price of APPL'
+2025-06-05 14:45:00,599 - INFO - Querying market data collection: market_data_collection
+2025-06-05 14:45:01,180 - INFO - Retrieved 1 market data documents for query: 'what is the stock price of APPLE'
+2025-06-05 16:23:11,850 - INFO - Querying market data collection: market_data_collection
+2025-06-05 16:23:12,397 - INFO - Retrieved 5 market data documents for query: 'What is the current stock price of Apple Inc.?'
+2025-06-05 16:24:07,024 - INFO - Querying market data collection: market_data_collection
+2025-06-05 16:24:07,839 - INFO - Retrieved 5 market data documents for query: 'What is the current stock price of Apple Inc.?'
+2025-06-05 16:37:38,017 - INFO - Querying market data collection: market_data_collection
+2025-06-05 16:37:38,670 - INFO - Retrieved 5 market data documents for query: 'hello'
+2025-06-05 16:38:55,727 - INFO - Querying market data collection: market_data_collection
+2025-06-05 16:38:56,423 - INFO - Retrieved 5 market data documents for query: 'hey'
+2025-06-05 16:39:39,186 - INFO - Querying market data collection: market_data_collection
+2025-06-05 16:39:39,597 - INFO - Retrieved 5 market data documents for query: 'what is the stock price of apple?'
+2025-06-05 16:41:14,373 - INFO - Querying market data collection: market_data_collection
+2025-06-05 16:41:14,844 - INFO - Retrieved 5 market data documents for query: 'Can you provide the technical analysis for Apple?'
+2025-06-05 16:42:11,787 - INFO - Querying market data collection: market_data_collection
+2025-06-05 16:42:12,317 - INFO - Retrieved 5 market data documents for query: 'What are the current price of bitcoin and ethereum?'
+2025-06-05 16:42:51,944 - INFO - Querying market data collection: market_data_collection
+2025-06-05 16:42:52,498 - INFO - Retrieved 5 market data documents for query: 'CAN YOU PROVIDE THE TECHNICAL INDICATOR?'
+2025-06-05 16:43:22,855 - INFO - Querying market data collection: market_data_collection
+2025-06-05 16:43:23,319 - INFO - Retrieved 5 market data documents for query: 'can you provide the technical indicator of bitcoin'
+2025-06-05 16:43:55,613 - INFO - Querying market data collection: market_data_collection
+2025-06-05 16:43:56,054 - INFO - Retrieved 5 market data documents for query: 'so can you give me data analysis should i buy or not?'
+2025-06-05 16:46:06,600 - INFO - Querying market data collection: market_data_collection
+2025-06-05 16:46:07,413 - INFO - Retrieved 5 market data documents for query: 'stock price of apple'
+2025-06-05 16:47:51,066 - INFO - Querying market data collection: market_data_collection
+2025-06-05 16:47:51,555 - INFO - Retrieved 5 market data documents for query: 'technical analysis for Apple'
+2025-06-05 16:50:47,675 - INFO - Querying market data collection: market_data_collection
+2025-06-05 16:50:48,128 - INFO - Retrieved 5 market data documents for query: 'current prices of Bitcoin and Ethereum'

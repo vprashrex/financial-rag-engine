@@ -1,0 +1,234 @@
+2025-06-05 00:02:29,958 - DEBUG - Successfully updated 1 documents in market_data_collection
+2025-06-05 11:00:34,235 - INFO - Initialized vector DB for chat_id: 1234 in ./financial_documents_db/1234
+2025-06-05 11:00:34,235 - INFO - Processing PDF for chat_id 1234: Hiring Tasks.pdf
+2025-06-05 11:00:34,236 - INFO - Starting to parse PDF for chat_id 1234: uploads\1234\Hiring Tasks.pdf
+2025-06-05 11:00:59,831 - INFO - Successfully parsed PDF for chat_id 1234: uploads\1234\Hiring Tasks.pdf
+2025-06-05 11:00:59,831 - INFO - Created 8 document chunks for chat_id 1234
+2025-06-05 11:01:00,340 - ERROR - Error updating documents: Error embedding content: 429 Resource has been exhausted (e.g. check quota).
+2025-06-05 11:01:00,340 - ERROR - Error processing PDF uploads\1234\Hiring Tasks.pdf for chat_id 1234: Error embedding content: 429 Resource has been exhausted (e.g. check quota).
+2025-06-05 11:04:35,282 - INFO - Initialized vector DB for chat_id: 1234 in ./financial_documents_db/1234
+2025-06-05 11:04:35,282 - INFO - Processing PDF for chat_id 1234: Hiring Tasks.pdf
+2025-06-05 11:04:35,283 - INFO - Starting to parse PDF for chat_id 1234: uploads\1234\Hiring Tasks.pdf
+2025-06-05 11:04:43,018 - INFO - Successfully parsed PDF for chat_id 1234: uploads\1234\Hiring Tasks.pdf
+2025-06-05 11:04:43,018 - INFO - Created 8 document chunks for chat_id 1234
+2025-06-05 11:04:43,615 - ERROR - Error updating documents: Error embedding content: 429 Resource has been exhausted (e.g. check quota).
+2025-06-05 11:04:43,615 - ERROR - Error processing PDF uploads\1234\Hiring Tasks.pdf for chat_id 1234: Error embedding content: 429 Resource has been exhausted (e.g. check quota).
+2025-06-05 11:06:22,483 - INFO - Initialized vector DB for chat_id: 1234 in ./financial_documents_db/1234
+2025-06-05 11:06:22,483 - INFO - Processing PDF for chat_id 1234: Hiring Tasks.pdf
+2025-06-05 11:06:22,483 - INFO - Starting to parse PDF for chat_id 1234: uploads\1234\Hiring Tasks.pdf
+2025-06-05 11:06:31,357 - INFO - Successfully parsed PDF for chat_id 1234: uploads\1234\Hiring Tasks.pdf
+2025-06-05 11:06:31,357 - INFO - Created 8 document chunks for chat_id 1234
+2025-06-05 11:06:31,828 - ERROR - Error updating documents: Error embedding content: 429 Resource has been exhausted (e.g. check quota).
+2025-06-05 11:06:31,828 - ERROR - Error processing PDF uploads\1234\Hiring Tasks.pdf for chat_id 1234: Error embedding content: 429 Resource has been exhausted (e.g. check quota).
+2025-06-05 11:12:40,228 - INFO - Initialized vector DB for chat_id: 1234 in ./financial_documents_db/1234
+2025-06-05 11:12:40,228 - INFO - Processing PDF for chat_id 1234: Hiring Tasks.pdf
+2025-06-05 11:12:40,228 - INFO - Starting to parse PDF for chat_id 1234: uploads\1234\Hiring Tasks.pdf
+2025-06-05 11:12:47,429 - INFO - Successfully parsed PDF for chat_id 1234: uploads\1234\Hiring Tasks.pdf
+2025-06-05 11:12:47,429 - INFO - Created 8 document chunks for chat_id 1234
+2025-06-05 11:12:49,210 - ERROR - Error updating documents: Error embedding content: 429 Resource has been exhausted (e.g. check quota).
+2025-06-05 11:12:49,210 - ERROR - Error processing PDF uploads\1234\Hiring Tasks.pdf for chat_id 1234: Error embedding content: 429 Resource has been exhausted (e.g. check quota).
+2025-06-05 11:14:05,834 - INFO - Initialized vector DB for chat_id: 1234 in ./financial_documents_db/1234
+2025-06-05 11:14:05,834 - INFO - Processing PDF for chat_id 1234: Hiring Tasks.pdf
+2025-06-05 11:14:05,834 - INFO - Starting to parse PDF for chat_id 1234: uploads\1234\Hiring Tasks.pdf
+2025-06-05 11:14:13,442 - INFO - Successfully parsed PDF for chat_id 1234: uploads\1234\Hiring Tasks.pdf
+2025-06-05 11:14:13,442 - INFO - Created 8 document chunks for chat_id 1234
+2025-06-05 11:14:13,442 - INFO - Created 8 chunks from PDF for chat_id 1234: Hiring Tasks.pdf
+2025-06-05 11:14:13,442 - DEBUG - Total characters in parsed text: 6715
+2025-06-05 11:14:13,896 - ERROR - Error updating documents: Error embedding content: 429 Resource has been exhausted (e.g. check quota).
+2025-06-05 11:14:13,896 - ERROR - Error processing PDF uploads\1234\Hiring Tasks.pdf for chat_id 1234: Error embedding content: 429 Resource has been exhausted (e.g. check quota).
+2025-06-05 11:15:21,158 - DEBUG - Successfully updated 1 documents in market_data_collection
+2025-06-05 11:27:54,741 - INFO - Initialized vector DB for chat_id: 1234 in ./financial_documents_db/1234
+2025-06-05 11:27:54,741 - INFO - Processing PDF for chat_id 1234: Hiring Tasks.pdf
+2025-06-05 11:27:54,741 - INFO - Starting to parse PDF for chat_id 1234: uploads\1234\Hiring Tasks.pdf
+2025-06-05 11:28:02,839 - INFO - Successfully parsed PDF for chat_id 1234: uploads\1234\Hiring Tasks.pdf
+2025-06-05 11:28:02,839 - INFO - Created 8 document chunks for chat_id 1234
+2025-06-05 11:28:03,523 - DEBUG - Successfully updated 8 documents in financial_documents_collection_1234
+2025-06-05 11:28:03,523 - INFO - Successfully processed and stored PDF for chat_id 1234: Hiring Tasks.pdf
+2025-06-05 12:35:47,676 - INFO - Initialized vector DB for chat_id: 1234 in ./financial_documents_db/1234
+2025-06-05 12:35:47,676 - INFO - Querying collection: financial_documents_collection_1234 for chat_id: 1234
+2025-06-05 12:35:47,676 - DEBUG - Collection 'financial_documents_collection_1234' exists
+2025-06-05 12:35:47,676 - ERROR - Error querying documents from collection 'financial_documents_collection_1234': 'Chroma' object has no attribute 'collection_name'
+2025-06-05 12:35:47,723 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 12:35:47,723 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 12:35:47,723 - ERROR - Error querying documents from collection 'market_data_collection': 'Chroma' object has no attribute 'collection_name'
+2025-06-05 13:12:46,721 - INFO - Initialized vector DB for chat_id: 1234 in ./financial_documents_db/1234
+2025-06-05 13:12:46,721 - INFO - Querying collection: financial_documents_collection_1234 for chat_id: 1234
+2025-06-05 13:12:46,721 - DEBUG - Collection 'financial_documents_collection_1234' exists
+2025-06-05 13:12:46,721 - ERROR - Error querying documents from collection 'financial_documents_collection_1234': 'Chroma' object has no attribute 'collection_name'
+2025-06-05 13:12:46,766 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 13:12:46,766 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 13:12:46,766 - ERROR - Error querying documents from collection 'market_data_collection': 'Chroma' object has no attribute 'collection_name'
+2025-06-05 13:16:46,174 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 13:16:46,174 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 13:16:46,174 - ERROR - Error querying documents from collection 'market_data_collection': 'Chroma' object has no attribute 'collection_name'
+2025-06-05 13:17:57,793 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 13:17:57,809 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 13:17:58,722 - ERROR - Error querying documents from collection 'market_data_collection': Collection expecting embedding with dimension of 3072, got 1024
+2025-06-05 13:19:29,992 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 13:19:29,992 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 13:19:30,005 - ERROR - Error querying documents from collection 'market_data_collection': 'Chroma' object has no attribute 'collection_name'
+2025-06-05 13:22:39,236 - DEBUG - Successfully updated 1 documents in market_data_collection
+2025-06-05 13:22:39,237 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 13:22:39,238 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 13:22:39,724 - INFO - Retrieved 1 documents from collection 'market_data_collection' for query: 'AAPL'
+2025-06-05 13:23:19,982 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 13:23:19,982 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 13:23:20,601 - INFO - Retrieved 1 documents from collection 'market_data_collection' for query: 'AAPL'
+2025-06-05 13:26:15,682 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 13:26:15,682 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 13:26:16,465 - INFO - Retrieved 1 documents from collection 'market_data_collection' for query: 'AAPL'
+2025-06-05 13:26:38,181 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 13:26:38,181 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 13:26:39,436 - INFO - Retrieved 1 documents from collection 'market_data_collection' for query: 'ETH-USD'
+2025-06-05 13:27:04,162 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 13:27:04,162 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 13:27:04,805 - INFO - Retrieved 1 documents from collection 'market_data_collection' for query: 'ETH-USD'
+2025-06-05 14:39:52,501 - DEBUG - Successfully updated 5 documents in market_data_collection
+2025-06-05 14:39:52,501 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 14:39:52,501 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 14:39:53,005 - INFO - Retrieved 1 documents from collection 'market_data_collection' for query: 'ETH-USD'
+2025-06-05 14:41:00,499 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 14:41:00,499 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 14:41:01,142 - INFO - Retrieved 1 documents from collection 'market_data_collection' for query: 'ETH-USD'
+2025-06-05 14:41:25,311 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 14:41:25,311 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 14:41:25,892 - INFO - Retrieved 1 documents from collection 'market_data_collection' for query: 'ETH-USD'
+2025-06-05 14:43:55,972 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 14:43:55,972 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 14:43:56,674 - INFO - Retrieved 1 documents from collection 'market_data_collection' for query: 'APPL'
+2025-06-05 14:44:50,822 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 14:44:50,822 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 14:44:51,415 - INFO - Retrieved 1 documents from collection 'market_data_collection' for query: 'what is the stock price of APPL'
+2025-06-05 14:45:00,599 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 14:45:00,599 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 14:45:01,180 - INFO - Retrieved 1 documents from collection 'market_data_collection' for query: 'what is the stock price of APPLE'
+2025-06-05 14:56:03,936 - INFO - Initialized vector DB for chat_id: 12345 in ./financial_documents_db/12345
+2025-06-05 14:56:03,936 - INFO - Querying collection: financial_documents_collection_12345 for chat_id: 12345
+2025-06-05 14:56:03,951 - DEBUG - Collection 'financial_documents_collection_12345' exists
+2025-06-05 14:56:05,002 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_12345' for query: 'financial report'
+2025-06-05 14:56:56,520 - INFO - Initialized vector DB for chat_id: 12345 in ./financial_documents_db/12345
+2025-06-05 14:56:56,520 - INFO - Querying collection: financial_documents_collection_12345 for chat_id: 12345
+2025-06-05 14:56:56,520 - DEBUG - Collection 'financial_documents_collection_12345' exists
+2025-06-05 14:56:56,981 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_12345' for query: 'hiring task'
+2025-06-05 14:57:10,550 - INFO - Initialized vector DB for chat_id: 12345 in ./financial_documents_db/12345
+2025-06-05 14:57:10,550 - INFO - Querying collection: financial_documents_collection_12345 for chat_id: 12345
+2025-06-05 14:57:10,550 - DEBUG - Collection 'financial_documents_collection_12345' exists
+2025-06-05 14:57:11,069 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_12345' for query: 'hiring task'
+2025-06-05 14:58:00,740 - INFO - Initialized vector DB for chat_id: 12345 in ./financial_documents_db/12345
+2025-06-05 14:58:00,740 - INFO - Querying collection: financial_documents_collection_12345 for chat_id: 12345
+2025-06-05 14:58:00,740 - DEBUG - Collection 'financial_documents_collection_12345' exists
+2025-06-05 14:58:01,288 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_12345' for query: 'hiring task'
+2025-06-05 14:58:43,897 - INFO - Initialized vector DB for chat_id: 1234 in ./financial_documents_db/1234
+2025-06-05 14:58:43,897 - INFO - Querying collection: financial_documents_collection_1234 for chat_id: 1234
+2025-06-05 14:58:43,897 - DEBUG - Collection 'financial_documents_collection_1234' exists
+2025-06-05 14:58:44,523 - INFO - Retrieved 5 documents from collection 'financial_documents_collection_1234' for query: 'hiring task'
+2025-06-05 14:59:08,140 - INFO - Initialized vector DB for chat_id: 1234 in ./financial_documents_db/1234
+2025-06-05 14:59:08,140 - INFO - Querying collection: financial_documents_collection_1234 for chat_id: 1234
+2025-06-05 14:59:08,140 - DEBUG - Collection 'financial_documents_collection_1234' exists
+2025-06-05 14:59:08,739 - INFO - Retrieved 5 documents from collection 'financial_documents_collection_1234' for query: 'Demonstration Requirements'
+2025-06-05 14:59:24,966 - INFO - Initialized vector DB for chat_id: 1234 in ./financial_documents_db/1234
+2025-06-05 14:59:24,966 - INFO - Querying collection: financial_documents_collection_1234 for chat_id: 1234
+2025-06-05 14:59:24,966 - DEBUG - Collection 'financial_documents_collection_1234' exists
+2025-06-05 14:59:25,529 - INFO - Retrieved 1 documents from collection 'financial_documents_collection_1234' for query: 'Demonstration Requirements'
+2025-06-05 15:03:04,448 - INFO - Initialized vector DB for chat_id: 1234 in ./financial_documents_db/1234
+2025-06-05 15:03:04,448 - INFO - Processing PDF for chat_id 1234: FY25_Q2_Consolidated_Financial_Statements.pdf
+2025-06-05 15:03:04,448 - INFO - Starting to parse PDF for chat_id 1234: uploads\1234\FY25_Q2_Consolidated_Financial_Statements.pdf
+2025-06-05 15:03:56,141 - INFO - Successfully parsed PDF for chat_id 1234: uploads\1234\FY25_Q2_Consolidated_Financial_Statements.pdf
+2025-06-05 15:03:56,150 - INFO - Created 23 document chunks for chat_id 1234
+2025-06-05 15:03:57,486 - DEBUG - Successfully updated 23 documents in financial_documents_collection_1234
+2025-06-05 15:03:57,486 - INFO - Successfully processed and stored PDF for chat_id 1234: FY25_Q2_Consolidated_Financial_Statements.pdf
+2025-06-05 15:05:50,526 - INFO - Initialized vector DB for chat_id: 1234 in ./financial_documents_db/1234
+2025-06-05 15:05:50,526 - INFO - Querying collection: financial_documents_collection_1234 for chat_id: 1234
+2025-06-05 15:05:50,526 - DEBUG - Collection 'financial_documents_collection_1234' exists
+2025-06-05 15:05:51,184 - INFO - Retrieved 1 documents from collection 'financial_documents_collection_1234' for query: 'net sales of apple inc in march 29 2025'
+2025-06-05 16:23:10,711 - INFO - Initialized vector DB for chat_id: test_chat_id in ./financial_documents_db/test_chat_id
+2025-06-05 16:23:10,711 - INFO - Querying collection: financial_documents_collection_test_chat_id for chat_id: test_chat_id
+2025-06-05 16:23:10,711 - DEBUG - Collection 'financial_documents_collection_test_chat_id' exists
+2025-06-05 16:23:11,815 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_test_chat_id' for query: 'What is the current stock price of Apple Inc.?'
+2025-06-05 16:23:11,851 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 16:23:11,851 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 16:23:12,397 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'What is the current stock price of Apple Inc.?'
+2025-06-05 16:24:06,365 - INFO - Initialized vector DB for chat_id: test_chat_id in ./financial_documents_db/test_chat_id
+2025-06-05 16:24:06,366 - INFO - Querying collection: financial_documents_collection_test_chat_id for chat_id: test_chat_id
+2025-06-05 16:24:06,368 - DEBUG - Collection 'financial_documents_collection_test_chat_id' exists
+2025-06-05 16:24:06,930 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_test_chat_id' for query: 'What is the current stock price of Apple Inc.?'
+2025-06-05 16:24:07,029 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 16:24:07,029 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 16:24:07,837 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'What is the current stock price of Apple Inc.?'
+2025-06-05 16:37:36,976 - INFO - Initialized vector DB for chat_id: test_chat_id in ./financial_documents_db/test_chat_id
+2025-06-05 16:37:36,976 - INFO - Querying collection: financial_documents_collection_test_chat_id for chat_id: test_chat_id
+2025-06-05 16:37:36,976 - DEBUG - Collection 'financial_documents_collection_test_chat_id' exists
+2025-06-05 16:37:37,983 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_test_chat_id' for query: 'hello'
+2025-06-05 16:37:38,026 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 16:37:38,027 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 16:37:38,670 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'hello'
+2025-06-05 16:38:54,383 - INFO - Initialized vector DB for chat_id: test_chat_id in ./financial_documents_db/test_chat_id
+2025-06-05 16:38:54,383 - INFO - Querying collection: financial_documents_collection_test_chat_id for chat_id: test_chat_id
+2025-06-05 16:38:54,383 - DEBUG - Collection 'financial_documents_collection_test_chat_id' exists
+2025-06-05 16:38:55,562 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_test_chat_id' for query: 'hey'
+2025-06-05 16:38:55,742 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 16:38:55,742 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 16:38:56,422 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'hey'
+2025-06-05 16:39:38,510 - INFO - Initialized vector DB for chat_id: test_chat_id in ./financial_documents_db/test_chat_id
+2025-06-05 16:39:38,510 - INFO - Querying collection: financial_documents_collection_test_chat_id for chat_id: test_chat_id
+2025-06-05 16:39:38,510 - DEBUG - Collection 'financial_documents_collection_test_chat_id' exists
+2025-06-05 16:39:39,152 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_test_chat_id' for query: 'what is the stock price of apple?'
+2025-06-05 16:39:39,186 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 16:39:39,187 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 16:39:39,597 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'what is the stock price of apple?'
+2025-06-05 16:41:13,777 - INFO - Initialized vector DB for chat_id: test_chat_id in ./financial_documents_db/test_chat_id
+2025-06-05 16:41:13,777 - INFO - Querying collection: financial_documents_collection_test_chat_id for chat_id: test_chat_id
+2025-06-05 16:41:13,777 - DEBUG - Collection 'financial_documents_collection_test_chat_id' exists
+2025-06-05 16:41:14,341 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_test_chat_id' for query: 'Can you provide the technical analysis for Apple?'
+2025-06-05 16:41:14,373 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 16:41:14,373 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 16:41:14,844 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'Can you provide the technical analysis for Apple?'
+2025-06-05 16:42:10,969 - INFO - Initialized vector DB for chat_id: test_chat_id in ./financial_documents_db/test_chat_id
+2025-06-05 16:42:10,969 - INFO - Querying collection: financial_documents_collection_test_chat_id for chat_id: test_chat_id
+2025-06-05 16:42:10,970 - DEBUG - Collection 'financial_documents_collection_test_chat_id' exists
+2025-06-05 16:42:11,753 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_test_chat_id' for query: 'What are the current price of bitcoin and ethereum?'
+2025-06-05 16:42:11,787 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 16:42:11,789 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 16:42:12,317 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'What are the current price of bitcoin and ethereum?'
+2025-06-05 16:42:51,307 - INFO - Initialized vector DB for chat_id: test_chat_id in ./financial_documents_db/test_chat_id
+2025-06-05 16:42:51,307 - INFO - Querying collection: financial_documents_collection_test_chat_id for chat_id: test_chat_id
+2025-06-05 16:42:51,307 - DEBUG - Collection 'financial_documents_collection_test_chat_id' exists
+2025-06-05 16:42:51,913 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_test_chat_id' for query: 'CAN YOU PROVIDE THE TECHNICAL INDICATOR?'
+2025-06-05 16:42:51,944 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 16:42:51,944 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 16:42:52,497 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'CAN YOU PROVIDE THE TECHNICAL INDICATOR?'
+2025-06-05 16:43:22,339 - INFO - Initialized vector DB for chat_id: test_chat_id in ./financial_documents_db/test_chat_id
+2025-06-05 16:43:22,339 - INFO - Querying collection: financial_documents_collection_test_chat_id for chat_id: test_chat_id
+2025-06-05 16:43:22,339 - DEBUG - Collection 'financial_documents_collection_test_chat_id' exists
+2025-06-05 16:43:22,833 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_test_chat_id' for query: 'can you provide the technical indicator of bitcoin'
+2025-06-05 16:43:22,857 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 16:43:22,857 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 16:43:23,319 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'can you provide the technical indicator of bitcoin'
+2025-06-05 16:43:54,989 - INFO - Initialized vector DB for chat_id: test_chat_id in ./financial_documents_db/test_chat_id
+2025-06-05 16:43:54,990 - INFO - Querying collection: financial_documents_collection_test_chat_id for chat_id: test_chat_id
+2025-06-05 16:43:54,991 - DEBUG - Collection 'financial_documents_collection_test_chat_id' exists
+2025-06-05 16:43:55,577 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_test_chat_id' for query: 'so can you give me data analysis should i buy or not?'
+2025-06-05 16:43:55,613 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 16:43:55,613 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 16:43:56,054 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'so can you give me data analysis should i buy or not?'
+2025-06-05 16:46:06,054 - INFO - Initialized vector DB for chat_id: test_chat_id in ./financial_documents_db/test_chat_id
+2025-06-05 16:46:06,054 - INFO - Querying collection: financial_documents_collection_test_chat_id for chat_id: test_chat_id
+2025-06-05 16:46:06,054 - DEBUG - Collection 'financial_documents_collection_test_chat_id' exists
+2025-06-05 16:46:06,567 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_test_chat_id' for query: 'stock price of apple'
+2025-06-05 16:46:06,600 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 16:46:06,600 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 16:46:07,413 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'stock price of apple'
+2025-06-05 16:47:50,392 - INFO - Initialized vector DB for chat_id: test_chat_id in ./financial_documents_db/test_chat_id
+2025-06-05 16:47:50,393 - INFO - Querying collection: financial_documents_collection_test_chat_id for chat_id: test_chat_id
+2025-06-05 16:47:50,396 - DEBUG - Collection 'financial_documents_collection_test_chat_id' exists
+2025-06-05 16:47:51,033 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_test_chat_id' for query: 'technical analysis for Apple'
+2025-06-05 16:47:51,067 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 16:47:51,068 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 16:47:51,555 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'technical analysis for Apple'
+2025-06-05 16:50:46,874 - INFO - Initialized vector DB for chat_id: test_chat_id in ./financial_documents_db/test_chat_id
+2025-06-05 16:50:46,875 - INFO - Querying collection: financial_documents_collection_test_chat_id for chat_id: test_chat_id
+2025-06-05 16:50:46,879 - DEBUG - Collection 'financial_documents_collection_test_chat_id' exists
+2025-06-05 16:50:47,643 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_test_chat_id' for query: 'current prices of Bitcoin and Ethereum'
+2025-06-05 16:50:47,675 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 16:50:47,675 - DEBUG - Collection 'market_data_collection' exists
+2025-06-05 16:50:48,128 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'current prices of Bitcoin and Ethereum'

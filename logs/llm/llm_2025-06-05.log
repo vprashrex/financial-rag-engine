@@ -1,0 +1,509 @@
+2025-06-05 12:33:49,475 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'what is the stock market price of apple?'}, name='finacial_agent')]
+2025-06-05 12:33:49,475 - ERROR - Error calling function: finacial_agent() missing 1 required positional argument: 'chat_id'
+2025-06-05 12:33:49,475 - ERROR - Error generating response: finacial_agent() missing 1 required positional argument: 'chat_id'
+2025-06-05 12:35:47,064 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'stock market price'}, name='finacial_agent')]
+2025-06-05 12:35:47,723 - DEBUG - Combined results for query 'stock market price': # Financial Market Data Results:
+No relevant financial data found.
+
+# Finacial Document Results:
+No relevant documents found.
+2025-06-05 12:35:47,723 - INFO - Calling function: finacial_agent with args: {'query': 'stock market price', 'chat_id': '1234'}
+2025-06-05 12:35:47,731 - INFO - Function result: # Financial Market Data Results:
+No relevant financial data found.
+
+# Finacial Document Results:
+No relevant documents found.
+2025-06-05 12:46:26,597 - ERROR - Error generating response: 'retriever_context'
+2025-06-05 13:12:46,435 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'stock price of apple'}, name='finacial_agent')]
+2025-06-05 13:12:46,766 - DEBUG - Combined results for query 'stock price of apple': # Financial Market Data Results:
+No relevant financial data found.
+
+# Finacial Document Results:
+No relevant documents found.
+2025-06-05 13:12:46,766 - INFO - Calling function: finacial_agent with args: {'query': 'stock price of apple', 'chat_id': '1234'}
+2025-06-05 13:12:46,766 - INFO - Function result: # Financial Market Data Results:
+No relevant financial data found.
+
+# Finacial Document Results:
+No relevant documents found.
+2025-06-05 16:23:12,397 - DEBUG - Combined results for query 'What is the current stock price of Apple Inc.?': # Financial Market Data Results:
+
+## AAPL
+- Price: $202.82
+- Volume: 43,603,985
+- Daily Change: -0.04%
+
+### Technical Indicators:
+- MA(5): $201.72
+- MA(20): $203.73
+- RSI: 32.0
+- Volatility: 29.5%
+- ATR: $4.43
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+# Finacial Document Results:
+No relevant documents found.
+2025-06-05 16:24:07,840 - DEBUG - Combined results for query 'What is the current stock price of Apple Inc.?': # Financial Market Data Results:
+
+## AAPL
+- Price: $202.82
+- Volume: 43,603,985
+- Daily Change: -0.04%
+
+### Technical Indicators:
+- MA(5): $201.72
+- MA(20): $203.73
+- RSI: 32.0
+- Volatility: 29.5%
+- ATR: $4.43
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+# Finacial Document Results:
+No relevant documents found.
+2025-06-05 16:37:38,670 - DEBUG - Combined results for query 'hello': # Financial Market Data Results:
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+## AAPL
+- Price: $202.82
+- Volume: 43,603,985
+- Daily Change: -0.04%
+
+### Technical Indicators:
+- MA(5): $201.72
+- MA(20): $203.73
+- RSI: 32.0
+- Volatility: 29.5%
+- ATR: $4.43
+
+Last Update: 2025-06-04
+
+
+# Finacial Document Results:
+No relevant documents found.
+2025-06-05 16:46:05,767 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'stock price of apple'}, name='finacial_agent')]
+2025-06-05 16:46:07,413 - INFO - Calling function: finacial_agent with args: {'query': 'stock price of apple', 'chat_id': 'test_chat_id'}
+2025-06-05 16:46:07,413 - INFO - Function result: # Financial Market Data Results:
+
+## AAPL
+- Price: $202.82
+- Volume: 43,603,985
+- Daily Change: -0.04%
+
+### Technical Indicators:
+- MA(5): $201.72
+- MA(20): $203.73
+- RSI: 32.0
+- Volatility: 29.5%
+- ATR: $4.43
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+# Finacial Document Results:
+No relevant documents found.
+2025-06-05 16:47:50,283 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'technical analysis for Apple'}, name='finacial_agent')]
+2025-06-05 16:47:51,555 - INFO - Calling function: finacial_agent with args: {'query': 'technical analysis for Apple', 'chat_id': 'test_chat_id'}
+2025-06-05 16:47:51,555 - INFO - Function result: # Financial Market Data Results:
+
+## AAPL
+- Price: $202.82
+- Volume: 43,603,985
+- Daily Change: -0.04%
+
+### Technical Indicators:
+- MA(5): $201.72
+- MA(20): $203.73
+- RSI: 32.0
+- Volatility: 29.5%
+- ATR: $4.43
+
+Last Update: 2025-06-04
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+# Finacial Document Results:
+No relevant documents found.
+2025-06-05 16:50:46,797 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'current prices of Bitcoin and Ethereum'}, name='finacial_agent')]
+2025-06-05 16:50:48,128 - INFO - Calling function: finacial_agent with args: {'query': 'current prices of Bitcoin and Ethereum', 'chat_id': 'test_chat_id'}
+2025-06-05 16:50:48,128 - INFO - Function result: # Financial Market Data Results:
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+## AAPL
+- Price: $202.82
+- Volume: 43,603,985
+- Daily Change: -0.04%
+
+### Technical Indicators:
+- MA(5): $201.72
+- MA(20): $203.73
+- RSI: 32.0
+- Volatility: 29.5%
+- ATR: $4.43
+
+Last Update: 2025-06-04
+
+
+# Finacial Document Results:
+No relevant documents found.
+2025-06-05 17:07:36,625 - INFO - Token count for chat_id test_chat_id_1: 402

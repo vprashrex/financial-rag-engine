@@ -1,0 +1,50 @@
+{
+  "some_chat_uuid_1": {
+    "id": "some_chat_uuid_1",
+    "title": "Chat Title",
+    "created_at": "2023-10-01T12:00:00Z",
+    "updated_at": "2023-10-01T12:30:00Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hello, how are you?",
+        "timestamp": "2023-10-01T12:01:00Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm fine, thank you! How can I assist you today?",
+        "timestamp": "2023-10-01T12:02:00Z"
+      }
+    ]
+  },
+  "some_chat_uuid_2": {
+    "id": "some_chat_uuid_2",
+    "title": "Another Chat Title",
+    "created_at": "2023-10-02T14:00:00Z",
+    "updated_at": "2023-10-02T14:30:00Z",
+    "document": [
+      {
+        "name": "example_document.pdf",
+        "size": 204800,
+        "uploaded_at": "2023-10-02T14:00:00Z"
+      },
+      {
+        "name": "example_document2.pdf",
+        "size": 102400,
+        "uploaded_at": "2023-10-02T14:05:00Z"
+      }
+    ],
+    "messages": [
+      {
+        "role": "user",
+        "content": "What is the weather like today?",
+        "timestamp": "2023-10-02T14:01:00Z"
+      },
+      {
+        "role": "assistant",
+        "content": "It's sunny with a high of 75°F.",
+        "timestamp": "2023-10-02T14:02:00Z"
+      }
+    ]
+  }
+}
