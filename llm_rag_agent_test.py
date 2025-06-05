@@ -9,7 +9,7 @@ async def main():
     """
     Main function to test the LLM RAG Agent functionality.
     """
-    chat_id = "test_chat_id_1"  # Use a specific chat_id for testing
+    chat_id = "1749144027284"  # Contains Walmart 2025 Annual Report.pdf
 
     # Initialize the GenaiChat instance
     genai_chat = GenaiChat()
@@ -72,6 +72,24 @@ Output: I am sorry, but I do not have enough information to answer your question
 
 ** Note ** -> Didn't run agent RAG tool
 
+# -------------- EXAMPLE 6 -----------------------------
+Query: what is the total liabilites of wallmart?
+Output: As of January 31, 2025, Walmart's total liabilities can be calculated using the accounting equation: Total Assets = Total Liabilities + Total Shareholders' Equity.
+
+Based on the provided financial document results:
+*   **Total Assets** as of January 31, 2025: $260,823 million
+*   **Total Shareholders' Equity** as of January 31, 2025: $97,421 million
+
+Therefore, the **Total Liabilities** are calculated as:
+$260,823 million (Total Assets) - $97,421 million (Total Shareholders' Equity) = **$163,402 million**.
+
+** Note ** -> Run agent RAG tool
+
+# -------------- EXAMPLE 7 -----------------------------
+Query: Provide in single line
+Output: Walmart's total liabilities as of January 31, 2025, are $163,402 million.
+
+** Note ** -> Didn't run agent RAG tool
 """
 
 if __name__ == '__main__':

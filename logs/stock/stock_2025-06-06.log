@@ -12,3 +12,15 @@
 2025-06-06 00:17:56,671 - INFO - Retrieved 5 market data documents for query: 'what is the last updated stock price of bitcoin'
 2025-06-06 00:18:32,107 - INFO - Querying market data collection: market_data_collection
 2025-06-06 00:18:32,634 - INFO - Retrieved 5 market data documents for query: 'technical indicator of microsoft'
+2025-06-06 01:23:40,530 - INFO - Querying market data collection: market_data_collection
+2025-06-06 01:23:41,440 - INFO - Retrieved 5 market data documents for query: 'what is the acquitision activity of the company?'
+2025-06-06 01:26:10,341 - INFO - Querying market data collection: market_data_collection
+2025-06-06 01:26:10,893 - INFO - Retrieved 5 market data documents for query: 'provide detailed anlaysis of the cash flow of the company'
+2025-06-06 01:28:50,947 - INFO - Querying market data collection: market_data_collection
+2025-06-06 01:28:51,414 - INFO - Retrieved 5 market data documents for query: 'what is the total debt of the company in year 2022'
+2025-06-06 01:29:56,471 - INFO - Querying market data collection: market_data_collection
+2025-06-06 01:29:57,096 - INFO - Retrieved 5 market data documents for query: 'what is the total debt of the company in year 2024?'
+2025-06-06 01:32:19,266 - INFO - Querying market data collection: market_data_collection
+2025-06-06 01:32:19,837 - INFO - Retrieved 5 market data documents for query: 'provide it in small brief'
+2025-06-06 01:35:43,754 - INFO - Querying market data collection: market_data_collection
+2025-06-06 01:35:44,705 - INFO - Retrieved 5 market data documents for query: 'total liabilities of wallmart'

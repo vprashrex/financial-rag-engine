@@ -30,6 +30,25 @@ The system operates in two main modes:
 - Dynamic context retrieval through function calling
 - Enhanced decision-making capabilities
 
+## Vector Database Implementation
+
+### Document VectorDB
+- **Chat-specific Collections**: Each chat ID gets its own document collection (`financial_documents_collection_{chat_id}`)
+- **PDF Processing**: LlamaParse converts PDFs to markdown, then chunks into 450-character segments
+- **Isolation**: Documents uploaded in one chat are not accessible in other chats
+- **Storage Path**: `./financial_documents_db/{chat_id}/`
+
+### Market Data VectorDB
+- **Global Collection**: Single shared collection (`market_data_collection`) for all market data
+- **Real-time Updates**: Fetches stock/crypto data from Alpha Vantage API
+- **Global Accessibility**
+
+### Vector Engine
+- **Embedding Model**: NVIDIA NV-Embed-QA-E5-V5 for high-quality financial content understanding
+- **Interface Pattern**: Abstract `VectorDBInterface` with specialized implementations
+- **Query Operations**: Semantic search with similarity scoring and metadata filtering
+- **Persistence**: Local ChromaDB storage with automatic collection management
+
 ## 🚀 Features
 
 ### 💬 Chat Functionality

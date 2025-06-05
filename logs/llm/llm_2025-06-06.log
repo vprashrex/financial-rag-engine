@@ -607,3 +607,160 @@ Last Update: 2025-06-04
 | Accumulated deficit                                                                                                                                                  | $ (15,552)     | $ (19,154)         |
 | **Total non-current liabilities**                                                                                                                                    | **$ 119,866**  | **$ 131,638**      |
 | **Total liabilities**                                                                                                                                                | **$ 264,437**  | **$ 308,030**      |
+2025-06-06 01:35:42,282 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'total liabilities of wallmart'}, name='finacial_agent')]
+2025-06-06 01:35:44,705 - INFO - Calling function: finacial_agent with args: {'query': 'total liabilities of wallmart', 'chat_id': '1749144027284'}
+2025-06-06 01:35:44,705 - INFO - Function result: # Financial Market Data Results:
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+# Finacial Document Results:
+Short-term borrowings as of January 31, 2025 and 2024 were $3.1 billion and $0.9 billion, respectively, with weighted-average interest rates of 5.3% and 7.7%, respectively. We also have $15.0 billion of various undrawn committed lines of credit in the U.S. as of January 31, 2025 that provide additional liquidity, if needed. Additionally, we maintain access to various credit facilities outside of the U.S. to further support our Walmart
+| Total Walmart shareholders' equity                                              | 91,013    | 83,861    |
+| Nonredeemable noncontrolling interest                                           | 6,408     | 6,488     |
+| Total shareholders' equity                                                      | 97,421    | 90,349    |
+| Total liabilities, redeemable noncontrolling interest, and shareholders' equity | $ 260,823 | $ 252,399 |
+|                       | Capital expenditures           | 16,466    | 13,877    | 11,425    |
+| Walmart International | Total assets                   | $ 80,016  | $ 86,136  | $ 86,766  |
+|                       | Depreciation and amortization  | 2,260     | 2,159     | 1,964     |
+|                       | Capital expenditures           | 3,178     | 2,911     | 2,625     |
+See accompanying notes.
+
+# Walmart Inc.
+
+# Consolidated Balance Sheets
+
+# As of January 31,
+We have audited the accompanying consolidated balance sheets of Walmart Inc. (the Company) as of January 31, 2025 and 2024, the related consolidated statements of income, comprehensive income, shareholders' equity and cash flows for each of the three years in the period ended January 31, 2025, and the related notes (collectively referred to as the "Consolidated Financial Statements"). In our opinion, the Consolidated Financial Statements present
+| Consolidated net income attributable to Walmart                           | 19,436   | 15,511   | 11,680   |
+| Other comprehensive income (loss), net of income taxes                    |          |          |          |
+| Currency translation and other                                            | (2,810)  | 888      | (1,853)  |
+| Cash flow hedges                                                          | (49)     | 56       | (203)    |
+¹ Our global advertising business is recorded in either net sales or as a reduction to cost of sales, depending on the nature of the advertising arrangement.
+
+² Total global giving includes cash donations made by Walmart Inc. & subsidiaries and related charitable entities, and estimated value of in-kind donations.
+
+# UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+
+# Washington, D.C. 20549
+
+# FORM 10-K
+| Total current liabilities                                                       | 96,584    | 92,415    |
+| Long-term debt                                                                  | 33,401    | 36,132    |
+| Long-term operating lease obligations                                           | 12,825    | 12,943    |
+| Long-term finance lease obligations                                             | 5,923     | 5,709     |
+See accompanying notes.
+
+# Walmart Inc.
+
+# Consolidated Statements of Shareholders' Equity
+
+(Amounts in millions)
+The Company has provided certain indemnifications in connection with previous divestitures and has recorded indemnification liabilities equal to the estimated fair value of the obligations. As of January 31, 2025 and January 31, 2024, the Company had $0.6 billion and $0.7 billion, respectively, of certain legal indemnification liabilities recorded within deferred income taxes and other in the Consolidated Balance Sheets. Maximum potential future
+The Consolidated Financial Statements include the accounts of Walmart and its subsidiaries as of and for the fiscal years ended January 31, 2025 ("fiscal 2025"), January 31, 2024 ("fiscal 2024") and January 31, 2023 ("fiscal 2023"). Intercompany accounts and transactions have been eliminated in consolidation. The Company consolidates variable interest entities where it has been determined that the Company is the primary beneficiary of those
+# Note 5. Accrued Liabilities
+
+The Company's accrued liabilities consist of the following as of January 31, 2025 and 2024:
+| Goodwill                                                                        | 28,792    | 28,113    |
+| Other long-term assets                                                          | 12,869    | 17,071    |
+| Total assets                                                                    | $ 260,823 | $ 252,399 |
+| LIABILITIES, REDEEMABLE NONCONTROLLING INTEREST, AND SHAREHOLDERS' EQUITY       |           |           |
+| Common Stock                                      | Capital in Excess of Par Value | Retained Earnings | Other Comprehensive Income (Loss) | Total Walmart Shareholders' Equity | Noncontrolling Interest | Total Shareholders' Equity |          |           |
+| (Amounts in millions) | Fiscal Years Ended January 31, | 2025      | 2024      | 2023      |
+| --------------------- | ------------------------------ | --------- | --------- | --------- |
+| Walmart U.S.          | Total assets                   | $ 150,006 | $ 137,782 | $ 130,659 |
+|                       | Depreciation and amortization  | 8,549     | 7,671     | 7,054     |
+including net sales and operating income, of the Company and the Walmart International segment.
+| Other comprehensive income (loss), net of income taxes                    | (2,859)  | 944      | (2,056)  |
+| Other comprehensive (income) loss attributable to noncontrolling interest | 556      | (566)    | 404      |
+| Other comprehensive income (loss) attributable to Walmart                 | (2,303)  | 378      | (1,652)  |
+| Comprehensive income, net of income taxes                                 | 17,298   | 17,214   | 9,236    |
+Balance Sheets. Maximum potential future payments under these indemnities was $3.1 billion, based on exchange rates as of January 31, 2025.
+Description of the Matter: As described in Note 10 to the Consolidated Financial Statements, at January 31, 2025, the Company is involved in a number of legal proceedings and certain regulatory matters. The Company records a liability for those legal proceedings and regulatory matters when management determines it is probable that a loss has been incurred and the amount of the loss can be reasonably estimated. The Company also discloses when it
+None.
+
+# SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+# Walmart Inc.
+
+Date: March 14, 2025
+
+By /s/ C. Douglas McMillon
+
+C. Douglas McMillon
+
+President and Chief Executive Officer
