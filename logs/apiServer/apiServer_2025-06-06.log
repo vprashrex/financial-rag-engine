@@ -1,0 +1,18 @@
+2025-06-06 00:09:41,028 - INFO - Retrieving documents for chat_id: 1749148780722
+2025-06-06 00:09:41,030 - WARNING - No documents found for chat_id: 1749148780722
+2025-06-06 00:10:06,921 - INFO - Retrieving documents for chat_id: 1749148806603
+2025-06-06 00:10:06,923 - WARNING - No documents found for chat_id: 1749148806603
+2025-06-06 00:10:17,315 - INFO - Retrieving documents for chat_id: 1749148780722
+2025-06-06 00:10:17,316 - WARNING - No documents found for chat_id: 1749148780722
+2025-06-06 00:10:23,375 - INFO - File upload request received for chat_id: 1749148780722
+2025-06-06 00:10:23,375 - DEBUG - Received file: FY25_Q2_Consolidated_Financial_Statements.pdf, content_type: application/pdf, size: 3147962
+2025-06-06 00:10:23,376 - DEBUG - Saving file to uploads\1749148780722\FY25_Q2_Consolidated_Financial_Statements.pdf
+2025-06-06 00:10:23,389 - INFO - File successfully uploaded for chat_id: 1749148780722, saved as: uploads\1749148780722\FY25_Q2_Consolidated_Financial_Statements.pdf
+2025-06-06 00:10:42,026 - INFO - Retrieving documents for chat_id: 1749148780722
+2025-06-06 00:10:42,028 - INFO - Found 1 documents for chat_id: 1749148780722
+2025-06-06 00:10:46,644 - INFO - Retrieving documents for chat_id: 1749148806603
+2025-06-06 00:10:46,645 - WARNING - No documents found for chat_id: 1749148806603
+2025-06-06 00:17:17,275 - INFO - Retrieving documents for chat_id: 1749149236960
+2025-06-06 00:17:17,277 - WARNING - No documents found for chat_id: 1749149236960
+2025-06-06 00:18:00,397 - INFO - Retrieving documents for chat_id: 1749148780722
+2025-06-06 00:18:00,401 - INFO - Found 1 documents for chat_id: 1749148780722

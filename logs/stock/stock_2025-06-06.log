@@ -1,0 +1,14 @@
+2025-06-06 00:09:59,270 - INFO - Querying market data collection: market_data_collection
+2025-06-06 00:09:59,985 - INFO - Retrieved 5 market data documents for query: 'what is the stock price of microsoft?'
+2025-06-06 00:11:01,554 - INFO - Querying market data collection: market_data_collection
+2025-06-06 00:11:02,082 - INFO - Retrieved 5 market data documents for query: 'what is fy earning?'
+2025-06-06 00:11:17,763 - INFO - Querying market data collection: market_data_collection
+2025-06-06 00:11:18,285 - INFO - Retrieved 5 market data documents for query: 'what is fy earning?'
+2025-06-06 00:11:52,694 - INFO - Querying market data collection: market_data_collection
+2025-06-06 00:11:53,153 - INFO - Retrieved 5 market data documents for query: 'what is fy earning?'
+2025-06-06 00:17:21,839 - INFO - Querying market data collection: market_data_collection
+2025-06-06 00:17:22,475 - INFO - Retrieved 5 market data documents for query: 'what is fy earning?'
+2025-06-06 00:17:56,169 - INFO - Querying market data collection: market_data_collection
+2025-06-06 00:17:56,671 - INFO - Retrieved 5 market data documents for query: 'what is the last updated stock price of bitcoin'
+2025-06-06 00:18:32,107 - INFO - Querying market data collection: market_data_collection
+2025-06-06 00:18:32,634 - INFO - Retrieved 5 market data documents for query: 'technical indicator of microsoft'

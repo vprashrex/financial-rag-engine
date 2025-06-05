@@ -1,0 +1,609 @@
+2025-06-06 00:09:57,804 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'what is the stock price of microsoft?'}, name='finacial_agent')]
+2025-06-06 00:09:59,987 - INFO - Calling function: finacial_agent with args: {'query': 'what is the stock price of microsoft?', 'chat_id': '1749148780722'}
+2025-06-06 00:09:59,987 - INFO - Function result: # Financial Market Data Results:
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+# Finacial Document Results:
+No relevant documents found.
+2025-06-06 00:11:00,920 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'what is fy earning?'}, name='finacial_agent')]
+2025-06-06 00:11:02,083 - INFO - Calling function: finacial_agent with args: {'query': 'what is fy earning?', 'chat_id': '1749148806603'}
+2025-06-06 00:11:02,084 - INFO - Function result: # Financial Market Data Results:
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+# Finacial Document Results:
+No relevant documents found.
+2025-06-06 00:11:17,120 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'what is fy earning?'}, name='finacial_agent')]
+2025-06-06 00:11:18,286 - INFO - Calling function: finacial_agent with args: {'query': 'what is fy earning?', 'chat_id': '1749148806603'}
+2025-06-06 00:11:18,286 - INFO - Function result: # Financial Market Data Results:
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+# Finacial Document Results:
+No relevant documents found.
+2025-06-06 00:11:52,199 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'what is fy earning?'}, name='finacial_agent')]
+2025-06-06 00:11:53,160 - INFO - Calling function: finacial_agent with args: {'query': 'what is fy earning?', 'chat_id': '1749148806603'}
+2025-06-06 00:11:53,161 - INFO - Function result: # Financial Market Data Results:
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+# Finacial Document Results:
+No relevant documents found.
+2025-06-06 00:17:20,524 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'what is fy earning?'}, name='finacial_agent')]
+2025-06-06 00:17:22,476 - INFO - Calling function: finacial_agent with args: {'query': 'what is fy earning?', 'chat_id': '1749149236960'}
+2025-06-06 00:17:22,476 - INFO - Function result: # Financial Market Data Results:
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+## ETH-USD
+- Price: $2614.57
+- Volume: 1,599
+- Daily Change: +0.21%
+
+### Technical Indicators:
+- MA(5): $2593.67
+- MA(20): $2571.27
+- RSI: 45.5
+- Volatility: 36.0%
+- ATR: $110.36
+
+Last Update: 2025-06-05
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+# Finacial Document Results:
+No relevant documents found.
+2025-06-06 00:17:55,590 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'what is the last updated stock price of bitcoin'}, name='finacial_agent')]
+2025-06-06 00:17:56,673 - INFO - Calling function: finacial_agent with args: {'query': 'what is the last updated stock price of bitcoin', 'chat_id': '1749149236960'}
+2025-06-06 00:17:56,673 - INFO - Function result: # Financial Market Data Results:
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+# Finacial Document Results:
+No relevant documents found.
+2025-06-06 00:18:31,402 - INFO - Function call detected: [FunctionCall(id=None, args={'query': 'technical indicator of microsoft'}, name='finacial_agent')]
+2025-06-06 00:18:32,635 - INFO - Calling function: finacial_agent with args: {'query': 'technical indicator of microsoft', 'chat_id': '1749148780722'}
+2025-06-06 00:18:32,635 - INFO - Function result: # Financial Market Data Results:
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## MSFT
+- Price: $463.87
+- Volume: 14,162,688
+- Daily Change: -0.03%
+
+### Technical Indicators:
+- MA(5): $461.57
+- MA(20): $453.48
+- RSI: 63.8
+- Volatility: 14.4%
+- ATR: $6.06
+
+Last Update: 2025-06-04
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## BTC-USD
+- Price: $104896.58
+- Volume: 187
+- Daily Change: +0.14%
+
+### Technical Indicators:
+- MA(5): $105340.13
+- MA(20): $106747.14
+- RSI: 27.4 *Oversold Signal*
+- Volatility: 25.7%
+- ATR: $2481.00
+
+Last Update: 2025-06-05
+
+
+## JPM
+- Price: $264.22
+- Volume: 5,915,710
+- Daily Change: -0.64%
+
+### Technical Indicators:
+- MA(5): $264.70
+- MA(20): $262.25
+- RSI: 46.8
+- Volatility: 16.4%
+- ATR: $4.09
+
+Last Update: 2025-06-04
+
+
+# Finacial Document Results:
+| Earnings per share:                          |                    |                |                  |                |
+| Basic                                        | $ 1.65             | $ 1.53         | $ 4.06           | $ 3.72         |
+| Diluted                                      | $ 1.65             | $ 1.53         | $ 4.05           | $ 3.71         |
+(1) Net sales by reportable segment:
+| Shares used in computing earnings per share: |                    |                |                  |                |
+| Basic                                        | 14,994,082         | 15,405,856     | 15,037,903       | 15,457,810     |
+| Diluted                                      | 15,056,133         | 15,464,709     | 15,103,499       | 15,520,675     |
+# Investing activities:
+# Operating activities:
+(1) Net sales by category:
+| Other current liabilities                                                                                                                                            | $ 61,849       | $ 78,304           |
+| Deferred revenue                                                                                                                                                     | $ 8,976        | $ 8,249            |
+| **Total liabilities and shareholders’ equity**                                                                                                                       | **$ 331,233**  | **$ 364,980**      |
+| Commitments and contingencies                                                                                                                                        |                |                    |
+| **Shareholders’ equity:**                                                                                                                                            |                |                    |
+| **Total assets**                                                                                                                                                     | **$ 331,233**  | **$ 364,980**      |
+| **LIABILITIES AND SHAREHOLDERS’ EQUITY:**                                                                                                                            |                |                    |
+# Apple Inc.
+
+# CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited)
+
+(In millions, except number of shares, which are reflected in thousands, and per-share amounts)
+| Changes in operating assets and liabilities:                                   |   |            |            |
+| Accounts receivable, net                                                       |   | $ 7,266    | $ 7,727    |
+| Vendor non-trade receivables                                                   |   | $ 9,171    | $ 12,164   |
+| **Current liabilities:**                                                                                                                                             |                |                    |
+| Accounts payable                                                                                                                                                     | $ 54,126       | $ 68,960           |
+| Net sales:                                   |                    |                |                  |                |
+| Products                                     | $ 68,714           | $ 66,886       | $ 166,674        | $ 163,344      |
+| Services                                     | $ 26,645           | $ 23,867       | $ 52,985         | $ 46,984       |
+| Operating expenses:                          |                    |                |                  |                |
+| Research and development                     | $ 8,550            | $ 7,903        | $ 16,818         | $ 15,599       |
+| Selling, general and administrative          | $ 6,728            | $ 6,468        | $ 13,903         | $ 13,254       |
+| Marketable securities                                                                                                                                                | $ 84,424       | $ 91,479           |
+| Property, plant and equipment, net                                                                                                                                   | $ 46,876       | $ 45,680           |
+| **ASSETS:**                                                                                                                                                          |                |                    |
+| **Current assets:**                                                                                                                                                  |                |                    |
+| **Total current liabilities**                                                                                                                                        | **$ 144,571**  | **$ 176,392**      |
+| **Non-current liabilities:**                                                                                                                                         |                |                    |
+| Common stock and additional paid-in capital, $0.00001 par value: 50,400,000 shares authorized; 14,939,315 and 15,116,786 shares issued and outstanding, respectively | $ 88,711       | $ 83,276           |
+| Accumulated deficit                                                                                                                                                  | $ (15,552)     | $ (19,154)         |
+| **Total non-current liabilities**                                                                                                                                    | **$ 119,866**  | **$ 131,638**      |
+| **Total liabilities**                                                                                                                                                | **$ 264,437**  | **$ 308,030**      |

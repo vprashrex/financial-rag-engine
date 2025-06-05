@@ -1,0 +1,56 @@
+2025-06-06 00:09:58,155 - INFO - Initialized vector DB for chat_id: 1749148780722 in ./financial_documents_db/1749148780722
+2025-06-06 00:09:58,156 - INFO - Querying collection: financial_documents_collection_1749148780722 for chat_id: 1749148780722
+2025-06-06 00:09:58,161 - DEBUG - Collection 'financial_documents_collection_1749148780722' exists
+2025-06-06 00:09:59,226 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_1749148780722' for query: 'what is the stock price of microsoft?'
+2025-06-06 00:09:59,272 - DEBUG - Collection 'market_data_collection' exists
+2025-06-06 00:09:59,273 - DEBUG - Collection 'market_data_collection' exists
+2025-06-06 00:09:59,984 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'what is the stock price of microsoft?'
+2025-06-06 00:10:23,437 - INFO - Initialized vector DB for chat_id: 1749148780722 in ./financial_documents_db/1749148780722
+2025-06-06 00:10:23,439 - INFO - Processing PDF for chat_id 1749148780722: FY25_Q2_Consolidated_Financial_Statements.pdf
+2025-06-06 00:10:23,440 - INFO - Starting to parse PDF for chat_id 1749148780722: uploads\1749148780722\FY25_Q2_Consolidated_Financial_Statements.pdf
+2025-06-06 00:10:40,050 - INFO - Successfully parsed PDF for chat_id 1749148780722: uploads\1749148780722\FY25_Q2_Consolidated_Financial_Statements.pdf
+2025-06-06 00:10:40,054 - INFO - Created 52 document chunks for chat_id 1749148780722
+2025-06-06 00:10:42,016 - DEBUG - Successfully updated 52 documents in financial_documents_collection_1749148780722
+2025-06-06 00:10:42,018 - INFO - Successfully processed and stored PDF for chat_id 1749148780722: FY25_Q2_Consolidated_Financial_Statements.pdf
+2025-06-06 00:11:01,022 - INFO - Initialized vector DB for chat_id: 1749148806603 in ./financial_documents_db/1749148806603
+2025-06-06 00:11:01,023 - INFO - Querying collection: financial_documents_collection_1749148806603 for chat_id: 1749148806603
+2025-06-06 00:11:01,024 - DEBUG - Collection 'financial_documents_collection_1749148806603' exists
+2025-06-06 00:11:01,522 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_1749148806603' for query: 'what is fy earning?'
+2025-06-06 00:11:01,555 - DEBUG - Collection 'market_data_collection' exists
+2025-06-06 00:11:01,556 - DEBUG - Collection 'market_data_collection' exists
+2025-06-06 00:11:02,082 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'what is fy earning?'
+2025-06-06 00:11:17,164 - INFO - Initialized vector DB for chat_id: 1749148806603 in ./financial_documents_db/1749148806603
+2025-06-06 00:11:17,165 - INFO - Querying collection: financial_documents_collection_1749148806603 for chat_id: 1749148806603
+2025-06-06 00:11:17,166 - DEBUG - Collection 'financial_documents_collection_1749148806603' exists
+2025-06-06 00:11:17,717 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_1749148806603' for query: 'what is fy earning?'
+2025-06-06 00:11:17,765 - DEBUG - Collection 'market_data_collection' exists
+2025-06-06 00:11:17,766 - DEBUG - Collection 'market_data_collection' exists
+2025-06-06 00:11:18,284 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'what is fy earning?'
+2025-06-06 00:11:52,229 - INFO - Initialized vector DB for chat_id: 1749148806603 in ./financial_documents_db/1749148806603
+2025-06-06 00:11:52,229 - INFO - Querying collection: financial_documents_collection_1749148806603 for chat_id: 1749148806603
+2025-06-06 00:11:52,231 - DEBUG - Collection 'financial_documents_collection_1749148806603' exists
+2025-06-06 00:11:52,672 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_1749148806603' for query: 'what is fy earning?'
+2025-06-06 00:11:52,695 - DEBUG - Collection 'market_data_collection' exists
+2025-06-06 00:11:52,696 - DEBUG - Collection 'market_data_collection' exists
+2025-06-06 00:11:53,153 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'what is fy earning?'
+2025-06-06 00:17:20,726 - INFO - Initialized vector DB for chat_id: 1749149236960 in ./financial_documents_db/1749149236960
+2025-06-06 00:17:20,727 - INFO - Querying collection: financial_documents_collection_1749149236960 for chat_id: 1749149236960
+2025-06-06 00:17:20,728 - DEBUG - Collection 'financial_documents_collection_1749149236960' exists
+2025-06-06 00:17:21,808 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_1749149236960' for query: 'what is fy earning?'
+2025-06-06 00:17:21,841 - DEBUG - Collection 'market_data_collection' exists
+2025-06-06 00:17:21,842 - DEBUG - Collection 'market_data_collection' exists
+2025-06-06 00:17:22,474 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'what is fy earning?'
+2025-06-06 00:17:55,614 - INFO - Initialized vector DB for chat_id: 1749149236960 in ./financial_documents_db/1749149236960
+2025-06-06 00:17:55,614 - INFO - Querying collection: financial_documents_collection_1749149236960 for chat_id: 1749149236960
+2025-06-06 00:17:55,615 - DEBUG - Collection 'financial_documents_collection_1749149236960' exists
+2025-06-06 00:17:56,140 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_1749149236960' for query: 'what is the last updated stock price of bitcoin'
+2025-06-06 00:17:56,170 - DEBUG - Collection 'market_data_collection' exists
+2025-06-06 00:17:56,173 - DEBUG - Collection 'market_data_collection' exists
+2025-06-06 00:17:56,670 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'what is the last updated stock price of bitcoin'
+2025-06-06 00:18:31,449 - INFO - Initialized vector DB for chat_id: 1749148780722 in ./financial_documents_db/1749148780722
+2025-06-06 00:18:31,450 - INFO - Querying collection: financial_documents_collection_1749148780722 for chat_id: 1749148780722
+2025-06-06 00:18:31,451 - DEBUG - Collection 'financial_documents_collection_1749148780722' exists
+2025-06-06 00:18:32,076 - INFO - Retrieved 20 documents from collection 'financial_documents_collection_1749148780722' for query: 'technical indicator of microsoft'
+2025-06-06 00:18:32,108 - DEBUG - Collection 'market_data_collection' exists
+2025-06-06 00:18:32,109 - DEBUG - Collection 'market_data_collection' exists
+2025-06-06 00:18:32,633 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'technical indicator of microsoft'

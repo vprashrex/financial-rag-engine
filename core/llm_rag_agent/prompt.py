@@ -24,8 +24,7 @@ retriever_context = function_call_content_response
 
 ### Logic on how to handle retriever context effectively:
 1. If `retriever_context` is **empty**, respond using your own general knowledge.
-2. If `retriever_context` contains **"No relevant documents found"** or **"No relevant financial data found"**, respond with:
-   - _"No relevant information found for your query. Should I answer based on my general knowledge?"_
+2. If `retriever_context` contains **"No relevant documents found"** or **"No relevant financial data found"**, respond with based on your own general knowledge, but acknowledge the absence of specific information.:
 3. If `retriever_context` contains **relevant information**, use that information as the **primary basis** for your answer.
 4. If `retriever_context` includes **either Financial Market Data Results** or **Financial Document Results**, prioritize those results while forming your response.
 5. Always **cite or reflect key phrases or insights** from the `retriever_context` when present to ensure traceability and clarity in the response.

@@ -13,6 +13,9 @@ This application is a comprehensive financial analysis tool that integrates:
 - **Chat Memory**: SQLite-based conversation persistence
 - **Modern Frontend**: Responsive web interface with real-time chat
 
+## Screenshots
+![](image.png)
+
 ## 🏗️ Architecture
 
 The system operates in two main modes:
@@ -154,7 +157,7 @@ Access at: `http://localhost:8000`
 
 ### Database Initialization
 ```
-python -c "from memory.chat_memory import ChatMemory; ChatMemory().init_db()"
+python -c "from memory.conv_memory import SQLiteConversationMemory; SQLiteConversationMemory().init_db()"
 ```
 
 ### Run Individual Tests
