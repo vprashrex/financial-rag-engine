@@ -8,7 +8,8 @@ async def main():
     """
     Main function to test the LLM RAG functionality.
     """
-    chat_id = "1749144432787"  # This chat_id uses Amazon 2024 Anual Report as the finacial document.
+    #chat_id = "1749144432787"  # This chat_id uses Amazon 2024 Anual Report as the finacial document.
+    chat_id = '991'  # Example chat_id, can be any unique identifier
 
     # Initialize the GenaiChat instance
     genai_chat = GenaiChat()

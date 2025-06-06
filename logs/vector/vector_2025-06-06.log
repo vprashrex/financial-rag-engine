@@ -96,3 +96,39 @@
 2025-06-06 01:35:43,756 - DEBUG - Collection 'market_data_collection' exists
 2025-06-06 01:35:43,760 - DEBUG - Collection 'market_data_collection' exists
 2025-06-06 01:35:44,705 - INFO - Retrieved 5 documents from collection 'market_data_collection' for query: 'total liabilities of wallmart'
+2025-06-06 16:05:07,588 - INFO - Initialized vector DB for chat_id: 999 in ./financial_documents_db/999
+2025-06-06 16:05:07,588 - INFO - Querying collection: financial_documents_collection_999 for chat_id: 999
+2025-06-06 16:05:07,588 - DEBUG - Collection 'financial_documents_collection_999' exists
+2025-06-06 16:05:15,216 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_999' for query: 'Compare the past 7-day trend of Microsoft and Apple, then tell which stock is the best performing stock.'
+2025-06-06 16:14:10,720 - INFO - Initialized vector DB for chat_id: 991 in ./financial_documents_db/991
+2025-06-06 16:14:10,720 - INFO - Querying collection: financial_documents_collection_991 for chat_id: 991
+2025-06-06 16:14:10,720 - DEBUG - Collection 'financial_documents_collection_991' exists
+2025-06-06 16:14:11,598 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_991' for query: 'hello'
+2025-06-06 16:14:43,462 - INFO - Initialized vector DB for chat_id: 991 in ./financial_documents_db/991
+2025-06-06 16:14:43,462 - INFO - Querying collection: financial_documents_collection_991 for chat_id: 991
+2025-06-06 16:14:43,462 - DEBUG - Collection 'financial_documents_collection_991' exists
+2025-06-06 16:14:43,901 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_991' for query: 'compare the past  trend of 7days of  microsoft and apple, then tell which stock is the best performing stock'
+2025-06-06 16:17:33,119 - INFO - Initialized vector DB for chat_id: 1749206836680 in ./financial_documents_db/1749206836680
+2025-06-06 16:17:33,119 - INFO - Querying collection: financial_documents_collection_1749206836680 for chat_id: 1749206836680
+2025-06-06 16:17:33,119 - DEBUG - Collection 'financial_documents_collection_1749206836680' exists
+2025-06-06 16:17:34,118 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_1749206836680' for query: 'stock price of apple'
+2025-06-06 16:18:12,547 - INFO - Initialized vector DB for chat_id: 1749206836680 in ./financial_documents_db/1749206836680
+2025-06-06 16:18:12,547 - INFO - Querying collection: financial_documents_collection_1749206836680 for chat_id: 1749206836680
+2025-06-06 16:18:12,547 - DEBUG - Collection 'financial_documents_collection_1749206836680' exists
+2025-06-06 16:18:13,018 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_1749206836680' for query: 'compare the stock price of both apple and jp morgan for the past 5 days and tell me which stock is performing better'
+2025-06-06 16:31:59,849 - INFO - Initialized vector DB for chat_id: 1749207717806 in ./financial_documents_db/1749207717806
+2025-06-06 16:31:59,849 - INFO - Querying collection: financial_documents_collection_1749207717806 for chat_id: 1749207717806
+2025-06-06 16:31:59,864 - DEBUG - Collection 'financial_documents_collection_1749207717806' exists
+2025-06-06 16:32:01,283 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_1749207717806' for query: 'compare the stock price of both apple and jp morgan. for past 5 days and tell me which stocks is performing better'
+2025-06-06 16:36:15,522 - INFO - Initialized vector DB for chat_id: 1749207973018 in ./financial_documents_db/1749207973018
+2025-06-06 16:36:15,522 - INFO - Querying collection: financial_documents_collection_1749207973018 for chat_id: 1749207973018
+2025-06-06 16:36:15,538 - DEBUG - Collection 'financial_documents_collection_1749207973018' exists
+2025-06-06 16:36:16,022 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_1749207973018' for query: 'compare the stock price of both apple and jp morgan. for past 5 days and tell me which stocks is performing better'
+2025-06-06 16:38:07,974 - INFO - Initialized vector DB for chat_id: 1749207717806 in ./financial_documents_db/1749207717806
+2025-06-06 16:38:07,974 - INFO - Querying collection: financial_documents_collection_1749207717806 for chat_id: 1749207717806
+2025-06-06 16:38:07,975 - DEBUG - Collection 'financial_documents_collection_1749207717806' exists
+2025-06-06 16:38:08,374 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_1749207717806' for query: 'provide stock report of apple'
+2025-06-06 16:44:20,513 - INFO - Initialized vector DB for chat_id: 1749207717806 in ./financial_documents_db/1749207717806
+2025-06-06 16:44:20,513 - INFO - Querying collection: financial_documents_collection_1749207717806 for chat_id: 1749207717806
+2025-06-06 16:44:20,513 - DEBUG - Collection 'financial_documents_collection_1749207717806' exists
+2025-06-06 16:44:27,631 - INFO - Retrieved 0 documents from collection 'financial_documents_collection_1749207717806' for query: 'Can you provide the trend or daily closing prices of Microsoft's stock (MSFT) over the past 1 Week?'

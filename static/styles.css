@@ -554,6 +554,39 @@ body {
     font-size: 0.9rem;
 }
 
+/* Table Styles for Markdown Tables */
+.message-content table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 12px 0;
+    font-size: 0.9rem;
+    background: white;
+    box-shadow: var(--shadow-sm);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.message-content th,
+.message-content td {
+    border: 1px solid var(--border-light);
+    padding: 8px 12px;
+    text-align: left;
+}
+
+.message-content th {
+    background-color: var(--secondary-color);
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+.message-content tr:nth-child(even) {
+    background-color: rgba(0, 0, 0, 0.02);
+}
+
+.message-content tr:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     .app-container {

@@ -24,3 +24,483 @@
 2025-06-06 01:32:19,837 - INFO - Retrieved 5 market data documents for query: 'provide it in small brief'
 2025-06-06 01:35:43,754 - INFO - Querying market data collection: market_data_collection
 2025-06-06 01:35:44,705 - INFO - Retrieved 5 market data documents for query: 'total liabilities of wallmart'
+2025-06-06 11:57:10,107 - INFO - Stock data database initialized successfully
+2025-06-06 11:57:10,225 - INFO - SQL agent initialized successfully
+2025-06-06 11:58:57,187 - INFO - Stock data database initialized successfully
+2025-06-06 11:58:57,272 - INFO - SQL agent initialized successfully
+2025-06-06 11:59:59,716 - INFO - Stock data database initialized successfully
+2025-06-06 11:59:59,749 - INFO - SQL agent initialized successfully
+2025-06-06 12:00:02,804 - ERROR - Error in AI query: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-06-06 12:00:57,720 - INFO - Stock data database initialized successfully
+2025-06-06 12:00:57,783 - INFO - SQL agent initialized successfully
+2025-06-06 12:02:45,292 - INFO - Stock data database initialized successfully
+2025-06-06 12:02:45,325 - INFO - SQL agent initialized successfully
+2025-06-06 12:02:45,325 - DEBUG - Fetching stock data...
+2025-06-06 12:02:46,091 - DEBUG - Successfully processed AAPL
+2025-06-06 12:02:47,130 - DEBUG - Successfully processed MSFT
+2025-06-06 12:02:47,571 - DEBUG - Successfully processed JPM
+2025-06-06 12:02:47,571 - DEBUG - 
+Fetching crypto data...
+2025-06-06 12:02:48,384 - DEBUG - Available columns for BTC: ['1. open', '2. high', '3. low', '4. close', '5. volume']
+2025-06-06 12:02:48,403 - DEBUG - Successfully processed BTC
+2025-06-06 12:02:49,142 - DEBUG - Available columns for ETH: ['1. open', '2. high', '3. low', '4. close', '5. volume']
+2025-06-06 12:02:49,159 - DEBUG - Successfully processed ETH
+2025-06-06 12:02:49,284 - INFO - Stored 1000 stock data records in SQLite
+2025-06-06 12:02:49,284 - INFO - Successfully stored 1000 market data records in SQLite database
+2025-06-06 12:03:12,032 - ERROR - Error in AI query: An output parsing error occurred. In order to pass this error back to the agent and have it try again, pass `handle_parsing_errors=True` to the AgentExecutor. This is the error: Could not parse LLM output: `Over the last 30 days, both Apple Inc. (AAPL) and Microsoft Corp. (MSFT) have shown positive trends in their stock prices.
+
+**Apple Inc. (AAPL) Performance (Last 30 Days):**
+*   **Closing Price Trend:** AAPL's closing price has generally trended upwards. It started around $196.25 on May 7, 2025, and closed at $200.63 on June 5, 2025. This represents an approximate increase of 2.23% over the period.
+*   **Daily Volatility:** The `pct_change` column indicates daily fluctuations. Notable positive daily changes include 6.18% on May 12, 2025, and 2.53% on May 27, 2025. Conversely, significant negative changes were observed, such as -3.02% on May 23, 2025, and -2.31% on May 21, 2025.
+*   **Volume:** Trading volume varied, with some days showing higher activity (e.g., over 70 million shares traded on May 23 and May 30, 2025), suggesting increased investor interest or reaction to news on those days.
+
+**Microsoft Corp. (MSFT) Performance (Last 30 Days):**
+*   **Closing Price Trend:** MSFT has shown a stronger upward trajectory. Its closing price moved from approximately $433.35 on May 7, 2025, to $467.68 on June 5, 2025. This translates to a more substantial gain of approximately 7.92% over the 30-day period.
+*   **Daily Volatility:** Similar to AAPL, MSFT experienced daily price swings. Significant positive daily changes include 2.40% on May 12, 2025, and 2.33% on May 27, 2025. Negative changes were also present, such as -1.22% on May 21, 2025, and -1.03% on May 23, 2025.
+*   **Volume:** MSFT's trading volume was generally lower than AAPL's but still showed active trading, with volumes typically ranging from 14 million to 34 million shares.
+
+**Financial Context and Comparison:**
+Both tech giants have demonstrated resilience and growth over the last 30 days. MSFT has outperformed AAPL in terms of percentage price appreciation during this specific period. The daily percentage changes and trading volumes highlight the dynamic nature of stock markets, where prices react to various factors, leading to daily gains and losses. Investors would typically look at these trends, alongside other technical indicators and fundamental analysis, to make informed decisions. The positive overall trend for both stocks suggests a generally favorable market sentiment for these companies during this timeframe.`
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-06-06 12:04:45,073 - INFO - Stock data database initialized successfully
+2025-06-06 12:04:45,122 - INFO - SQL agent initialized successfully
+2025-06-06 12:05:27,708 - ERROR - Error in AI query: An output parsing error occurred. In order to pass this error back to the agent and have it try again, pass `handle_parsing_errors=True` to the AgentExecutor. This is the error: Could not parse LLM output: `**SQL Query Results:**
+
+```
+symbol	timestamp	open	high	low	close	volume	pct_change
+AAPL	2025-01-02T00:00:00	237.87	238.96	234.43	237.87	39831969	1.967592592592604
+AAPL	2025-01-03T00:00:00	237.87	238.96	234.43	237.87	39831969	0.0
+AAPL	2025-01-06T00:00:00	237.87	238.96	234.43	237.87	39831969	0.0
+AAPL	2025-01-07T00:00:00	237.87	238.96	234.43	237.87	39831969	0.0
+AAPL	2025-01-08T00:00:00	237.87	238.96	234.43	237.87	39831969	0.0
+AAPL	2025-01-09T00:00:00	237.87	238.96	234.43	237.87	39831969	0.0
+AAPL	2025-01-10T00:00:00	237.87	238.96	234.43	237.87	39831969	0.0
+AAPL	2025-01-13T00:00:00	233.53	234.67	229.72	234.4	49630725	None
+AAPL	2025-01-14T00:00:00	234.75	236.12	232.472	233.28	39435294	-0.4778156996587013
+AAPL	2025-01-15T00:00:00	234.635	238.96	234.43	237.87	39831969	1.967592592592604
+AAPL	2025-01-16T00:00:00	234.635	238.96	234.43	237.87	39831969	0.0
+AAPL	2025-01-17T00:00:00	234.635	238.96	234.43	237.87	39831969	0.0
+AAPL	2025-01-20T00:00:00	234.635	238.96	234.43	237.87	39831969	0.0
+AAPL	2025-01-21T00:00:00	234.635	238.96	234.43	237.87	39831969	0.0
+AAPL	2025-01-22T00:00:00	234.635	238.96	234.43	237.87	39831969	0.0
+AAPL	2025-01-23T00:00:00	234.635	238.96	234.43	237.87	39831969	0.0
+AAPL	2025-01-24T00:00:00	234.635	238.96	234.43	237.87	39831969	0.0
+AAPL	2025-01-27T00:00:00	234.635	238.96	234.43	237.87	39831969	0.0
+AAPL	2025-01-28T00:00:00	234.635	238.96	234.43	237.87	39831969	0.0
+AAPL	2025-01-29T00:00:00	234.635	238.96	234.43	237.87	39831969	0.0
+AAPL	2025-01-30T00:00:00	234.635	238.96	234.43	237.87	39831969	0.0
+AAPL	2025-01-31T00:00:00	234.635	238.96	234.43	237.87	39831969	0.0
+MSFT	2025-01-02T00:00:00	400.0	405.0	398.0	402.5	50000000	0.625
+MSFT	2025-01-03T00:00:00	402.5	407.0	400.0	405.0	48000000	0.6211180124223602
+MSFT	2025-01-06T00:00:00	405.0	410.0	403.0	408.0	52000000	0.7407407407407407
+MSFT	2025-01-07T00:00:00	408.0	412.0	406.0	410.0	51000000	0.49019607843137253
+MSFT	2025-01-08T00:00:00	410.0	415.0	408.0	413.0	53000000	0.7317073170731707
+MSFT	2025-01-09T00:00:00	413.0	418.0	411.0	416.0	54000000	0.7263922518159806
+MSFT	2025-01-10T00:00:00	416.0	420.0	414.0	418.0	55000000	0.4807692307692308
+MSFT	2025-01-13T00:00:00	418.0	422.0	416.0	420.0	56000000	0.4784688995215311
+MSFT	2025-01-14T00:00:00	420.0	424.0	418.0	422.0	57000000	0.47619047619047616
+MSFT	2025-01-15T00:00:00	422.0	426.0	420.0	424.0	58000000	0.4739336492890995
+MSFT	2025-01-16T00:00:00	424.0	428.0	422.0	426.0	59000000	0.4716981132075472
+MSFT	2025-01-17T00:00:00	426.0	430.0	424.0	428.0	60000000	0.46948356807511736
+MSFT	2025-01-20T00:00:00	428.0	432.0	426.0	430.0	61000000	0.4672897196261682
+MSFT	2025-01-21T00:00:00	430.0	434.0	428.0	432.0	62000000	0.46511627906976744
+MSFT	2025-01-22T00:00:00	432.0	436.0	430.0	434.0	63000000	0.46296296296296297
+MSFT	2025-01-23T00:00:00	434.0	438.0	432.0	436.0	64000000	0.4608294930875576
+MSFT	2025-01-24T00:00:00	436.0	440.0	434.0	438.0	65000000	0.45871559633027525
+MSFT	2025-01-27T00:00:00	438.0	442.0	436.0	440.0	66000000	0.45662100456621004
+MSFT	2025-01-28T00:00:00	440.0	444.0	438.0	442.0	67000000	0.45454545454545453
+MSFT	2025-01-29T00:00:00	442.0	446.0	440.0	444.0	68000000	0.4524886877828054
+MSFT	2025-01-30T00:00:00	444.0	448.0	442.0	446.0	69000000	0.45045045045045046
+MSFT	2025-01-31T00:00:00	446.0	450.0	444.0	448.0	70000000	0.4484304932735426
+```
+
+**Financial Interpretation:**
+
+The provided data covers the period from January 2, 2025, to January 31, 2025, for Apple Inc. (AAPL) and Microsoft Corp. (MSFT).
+
+**Apple Inc. (AAPL) Analysis:**
+*   **Price Movement:** Over this 30-day period, AAPL's closing price largely hovered around the $237-$238 mark. There was a slight dip to $233.28 on January 14, followed by a recovery.
+*   **Volume:** Daily trading volumes for AAPL were consistently in the range of 39-49 million shares, with a peak around 49.6 million on January 13.
+*   **Percentage Change (pct_change):** AAPL experienced a notable positive daily change of approximately 1.97% on January 2 and January 15. A minor decline of about -0.48% was observed on January 14. However, a significant number of days show a 0.0% change, which is unusual for active stock trading and might indicate data simplification or missing real-time fluctuations in this dataset. The `pct_change` being `None` on Jan 13 also suggests data gaps.
+*   **Trend:** Based on this data, AAPL's price trend appears relatively flat or range-bound during this period, with no clear sustained upward or downward momentum, especially considering the frequent 0% changes.
+
+**Microsoft Corp. (MSFT) Analysis:**
+*   **Price Movement:** MSFT demonstrated a clear and consistent upward trend throughout the 30 days. Its closing price steadily climbed from $402.5 on January 2 to $448.0 by January 31. This indicates strong bullish sentiment.
+*   **Volume:** Accompanying the rising prices, MSFT's trading volume also showed a consistent increase, starting from 50 million shares and reaching 70 million by the end of the month. Increasing volume alongside rising prices is a strong indicator of a healthy and sustained uptrend.
+*   **Percentage Change (pct_change):** MSFT consistently posted positive daily percentage changes, ranging from approximately 0.44% to 0.74%. This reinforces the observed upward price trajectory, indicating steady and incremental gains for investors.
+*   **Trend:** MSFT exhibited a robust and sustained bullish trend, characterized by continuous price appreciation supported by increasing trading volume.
+
+**Comparative Financial Context:**
+When comparing the two stocks over this 30-day period:
+*   **Performance:** Microsoft (MSFT) clearly outperformed Apple (AAPL) in terms of price appreciation. MSFT showed a consistent and strong upward trend, while AAPL's price remained relatively stable with less dynamic movement, as suggested by the frequent 0% daily changes in the dataset.
+*   **Market Interest:** The increasing volume for MSFT alongside its rising price suggests growing investor interest and strong buying pressure. AAPL's volume remained relatively consistent, but its price action was less indicative of strong directional conviction within this dataset.
+*   **Investment Outlook:** For an investor focused on short-term growth during this specific period, MSFT would have been the more attractive option due to its clear bullish momentum. AAPL's performance, as presented, suggests a period of consolidation or sideways trading. It's important to note that the prevalence of 0% `pct_change` for AAPL might not fully reflect real-world market dynamics and could be a limitation of the dataset.`
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-06-06 12:22:23,256 - INFO - Stock data database initialized successfully
+2025-06-06 12:22:23,332 - INFO - SQL agent initialized successfully
+2025-06-06 12:22:23,334 - INFO - Query classified as: realtime, complexity: 1
+2025-06-06 12:23:04,580 - INFO - Stock data database initialized successfully
+2025-06-06 12:23:04,611 - INFO - SQL agent initialized successfully
+2025-06-06 12:23:04,611 - INFO - Query classified as: realtime, complexity: 1
+2025-06-06 12:24:01,270 - INFO - Stock data database initialized successfully
+2025-06-06 12:24:01,309 - INFO - SQL agent initialized successfully
+2025-06-06 12:24:01,309 - INFO - Query classified as: realtime, complexity: 1
+2025-06-06 12:24:01,320 - INFO - Retrieved 5 market data records
+2025-06-06 12:24:22,451 - INFO - Stock data database initialized successfully
+2025-06-06 12:24:22,502 - INFO - SQL agent initialized successfully
+2025-06-06 12:24:22,502 - INFO - Query classified as: realtime, complexity: 1
+2025-06-06 12:24:22,502 - INFO - Retrieved 5 market data records
+2025-06-06 12:24:54,891 - INFO - Stock data database initialized successfully
+2025-06-06 12:24:54,935 - INFO - SQL agent initialized successfully
+2025-06-06 12:24:54,938 - INFO - Query classified as: analytical, complexity: 2
+2025-06-06 12:25:03,370 - ERROR - Error in analytical query handler: Got unsupported early_stopping_method `generate`
+2025-06-06 12:25:03,370 - INFO - Retrieved 5 market data records
+2025-06-06 12:28:53,549 - INFO - Stock data database initialized successfully
+2025-06-06 12:28:53,592 - INFO - SQL agent initialized successfully
+2025-06-06 12:29:13,275 - ERROR - Error in AI query: An output parsing error occurred. In order to pass this error back to the agent and have it try again, pass `handle_parsing_errors=True` to the AgentExecutor. This is the error: Could not parse LLM output: `Here are the technical indicators for AAPL, along with their financial interpretation:
+
+**SQL Query Results:**
+
+| Symbol | Timestamp | MA5 | MA10 | MA20 | RSI | Volatility | ATR |
+|---|---|---|---|---|---|---|---|
+| AAPL | 2025-06-05T00:00:00 | 201.85 | 200.65 | 203.95 | 30.51 | 0.294 | 4.51 |
+| AAPL | 2025-06-04T00:00:00 | 201.72 | 200.79 | 203.73 | 32.02 | 0.295 | 4.43 |
+| AAPL | 2025-06-03T00:00:00 | 201.24 | 201.20 | 203.52 | 31.84 | 0.295 | 4.37 |
+| AAPL | 2025-06-02T00:00:00 | 200.63 | 201.75 | 203.30 | 33.27 | 0.315 | 4.49 |
+| AAPL | 2025-05-30T00:00:00 | 199.34 | 202.70 | 203.48 | 53.01 | 0.340 | 5.25 |
+| AAPL | 2025-05-29T00:00:00 | 199.44 | 203.77 | 204.10 | 53.18 | 0.340 | 5.10 |
+| AAPL | 2025-05-28T00:00:00 | 199.87 | 205.00 | 204.73 | 55.28 | 0.341 | 5.10 |
+| AAPL | 2025-05-27T00:00:00 | 201.16 | 206.25 | 205.27 | 52.05 | 0.342 | 5.34 |
+| AAPL | 2025-05-23T00:00:00 | 202.87 | 207.31 | 205.77 | 45.11 | 0.328 | 5.21 |
+| AAPL | 2025-05-22T00:00:00 | 206.07 | 207.64 | 206.47 | 44.66 | 0.313 | 5.16 |
+
+**Financial Interpretation:**
+
+*   **Moving Averages (MA5, MA10, MA20):** These represent the average closing price over the last 5, 10, and 20 periods (days in this case). They help identify trends.
+    *   **Interpretation:** As of 2025-06-05, AAPL's MA5 (201.85) is slightly above its MA10 (200.65) but both are below the MA20 (203.95). This suggests that while there might be a very short-term upward momentum (MA5 > MA10), the stock is still in a short-term downtrend as the shorter-term moving averages are below the longer-term MA20. A "death cross" (shorter MA crossing below longer MA) could indicate bearish sentiment, and we see MA5 and MA10 are below MA20, which is a bearish signal.
+
+*   **Relative Strength Index (RSI):** This momentum oscillator measures the speed and change of price movements. It ranges from 0 to 100. An RSI above 70 typically indicates an overbought condition, while an RSI below 30 suggests an oversold condition.
+    *   **Interpretation:** AAPL's RSI on 2025-06-05 is 30.51. This value is very close to the oversold threshold of 30. This suggests that the stock might be undervalued or has experienced significant selling pressure recently, potentially indicating a buying opportunity for some traders, or a continuation of the downtrend if momentum persists.
+
+*   **Volatility:** This measures the degree of variation of a trading price series over time. Higher volatility means larger price swings.
+    *   **Interpretation:** AAPL's volatility on 2025-06-05 is 0.294. Looking at the trend, volatility has decreased from around 0.34 in late May to around 0.29 in early June. This indicates that the price swings have become somewhat smaller recently, suggesting a period of consolidation or reduced uncertainty compared to previous periods.
+
+*   **Average True Range (ATR):** This indicator measures market volatility by decomposing the entire range of an asset price for that period. It's typically used to set stop-loss orders or identify potential breakout levels.
+    *   **Interpretation:** AAPL's ATR on 2025-06-05 is 4.51. Similar to volatility, the ATR has also decreased from values above 5 in late May. This confirms the observation from the volatility metric: the daily trading range for AAPL has narrowed, indicating less price fluctuation day-to-day.
+
+**Overall Financial Context:**
+
+Based on the latest data (2025-06-05), AAPL appears to be in a short-term downtrend, as indicated by the moving averages (MA5 and MA10 below MA20). The RSI is hovering near the oversold level (30.51), which could suggest that the stock is due for a rebound or has been heavily sold off. Both volatility and ATR have decreased, implying that the recent price movements have been less erratic. Traders might interpret the low RSI as a potential buying signal, while the bearish moving average crossover suggests caution. Further analysis of price action and other fundamental factors would be necessary to form a complete trading or investment decision.`
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-06-06 12:32:09,909 - INFO - Stock data database initialized successfully
+2025-06-06 12:32:09,957 - INFO - SQL agent initialized successfully
+2025-06-06 12:32:33,434 - ERROR - Error in AI query: An output parsing error occurred. In order to pass this error back to the agent and have it try again, pass `handle_parsing_errors=True` to the AgentExecutor. This is the error: Could not parse LLM output: `Here are the technical indicators for AAPL from the latest available data:
+
+**Technical Indicators for AAPL (Latest 10 entries, ordered by timestamp descending):**
+
+| Timestamp    | MA5     | MA10    | MA20    | RSI      | Volatility | ATR     |
+| :----------- | :------ | :------ | :------ | :------- | :--------- | :------ |
+| 2025-06-05   | 201.85  | 200.65  | 203.95  | 30.51    | 0.294      | 4.51    |
+| 2025-06-04   | 201.72  | 200.79  | 203.73  | 32.02    | 0.295      | 4.43    |
+| 2025-06-03   | 201.24  | 201.20  | 203.52  | 31.84    | 0.295      | 4.37    |
+| 2025-06-02   | 200.63  | 201.75  | 203.30  | 33.27    | 0.315      | 4.49    |
+| 2025-05-30   | 199.34  | 202.70  | 203.48  | 53.01    | 0.340      | 5.25    |
+| 2025-05-29   | 199.44  | 203.77  | 204.10  | 53.18    | 0.340      | 5.10    |
+| 2025-05-28   | 199.87  | 205.00  | 204.73  | 55.28    | 0.341      | 5.10    |
+| 2025-05-27   | 201.16  | 206.25  | 205.27  | 52.05    | 0.342      | 5.34    |
+| 2025-05-23   | 202.87  | 207.31  | 205.77  | 45.11    | 0.328      | 5.21    |
+| 2025-05-22   | 206.07  | 207.64  | 206.47  | 44.66    | 0.313      | 5.16    |
+
+**Financial Context and Interpretation:**
+
+*   **Moving Averages (MA5, MA10, MA20):** These represent the average closing price over 5, 10, and 20 periods, respectively. They smooth out price data to identify trends.
+    *   **Interpretation:** For AAPL, the MA5, MA10, and MA20 have been generally declining over the last 10 periods (from late May to early June 2025). The MA5 (201.85) is currently below the MA10 (200.65) and MA20 (203.95), which can be a bearish signal, indicating a short-term downtrend.
+
+*   **RSI (Relative Strength Index):** A momentum oscillator that measures the speed and change of price movements. It ranges from 0 to 100. Typically, an RSI above 70 indicates overbought conditions, and below 30 indicates oversold conditions.
+    *   **Interpretation:** AAPL's RSI has recently dropped significantly, moving from the 50s in late May to around 30-33 in early June. The latest RSI of 30.51 (as of 2025-06-05) is very close to the oversold threshold of 30, suggesting that the stock might be undervalued or due for a rebound in the near term.
+
+*   **Volatility:** Measures the degree of variation of a trading price series over time. Higher volatility means larger price swings.
+    *   **Interpretation:** AAPL's volatility has shown a slight decrease from around 0.34 in late May to approximately 0.29 in early June, suggesting that the daily price swings have become somewhat smaller recently.
+
+*   **ATR (Average True Range):** Measures market volatility by decomposing the entire range of an asset price for that period.
+    *   **Interpretation:** Similar to volatility, ATR for AAPL has also decreased from around 5.1-5.3 in late May to 4.3-4.5 in early June, confirming a reduction in the average daily trading range.
+
+**Summary:**
+
+AAPL has shown a recent downtrend as indicated by the declining moving averages and the MA5 crossing below MA10 and MA20. The RSI is approaching oversold territory, which could suggest a potential bounce. Both volatility and ATR have decreased, indicating less dramatic price movements recently.`
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-06-06 12:35:09,062 - INFO - Stock data database initialized successfully
+2025-06-06 12:35:09,105 - INFO - SQL agent initialized successfully
+2025-06-06 12:35:25,104 - INFO - Successfully processed AI query: 'provide technical indicators for AAPL'
+2025-06-06 12:36:35,136 - INFO - Stock data database initialized successfully
+2025-06-06 12:36:35,172 - INFO - SQL agent initialized successfully
+2025-06-06 12:36:52,017 - INFO - Successfully processed AI query: 'provide technical indicators for AAPL'
+2025-06-06 12:53:21,249 - INFO - Stock data database initialized successfully
+2025-06-06 12:53:21,342 - INFO - SQL agent initialized successfully
+2025-06-06 12:53:21,343 - ERROR - Error extracting symbol from query: 
+2025-06-06 12:53:54,255 - INFO - Stock data database initialized successfully
+2025-06-06 12:53:54,302 - INFO - SQL agent initialized successfully
+2025-06-06 12:58:54,416 - INFO - Stock data database initialized successfully
+2025-06-06 12:58:54,520 - INFO - SQL agent initialized successfully
+2025-06-06 12:59:40,434 - INFO - Stock data database initialized successfully
+2025-06-06 12:59:40,483 - INFO - SQL agent initialized successfully
+2025-06-06 12:59:57,263 - INFO - Stock data database initialized successfully
+2025-06-06 12:59:57,310 - INFO - SQL agent initialized successfully
+2025-06-06 13:03:49,501 - INFO - Stock data database initialized successfully
+2025-06-06 13:03:49,593 - INFO - SQL agent initialized successfully
+2025-06-06 13:04:19,217 - INFO - Stock data database initialized successfully
+2025-06-06 13:04:19,254 - INFO - SQL agent initialized successfully
+2025-06-06 13:05:01,479 - INFO - Stock data database initialized successfully
+2025-06-06 13:05:01,520 - INFO - SQL agent initialized successfully
+2025-06-06 13:08:20,351 - INFO - Stock data database initialized successfully
+2025-06-06 13:08:20,456 - INFO - SQL agent initialized successfully
+2025-06-06 13:21:02,696 - INFO - Stock data database initialized successfully
+2025-06-06 13:21:02,800 - INFO - SQL agent initialized successfully
+2025-06-06 13:21:37,045 - INFO - Stock data database initialized successfully
+2025-06-06 13:21:37,087 - INFO - SQL agent initialized successfully
+2025-06-06 13:21:39,137 - INFO - Retrieved 0 records for symbol: [
+2025-06-06 13:21:39,137 - INFO - Retrieved 0 records for symbol: '
+2025-06-06 13:21:39,138 - INFO - Retrieved 0 records for symbol: A
+2025-06-06 13:21:39,139 - INFO - Retrieved 0 records for symbol: A
+2025-06-06 13:21:39,139 - INFO - Retrieved 0 records for symbol: P
+2025-06-06 13:21:39,139 - INFO - Retrieved 0 records for symbol: L
+2025-06-06 13:21:39,140 - INFO - Retrieved 0 records for symbol: '
+2025-06-06 13:21:39,140 - INFO - Retrieved 0 records for symbol: ,
+2025-06-06 13:21:39,140 - INFO - Retrieved 0 records for symbol:  
+2025-06-06 13:21:39,141 - INFO - Retrieved 0 records for symbol: '
+2025-06-06 13:21:39,141 - INFO - Retrieved 0 records for symbol: M
+2025-06-06 13:21:39,141 - INFO - Retrieved 0 records for symbol: S
+2025-06-06 13:21:39,142 - INFO - Retrieved 0 records for symbol: F
+2025-06-06 13:21:39,143 - INFO - Retrieved 0 records for symbol: T
+2025-06-06 13:21:39,144 - INFO - Retrieved 0 records for symbol: '
+2025-06-06 13:21:39,144 - INFO - Retrieved 0 records for symbol: ]
+2025-06-06 13:22:42,506 - INFO - Stock data database initialized successfully
+2025-06-06 13:22:42,537 - INFO - SQL agent initialized successfully
+2025-06-06 13:22:44,295 - ERROR - Error in hybrid market data query: eval() arg 1 must be a string, bytes or code object
+2025-06-06 13:23:05,398 - INFO - Stock data database initialized successfully
+2025-06-06 13:23:05,441 - INFO - SQL agent initialized successfully
+2025-06-06 13:23:07,154 - INFO - Retrieved 50 records for symbol: AAPL
+2025-06-06 13:23:07,154 - INFO - Retrieved 50 records for symbol: MSFT
+2025-06-06 13:31:53,950 - INFO - Stock data database initialized successfully
+2025-06-06 13:31:53,987 - INFO - SQL agent initialized successfully
+2025-06-06 13:32:38,332 - INFO - Stock data database initialized successfully
+2025-06-06 13:32:38,369 - INFO - SQL agent initialized successfully
+2025-06-06 13:37:40,023 - INFO - Stock data database initialized successfully
+2025-06-06 13:37:40,068 - INFO - SQL agent initialized successfully
+2025-06-06 13:37:41,587 - INFO - Retrieved 5 records for symbol: AAPL
+2025-06-06 13:37:41,587 - INFO - Retrieved 5 records for symbol: MSFT
+2025-06-06 14:06:40,974 - INFO - Stock data database initialized successfully
+2025-06-06 14:06:41,352 - INFO - SQL agent initialized successfully
+2025-06-06 14:20:40,215 - INFO - Stock data database initialized successfully
+2025-06-06 14:20:40,438 - INFO - SQL agent initialized successfully
+2025-06-06 14:21:20,945 - INFO - Stock data database initialized successfully
+2025-06-06 14:21:21,028 - INFO - SQL agent initialized successfully
+2025-06-06 14:21:24,303 - ERROR - Error executing dynamic query: 'MarketEngine' object has no attribute '_build_dynamic_sql_query'
+2025-06-06 14:22:27,790 - INFO - Stock data database initialized successfully
+2025-06-06 14:22:27,907 - INFO - SQL agent initialized successfully
+2025-06-06 14:22:31,403 - INFO - Generated SQL: SELECT symbol, timestamp, ma5, ma10, ma20, rsi, atr, volatility FROM stock_data WHERE symbol IN (?, ?) ORDER BY timestamp DESC LIMIT 50
+2025-06-06 14:22:31,403 - INFO - Parameters: ['AAPL', 'MSFT']
+2025-06-06 14:23:07,869 - INFO - Stock data database initialized successfully
+2025-06-06 14:23:07,944 - INFO - SQL agent initialized successfully
+2025-06-06 14:23:09,798 - INFO - Generated SQL: SELECT symbol, timestamp, close FROM stock_data WHERE symbol IN (?) ORDER BY timestamp DESC LIMIT 50
+2025-06-06 14:23:09,798 - INFO - Parameters: ['AAPL']
+2025-06-06 14:25:17,855 - INFO - Stock data database initialized successfully
+2025-06-06 14:25:18,042 - INFO - SQL agent initialized successfully
+2025-06-06 14:25:20,082 - INFO - Generated SQL: SELECT symbol, timestamp, close FROM stock_data WHERE symbol IN (?, ?) ORDER BY symbol, timestamp DESC LIMIT 100
+2025-06-06 14:25:20,082 - INFO - Parameters: ['AAPL', 'MSFT']
+2025-06-06 14:27:05,626 - INFO - Stock data database initialized successfully
+2025-06-06 14:27:05,732 - INFO - SQL agent initialized successfully
+2025-06-06 14:27:08,602 - INFO - Generated SQL: SELECT symbol, timestamp, close FROM stock_data WHERE symbol IN (?) ORDER BY timestamp DESC LIMIT 50
+2025-06-06 14:27:08,604 - INFO - Parameters: ['MSFT']
+2025-06-06 14:30:58,607 - INFO - Stock data database initialized successfully
+2025-06-06 14:30:58,802 - INFO - SQL agent initialized successfully
+2025-06-06 14:31:00,742 - INFO - Generated SQL: SELECT symbol, timestamp, close FROM stock_data WHERE symbol IN (?) ORDER BY timestamp DESC LIMIT 50
+2025-06-06 14:31:00,742 - INFO - Parameters: ['MSFT']
+2025-06-06 14:31:22,238 - INFO - Stock data database initialized successfully
+2025-06-06 14:31:22,333 - INFO - SQL agent initialized successfully
+2025-06-06 14:31:24,703 - INFO - Generated SQL: 
+                        (SELECT symbol, timestamp, close FROM stock_data 
+                        WHERE symbol = ? ORDER BY timestamp DESC LIMIT 5) UNION ALL 
+                        (SELECT symbol, timestamp, close FROM stock_data 
+                        WHERE symbol = ? ORDER BY timestamp DESC LIMIT 5) ORDER BY symbol, timestamp DESC
+2025-06-06 14:31:24,703 - INFO - Parameters: ['MSFT', 'AAPL']
+2025-06-06 14:31:24,711 - ERROR - Error executing dynamic query: near "(": syntax error
+2025-06-06 14:35:02,077 - INFO - Stock data database initialized successfully
+2025-06-06 14:35:02,304 - INFO - SQL agent initialized successfully
+2025-06-06 14:35:05,890 - INFO - Generated SQL: SELECT symbol, timestamp, close FROM stock_data WHERE symbol = ? ORDER BY timestamp DESC LIMIT 5 UNION ALL SELECT symbol, timestamp, close FROM stock_data WHERE symbol = ? ORDER BY timestamp DESC LIMIT 5 ORDER BY symbol, timestamp DESC
+2025-06-06 14:35:05,890 - INFO - Parameters: ['MSFT', 'AAPL']
+2025-06-06 14:35:05,899 - ERROR - Error executing dynamic query: near "ORDER": syntax error
+2025-06-06 14:38:09,683 - INFO - Stock data database initialized successfully
+2025-06-06 14:38:09,866 - INFO - SQL agent initialized successfully
+2025-06-06 14:38:12,562 - INFO - Generated SQL: SELECT symbol, timestamp, close, rsi, ma5, ma20, volume FROM stock_data WHERE symbol = ? LIMIT 5 UNION ALL SELECT symbol, timestamp, close, rsi, ma5, ma20, volume FROM stock_data WHERE symbol = ? LIMIT 5 ORDER BY symbol, timestamp DESC
+2025-06-06 14:38:12,564 - INFO - Parameters: ['MSFT', 'AAPL']
+2025-06-06 14:38:12,564 - ERROR - Error executing dynamic query: near "ORDER": syntax error
+2025-06-06 14:42:27,363 - INFO - Stock data database initialized successfully
+2025-06-06 14:42:27,557 - INFO - SQL agent initialized successfully
+2025-06-06 14:42:30,497 - INFO - Generated SQL: 
+            SELECT symbol, timestamp, close FROM stock_data
+            WHERE symbol IN (?, ?)
+             ORDER BY symbol, timestamp DESC LIMIT 50
+2025-06-06 14:42:30,502 - INFO - Parameters: ['MSFT', 'AAPL']
+2025-06-06 14:48:30,879 - INFO - Stock data database initialized successfully
+2025-06-06 14:48:30,968 - INFO - SQL agent initialized successfully
+2025-06-06 14:48:33,681 - INFO - Executing multi-symbol query for comparison
+2025-06-06 14:48:33,681 - INFO - Executing query for symbol MSFT: SELECT symbol, timestamp, close FROM stock_data WHERE symbol = ? ORDER BY timestamp DESC LIMIT 25
+2025-06-06 14:48:33,681 - INFO - Parameters: ['MSFT']
+2025-06-06 14:48:33,681 - INFO - Executing query for symbol AAPL: SELECT symbol, timestamp, close FROM stock_data WHERE symbol = ? ORDER BY timestamp DESC LIMIT 25
+2025-06-06 14:48:33,681 - INFO - Parameters: ['AAPL']
+2025-06-06 14:51:58,951 - INFO - Stock data database initialized successfully
+2025-06-06 14:51:59,056 - INFO - SQL agent initialized successfully
+2025-06-06 14:52:02,092 - INFO - Executing multi-symbol query for comparison
+2025-06-06 14:52:02,092 - INFO - Executing query for symbol MSFT: SELECT symbol, timestamp, close, rsi, ma5, ma20, volume FROM stock_data WHERE symbol = ? ORDER BY timestamp DESC LIMIT 25
+2025-06-06 14:52:02,092 - INFO - Parameters: ['MSFT']
+2025-06-06 14:52:02,092 - INFO - Executing query for symbol AAPL: SELECT symbol, timestamp, close, rsi, ma5, ma20, volume FROM stock_data WHERE symbol = ? ORDER BY timestamp DESC LIMIT 25
+2025-06-06 14:52:02,092 - INFO - Parameters: ['AAPL']
+2025-06-06 14:58:07,474 - INFO - Stock data database initialized successfully
+2025-06-06 14:58:07,584 - INFO - SQL agent initialized successfully
+2025-06-06 14:59:31,554 - INFO - Stock data database initialized successfully
+2025-06-06 14:59:31,614 - INFO - SQL agent initialized successfully
+2025-06-06 14:59:34,144 - INFO - Executing multi-symbol query for comparison
+2025-06-06 14:59:34,144 - INFO - Executing query for symbol MSFT: SELECT symbol, timestamp, close FROM stock_data WHERE symbol = ? ORDER BY timestamp DESC LIMIT 25
+2025-06-06 14:59:34,144 - INFO - Parameters: ['MSFT']
+2025-06-06 14:59:34,165 - INFO - Executing query for symbol AAPL: SELECT symbol, timestamp, close FROM stock_data WHERE symbol = ? ORDER BY timestamp DESC LIMIT 25
+2025-06-06 14:59:34,165 - INFO - Parameters: ['AAPL']
+2025-06-06 15:00:14,404 - INFO - Stock data database initialized successfully
+2025-06-06 15:00:14,457 - INFO - SQL agent initialized successfully
+2025-06-06 15:00:16,175 - INFO - Executing multi-symbol query for comparison
+2025-06-06 15:00:16,175 - INFO - Executing query for symbol MSFT: SELECT symbol, timestamp, close FROM stock_data WHERE symbol = ? ORDER BY timestamp DESC LIMIT 25
+2025-06-06 15:00:16,175 - INFO - Parameters: ['MSFT']
+2025-06-06 15:00:16,175 - INFO - Executing query for symbol AAPL: SELECT symbol, timestamp, close FROM stock_data WHERE symbol = ? ORDER BY timestamp DESC LIMIT 25
+2025-06-06 15:00:16,175 - INFO - Parameters: ['AAPL']
+2025-06-06 15:00:27,295 - INFO - Stock data database initialized successfully
+2025-06-06 15:00:27,340 - INFO - SQL agent initialized successfully
+2025-06-06 15:00:31,357 - INFO - Executing multi-symbol query for comparison
+2025-06-06 15:00:31,357 - INFO - Executing query for symbol MSFT: SELECT symbol, timestamp, close FROM stock_data WHERE symbol = ? ORDER BY timestamp DESC LIMIT 25
+2025-06-06 15:00:31,357 - INFO - Parameters: ['MSFT']
+2025-06-06 15:00:31,357 - INFO - Executing query for symbol AAPL: SELECT symbol, timestamp, close FROM stock_data WHERE symbol = ? ORDER BY timestamp DESC LIMIT 25
+2025-06-06 15:00:31,357 - INFO - Parameters: ['AAPL']
+2025-06-06 15:03:39,438 - INFO - Stock data database initialized successfully
+2025-06-06 15:03:39,484 - INFO - SQL agent initialized successfully
+2025-06-06 15:03:41,534 - INFO - Generated SQL: SELECT symbol, timestamp, close, ma5, ma20, pct_change FROM stock_data WHERE symbol IN (?) ORDER BY timestamp DESC LIMIT 50
+2025-06-06 15:03:41,535 - INFO - Parameters: ['JPM']
+2025-06-06 15:11:37,637 - INFO - Stock data database initialized successfully
+2025-06-06 15:11:37,736 - INFO - SQL agent initialized successfully
+2025-06-06 15:11:46,010 - INFO - Generated SQL: SELECT symbol, timestamp, close, ma5, ma20, pct_change FROM stock_data WHERE symbol IN (?) ORDER BY timestamp DESC LIMIT 50
+2025-06-06 15:11:46,010 - INFO - Parameters: ['JPM']
+2025-06-06 15:12:28,350 - INFO - Stock data database initialized successfully
+2025-06-06 15:12:28,395 - INFO - SQL agent initialized successfully
+2025-06-06 15:12:30,538 - INFO - Generated SQL: SELECT symbol, timestamp, close, ma5, ma20, pct_change FROM stock_data WHERE symbol IN (?) ORDER BY timestamp DESC LIMIT 10
+2025-06-06 15:12:30,538 - INFO - Parameters: ['JPM']
+2025-06-06 15:13:05,261 - INFO - Stock data database initialized successfully
+2025-06-06 15:13:05,307 - INFO - SQL agent initialized successfully
+2025-06-06 15:13:07,858 - INFO - Executing multi-symbol query for comparison
+2025-06-06 15:13:07,858 - INFO - Executing query for symbol MSFT: SELECT symbol, timestamp, close FROM stock_data WHERE symbol = ? ORDER BY timestamp DESC LIMIT 25
+2025-06-06 15:13:07,858 - INFO - Parameters: ['MSFT']
+2025-06-06 15:13:07,858 - INFO - Executing query for symbol AAPL: SELECT symbol, timestamp, close FROM stock_data WHERE symbol = ? ORDER BY timestamp DESC LIMIT 25
+2025-06-06 15:13:07,858 - INFO - Parameters: ['AAPL']
+2025-06-06 15:14:01,786 - INFO - Stock data database initialized successfully
+2025-06-06 15:14:01,834 - INFO - SQL agent initialized successfully
+2025-06-06 15:14:03,480 - INFO - Generated SQL: SELECT symbol, timestamp, close, ma5, ma20, pct_change FROM stock_data WHERE symbol IN (?) ORDER BY timestamp DESC LIMIT 10
+2025-06-06 15:14:03,480 - INFO - Parameters: ['AAPL']
+2025-06-06 15:14:19,052 - INFO - Stock data database initialized successfully
+2025-06-06 15:14:19,101 - INFO - SQL agent initialized successfully
+2025-06-06 15:14:24,369 - INFO - Executing multi-symbol query for comparison
+2025-06-06 15:14:24,369 - INFO - Executing query for symbol MSFT: SELECT symbol, timestamp, close, rsi, ma5, ma20, volume FROM stock_data WHERE symbol = ? ORDER BY timestamp DESC LIMIT 25
+2025-06-06 15:14:24,369 - INFO - Parameters: ['MSFT']
+2025-06-06 15:14:24,378 - INFO - Executing query for symbol AAPL: SELECT symbol, timestamp, close, rsi, ma5, ma20, volume FROM stock_data WHERE symbol = ? ORDER BY timestamp DESC LIMIT 25
+2025-06-06 15:14:24,379 - INFO - Parameters: ['AAPL']
+2025-06-06 15:16:15,995 - INFO - Stock data database initialized successfully
+2025-06-06 15:16:16,036 - INFO - SQL agent initialized successfully
+2025-06-06 15:16:17,805 - INFO - Generated SQL: SELECT symbol, timestamp, close, ma5, ma20, pct_change FROM stock_data WHERE symbol IN (?) ORDER BY timestamp DESC LIMIT 10
+2025-06-06 15:16:17,805 - INFO - Parameters: ['JPM']
+2025-06-06 15:17:20,046 - INFO - Stock data database initialized successfully
+2025-06-06 15:17:20,089 - INFO - SQL agent initialized successfully
+2025-06-06 15:17:23,118 - INFO - Generated SQL: SELECT symbol, timestamp, close FROM stock_data WHERE symbol IN (?) ORDER BY timestamp DESC LIMIT 10
+2025-06-06 15:17:23,130 - INFO - Parameters: ['MSFT']
+2025-06-06 15:21:29,498 - INFO - Stock data database initialized successfully
+2025-06-06 15:21:29,603 - INFO - SQL agent initialized successfully
+2025-06-06 15:21:32,883 - INFO - Generated SQL: SELECT symbol, timestamp, close FROM stock_data WHERE symbol IN (?) ORDER BY timestamp DESC LIMIT 10
+2025-06-06 15:21:32,884 - INFO - Parameters: ['MSFT']
+2025-06-06 15:22:24,877 - INFO - Stock data database initialized successfully
+2025-06-06 15:22:24,993 - INFO - SQL agent initialized successfully
+2025-06-06 15:23:24,694 - INFO - Stock data database initialized successfully
+2025-06-06 15:23:24,798 - INFO - SQL agent initialized successfully
+2025-06-06 15:23:29,012 - INFO - Generated SQL: SELECT symbol, timestamp, ma5, ma10, ma20, rsi, atr FROM stock_data WHERE symbol IN (?) ORDER BY timestamp DESC LIMIT 10
+2025-06-06 15:23:29,012 - INFO - Parameters: ['BTC']
+2025-06-06 15:23:59,359 - INFO - Stock data database initialized successfully
+2025-06-06 15:23:59,456 - INFO - SQL agent initialized successfully
+2025-06-06 15:24:04,049 - INFO - Generated SQL: SELECT symbol, timestamp, close FROM stock_data WHERE symbol IN (?) ORDER BY timestamp DESC LIMIT 10
+2025-06-06 15:24:04,049 - INFO - Parameters: ['BTC']
+2025-06-06 15:27:58,551 - INFO - Stock data database initialized successfully
+2025-06-06 15:27:58,604 - INFO - SQL agent initialized successfully
+2025-06-06 15:28:01,093 - INFO - Generated SQL: SELECT symbol, timestamp, close FROM stock_data WHERE symbol IN (?) ORDER BY timestamp DESC LIMIT 10
+2025-06-06 15:28:01,093 - INFO - Parameters: ['BTC']
+2025-06-06 15:28:23,716 - INFO - Stock data database initialized successfully
+2025-06-06 15:28:23,754 - INFO - SQL agent initialized successfully
+2025-06-06 15:28:25,738 - INFO - Generated SQL: SELECT symbol, timestamp, close, ma5, ma20, pct_change FROM stock_data WHERE symbol IN (?) ORDER BY timestamp DESC LIMIT 10
+2025-06-06 15:28:25,738 - INFO - Parameters: ['BTC']
+2025-06-06 15:28:42,205 - INFO - Stock data database initialized successfully
+2025-06-06 15:28:42,242 - INFO - SQL agent initialized successfully
+2025-06-06 15:28:45,373 - INFO - Generated SQL: SELECT symbol, timestamp, close, ma5, ma20, pct_change FROM stock_data WHERE symbol IN (?) ORDER BY timestamp DESC LIMIT 10
+2025-06-06 15:28:45,373 - INFO - Parameters: ['JPM']
+2025-06-06 15:30:11,535 - INFO - Stock data database initialized successfully
+2025-06-06 15:30:11,575 - INFO - SQL agent initialized successfully
+2025-06-06 15:30:15,238 - INFO - Generated SQL: SELECT symbol, timestamp, close FROM stock_data WHERE symbol IN (?) ORDER BY timestamp DESC LIMIT 50
+2025-06-06 15:30:15,238 - INFO - Parameters: ['JPM']
+2025-06-06 15:30:40,638 - INFO - Stock data database initialized successfully
+2025-06-06 15:30:40,679 - INFO - SQL agent initialized successfully
+2025-06-06 15:30:45,052 - INFO - Generated SQL: SELECT symbol, timestamp, close FROM stock_data WHERE symbol IN (?) ORDER BY timestamp DESC LIMIT 50
+2025-06-06 15:30:45,052 - INFO - Parameters: ['JPM']
+2025-06-06 15:31:24,666 - INFO - Stock data database initialized successfully
+2025-06-06 15:31:24,699 - INFO - SQL agent initialized successfully
+2025-06-06 15:31:29,466 - INFO - Generated SQL: SELECT symbol, timestamp, close FROM stock_data WHERE symbol IN (?) ORDER BY timestamp DESC LIMIT 50
+2025-06-06 15:31:29,466 - INFO - Parameters: ['JPM']
+2025-06-06 15:32:58,604 - INFO - Stock data database initialized successfully
+2025-06-06 15:32:58,650 - INFO - SQL agent initialized successfully
+2025-06-06 15:33:02,907 - INFO - Generated SQL: SELECT symbol, timestamp, close FROM stock_data WHERE symbol IN (?) ORDER BY timestamp DESC LIMIT 50
+2025-06-06 15:33:02,907 - INFO - Parameters: ['JPM']
+2025-06-06 16:05:15,216 - INFO - Stock data database initialized successfully
+2025-06-06 16:05:15,369 - INFO - SQL agent initialized successfully
+2025-06-06 16:05:22,445 - INFO - Executing multi-symbol query for comparison
+2025-06-06 16:05:22,461 - INFO - Executing query for symbol MSFT: SELECT symbol, timestamp, close, rsi, ma5, ma20, volume FROM stock_data WHERE symbol = ? ORDER BY timestamp DESC LIMIT 25
+2025-06-06 16:05:22,461 - INFO - Parameters: ['MSFT']
+2025-06-06 16:05:22,461 - INFO - Executing query for symbol AAPL: SELECT symbol, timestamp, close, rsi, ma5, ma20, volume FROM stock_data WHERE symbol = ? ORDER BY timestamp DESC LIMIT 25
+2025-06-06 16:05:22,461 - INFO - Parameters: ['AAPL']
+2025-06-06 16:14:11,610 - INFO - Stock data database initialized successfully
+2025-06-06 16:14:11,711 - INFO - SQL agent initialized successfully
+2025-06-06 16:14:43,901 - INFO - Stock data database initialized successfully
+2025-06-06 16:14:43,920 - INFO - SQL agent initialized successfully
+2025-06-06 16:14:54,425 - INFO - Executing multi-symbol query for comparison
+2025-06-06 16:14:54,425 - INFO - Executing query for symbol MSFT: SELECT symbol, timestamp, close, rsi, ma5, ma20, volume FROM stock_data WHERE symbol = ? AND timestamp >= date('now', '-7 days') ORDER BY timestamp DESC LIMIT 25
+2025-06-06 16:14:54,425 - INFO - Parameters: ['MSFT']
+2025-06-06 16:14:54,440 - INFO - Executing query for symbol AAPL: SELECT symbol, timestamp, close, rsi, ma5, ma20, volume FROM stock_data WHERE symbol = ? AND timestamp >= date('now', '-7 days') ORDER BY timestamp DESC LIMIT 25
+2025-06-06 16:14:54,441 - INFO - Parameters: ['AAPL']
+2025-06-06 16:16:56,164 - INFO - Stock data database initialized successfully
+2025-06-06 16:16:56,271 - INFO - SQL agent initialized successfully
+2025-06-06 16:17:35,844 - INFO - Generated SQL: SELECT symbol, timestamp, close FROM stock_data WHERE symbol IN (?) ORDER BY timestamp DESC LIMIT 50
+2025-06-06 16:17:35,860 - INFO - Parameters: ['AAPL']
+2025-06-06 16:18:16,613 - INFO - Executing multi-symbol query for comparison
+2025-06-06 16:18:16,629 - INFO - Executing query for symbol AAPL: SELECT symbol, timestamp, close FROM stock_data WHERE symbol = ? ORDER BY timestamp DESC LIMIT 25
+2025-06-06 16:18:16,629 - INFO - Parameters: ['AAPL']
+2025-06-06 16:18:16,629 - INFO - Executing query for symbol JPM: SELECT symbol, timestamp, close FROM stock_data WHERE symbol = ? ORDER BY timestamp DESC LIMIT 25
+2025-06-06 16:18:16,629 - INFO - Parameters: ['JPM']
+2025-06-06 16:29:57,741 - INFO - Stock data database initialized successfully
+2025-06-06 16:29:57,835 - INFO - SQL agent initialized successfully
+2025-06-06 16:31:35,599 - INFO - Stock data database initialized successfully
+2025-06-06 16:31:35,654 - INFO - SQL agent initialized successfully
+2025-06-06 16:32:06,153 - INFO - Executing multi-symbol query for comparison
+2025-06-06 16:32:06,153 - INFO - Executing query for symbol AAPL: SELECT symbol, timestamp, close FROM stock_data WHERE symbol = ? ORDER BY timestamp DESC LIMIT 25
+2025-06-06 16:32:06,153 - INFO - Parameters: ['AAPL']
+2025-06-06 16:32:06,153 - INFO - Executing query for symbol JPM: SELECT symbol, timestamp, close FROM stock_data WHERE symbol = ? ORDER BY timestamp DESC LIMIT 25
+2025-06-06 16:32:06,153 - INFO - Parameters: ['JPM']
+2025-06-06 16:36:08,908 - INFO - Stock data database initialized successfully
+2025-06-06 16:36:09,008 - INFO - SQL agent initialized successfully
+2025-06-06 16:36:20,022 - INFO - Executing multi-symbol query for comparison
+2025-06-06 16:36:20,022 - INFO - Executing query for symbol AAPL: SELECT symbol, timestamp, close FROM stock_data WHERE symbol = ? ORDER BY timestamp DESC LIMIT 25
+2025-06-06 16:36:20,022 - INFO - Parameters: ['AAPL']
+2025-06-06 16:36:20,022 - INFO - Executing query for symbol JPM: SELECT symbol, timestamp, close FROM stock_data WHERE symbol = ? ORDER BY timestamp DESC LIMIT 25
+2025-06-06 16:36:20,022 - INFO - Parameters: ['JPM']
+2025-06-06 16:38:10,510 - INFO - Generated SQL: SELECT symbol, timestamp, open, high, low, close, volume FROM stock_data WHERE symbol IN (?) ORDER BY timestamp DESC LIMIT 50
+2025-06-06 16:38:10,510 - INFO - Parameters: ['AAPL']
+2025-06-06 16:44:30,519 - INFO - Generated SQL: SELECT symbol, timestamp, close FROM stock_data WHERE symbol IN (?) ORDER BY timestamp DESC LIMIT 50
+2025-06-06 16:44:30,519 - INFO - Parameters: ['MSFT']

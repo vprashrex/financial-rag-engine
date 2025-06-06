@@ -3,7 +3,7 @@ import time
 from fastapi import APIRouter
 from fastapi.responses import JSONResponse
 # default mode : LLM + Agent + RAG
-from core.llm_rag_agent.llm import GenaiChat
+from core.llm_rag.llm import GenaiChat
 
 # uncomment the below line to just use the LLM + RAG only
 #from core.llm_rag.llm import GenaiChat

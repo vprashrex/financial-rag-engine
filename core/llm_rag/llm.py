@@ -58,7 +58,10 @@ class GenaiChat:
 
         # Create the user content with the prompt template
         chat_input = prompt_template.format(
-            chat_history=chat_history, query=user_query, retriever_context=context
+            chat_history=chat_history,
+            query=user_query,
+            market_query_result=context.get("market_query_result", "No relevant financial data found."),
+            document_query_result=context.get("document_query_result", "No relevant documents found.")
         )
 
         # Create and return the Content object for the user query
@@ -87,7 +90,9 @@ class GenaiChat:
 
             # save the user query and response to memory
             await save_message_memory(chat_id=chat_id, content=query, role="user")
-            await save_message_memory(chat_id=chat_id, content=response, role="assistant")
+            await save_message_memory(
+                chat_id=chat_id, content=response, role="assistant"
+            )
 
             return response
 

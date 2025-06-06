@@ -14,7 +14,17 @@ This application is a comprehensive financial analysis tool that integrates:
 - **Modern Frontend**: Responsive web interface with real-time chat
 
 ## Screenshots
-![alt text](image.png)
+![alt text](./screenshots/image.png)
+
+**Question** compare the stock price of both apple and jp morgan. for past 5 days and tell me which stocks is performing better
+![alt text](./screenshots/image-1.png)
+
+**Question** provide stock report of apple
+![alt text](./screenshots/image-2.png)
+
+**Question** Can you provide the trend or daily closing prices of Microsoft's stock (MSFT) over the past 1 Week?
+![alt text](./screenshots/image-3.png)
+
 
 ## Demo Video
 https://drive.google.com/file/d/1Kvfd3X5sewCnYPEKCyhyxrlPVeCmT1Ym/view?usp=sharing
@@ -33,6 +43,25 @@ The system operates in two main modes:
 - Dynamic context retrieval through function calling
 - Enhanced decision-making capabilities
 
+## 🧠 Technical Overview – Hybrid Stock Market Query System
+
+* Uses a hybrid approach combining LLM and SQLite for intelligent stock market queries
+* User submits a natural language query related to stock data
+* LLM parses the query to extract structured data: symbols, intent, time range, metrics, aggregation
+* Based on the extracted data, dynamically SQL queries are generated
+* SQL queries are executed on a local SQLite database containing historical stock prices, volume, and technical indicators
+* Retrieves relevant data per symbol with necessary filters and sorting
+* Processes results and generates a structured summary report
+* Supports various query types like price lookup, trend analysis, volatility checks, and multi-symbol comparison
+* Experimental SQL Agent (LangChain + Gemini) can directly translate queries into SQL with financial context. but it is **NOT** used due to not tested properly.
+
+### 🧪 How to Test
+Run the following Python command to test the Hybrid Stock Market Query System:
+```
+python retrieve_market_data_test.py
+```
+
+
 ## Vector Database Implementation
 
 ### Document VectorDB
@@ -40,11 +69,6 @@ The system operates in two main modes:
 - **PDF Processing**: LlamaParse converts PDFs to markdown, then chunks into 450-character segments
 - **Isolation**: Documents uploaded in one chat are not accessible in other chats
 - **Storage Path**: `./financial_documents_db/{chat_id}/`
-
-### Market Data VectorDB
-- **Global Collection**: Single shared collection (`market_data_collection`) for all market data
-- **Real-time Updates**: Fetches stock/crypto data from Alpha Vantage API
-- **Global Accessibility**
 
 ### Vector Engine
 - **Embedding Model**: NVIDIA NV-Embed-QA-E5-V5 for high-quality financial content understanding
@@ -178,8 +202,12 @@ Access at: `http://localhost:8000`
 ## 🧪 Testing
 
 ### Database Initialization
-```
+```powershell
+# Initialize chat conversation database
 python -c "from memory.conv_memory import SQLiteConversationMemory; SQLiteConversationMemory().init_db()"
+
+# Initialize market data database (SQLite with enhanced features)
+python -c "from core.stock_market.market_engine import MarketEngine; MarketEngine().init_db()"
 ```
 
 ### Run Individual Tests
@@ -193,7 +221,7 @@ python llm_rag_agent_test.py
 # Test document retrieval
 python retrieve_finacial_document_test.py
 
-# Test market data retrieval
+# Test market data retrieval (enhanced with smart query routing)
 python retrieve_market_data_test.py
 
 # Test market data fetching
@@ -202,6 +230,8 @@ python tests/fetch_market_data.py
 # Test vector database
 python tests/maket_data_vdb.py
 ```
+
+
 
 ### Example Test Commands
 ```powershell
@@ -262,6 +292,20 @@ task-i/
 - **Supported Crypto**: BTC, ETH
 - **Technical Indicators**: RSI, Moving Averages, Bollinger Bands, ATR
 - **Update Frequency**: On-demand via API
+- **Smart Query Routing**: Automatic classification of simple vs analytical queries
+- **Performance Optimization**: Query caching, fallback mechanisms
+- **SQL Agent Integration**: LangChain SQL agents for complex analytics
+
+### Enhanced Market Engine Features
+- **🧠 Smart Query Classification**: Automatically routes queries based on complexity
+  - Simple queries (latest prices, basic data) → Direct SQL
+  - Analytical queries (trends, comparisons) → AI-powered SQL agent
+- **⚡ Performance Optimization**:
+  - Query result caching with TTL
+  - Reduced SQL agent calls for better performance
+  - Fallback mechanisms for reliability
+- **📊 Analytics Tracking**: Monitor query patterns and system performance
+- **🔄 Real-time vs Historical Data Separation**: Optimized handling based on query type
 
 ## 🎨 Frontend Features
 

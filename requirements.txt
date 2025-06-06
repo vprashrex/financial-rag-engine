@@ -4,7 +4,7 @@ pandas>=1.5.0
 numpy>=1.24.0
 langchain
 langchain-nvidia-ai-endpoints
-#langchain-google-genai
+langchain-google-genai
 langchain-chroma
 langchain-core
 langchain-community

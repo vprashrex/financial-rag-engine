@@ -460,13 +460,84 @@ class ChatApp {
 
     formatMessage(content) {
         // Basic markdown-like formatting
-        if (!content || typeof content !== 'string') {
-            return 'No content';
-        }
+        if (!content || typeof content !== 'string') return '';
+        
+        // Parse markdown tables
+        content = this.parseMarkdownTables(content);
+        
         return content
             .replace(/\n/g, '<br>')
             .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
             .replace(/\*(.*?)\*/g, '<em>$1</em>');
+    }
+
+    parseMarkdownTables(content) {
+        // Look for patterns that resemble markdown tables
+        const lines = content.split('\n');
+        let inTable = false;
+        let tableLines = [];
+        let result = '';
+        
+        for (let i = 0; i < lines.length; i++) {
+            const line = lines[i];
+            
+            // Check if this line looks like part of a table
+            if (line.trim().startsWith('|') && line.trim().endsWith('|')) {
+                if (!inTable) {
+                    // Start of a new table
+                    inTable = true;
+                    tableLines = [line];
+                } else {
+                    // Continue existing table
+                    tableLines.push(line);
+                }
+            } else if (inTable) {
+                // End of table reached
+                inTable = false;
+                result += this.convertTableLinesToHtml(tableLines) + '\n';
+                result += line + '\n';
+            } else {
+                // Regular line, not in a table
+                result += line + '\n';
+            }
+        }
+        
+        // If we ended while still in a table
+        if (inTable) {
+            result += this.convertTableLinesToHtml(tableLines);
+        }
+        
+        return result;
+    }
+
+    convertTableLinesToHtml(tableLines) {
+        if (tableLines.length < 3) return tableLines.join('\n'); // Not enough rows for a valid table
+        
+        let html = '<table class="markdown-table">';
+        
+        // Process header (first line)
+        const headerCells = tableLines[0].split('|').filter((cell, i, arr) => i > 0 && i < arr.length - 1);
+        html += '<thead><tr>';
+        headerCells.forEach(cell => {
+            html += `<th>${cell.trim()}</th>`;
+        });
+        html += '</tr></thead>';
+        
+        // Skip delimiter row (second line)
+        
+        // Process data rows (third line onwards)
+        html += '<tbody>';
+        for (let i = 2; i < tableLines.length; i++) {
+            const dataCells = tableLines[i].split('|').filter((cell, i, arr) => i > 0 && i < arr.length - 1);
+            html += '<tr>';
+            dataCells.forEach(cell => {
+                html += `<td>${cell.trim()}</td>`;
+            });
+            html += '</tr>';
+        }
+        html += '</tbody></table>';
+        
+        return html;
     }
 
     scrollToBottom() {

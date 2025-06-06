@@ -9,7 +9,8 @@ async def main():
     """
     Main function to test the LLM RAG Agent functionality.
     """
-    chat_id = "1749144027284"  # Contains Walmart 2025 Annual Report.pdf
+    #chat_id = "1749144027284"  # Contains Walmart 2025 Annual Report.pdf
+    chat_id = '999'
 
     # Initialize the GenaiChat instance
     genai_chat = GenaiChat()
@@ -90,6 +91,23 @@ Query: Provide in single line
 Output: Walmart's total liabilities as of January 31, 2025, are $163,402 million.
 
 ** Note ** -> Didn't run agent RAG tool
+
+# ---------------- EXAMPLE 8 -----------------------------
+Query: compare the past  trend of 7days of  microsoft and apple, then tell which stock is the best performing stock
+OUTPUT: Based on the retrieved market data for the past 7 days (from May 28, 2025, to June 5, 2025):
+
+**Microsoft (MSFT):**
+*   On May 28, 2025, MSFT closed at \$457.36.
+*   On June 5, 2025, MSFT closed at \$467.68.
+*   Over this 7-day period, Microsoft's stock increased by **\$10.32**, representing a **2.26% gain**.
+
+**Apple (AAPL):**
+*   On May 28, 2025, AAPL closed at \$200.42.
+*   On June 5, 2025, AAPL closed at \$200.63.
+*   Over this 7-day period, Apple's stock increased by **\$0.21**, representing a **0.10% gain**.
+
+Comparing the two, **Microsoft (MSFT) was the best-performing stock** over the past 7 days, with a gain of 2.26% compared to Apple's 0.10% gain.
+
 """
 
 if __name__ == '__main__':
